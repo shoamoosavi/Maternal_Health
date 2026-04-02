@@ -1,0 +1,28 @@
+variable_label,variable_name,year,category,births
+num_prev_cesareans,Number of Previous Cesareans,2016,Yes,3928846
+num_prev_cesareans,Number of Previous Cesareans,2016,No,10840
+num_prev_cesareans,Number of Previous Cesareans,2016,Unknown or Not Stated,6189
+num_prev_cesareans,Number of Previous Cesareans,2017,Yes,3838893
+num_prev_cesareans,Number of Previous Cesareans,2017,No,10205
+num_prev_cesareans,Number of Previous Cesareans,2017,Unknown or Not Stated,6402
+num_prev_cesareans,Number of Previous Cesareans,2018,Yes,3774944
+num_prev_cesareans,Number of Previous Cesareans,2018,No,9667
+num_prev_cesareans,Number of Previous Cesareans,2018,Unknown or Not Stated,7101
+num_prev_cesareans,Number of Previous Cesareans,2019,Yes,3732339
+num_prev_cesareans,Number of Previous Cesareans,2019,No,8965
+num_prev_cesareans,Number of Previous Cesareans,2019,Unknown or Not Stated,6236
+num_prev_cesareans,Number of Previous Cesareans,2020,Yes,3599374
+num_prev_cesareans,Number of Previous Cesareans,2020,No,8311
+num_prev_cesareans,Number of Previous Cesareans,2020,Unknown or Not Stated,5962
+num_prev_cesareans,Number of Previous Cesareans,2021,Yes,3650683
+num_prev_cesareans,Number of Previous Cesareans,2021,No,7917
+num_prev_cesareans,Number of Previous Cesareans,2021,Unknown or Not Stated,5692
+num_prev_cesareans,Number of Previous Cesareans,2022,Yes,3654426
+num_prev_cesareans,Number of Previous Cesareans,2022,No,8127
+num_prev_cesareans,Number of Previous Cesareans,2022,Unknown or Not Stated,5205
+num_prev_cesareans,Number of Previous Cesareans,2023,Yes,3583303
+num_prev_cesareans,Number of Previous Cesareans,2023,No,8011
+num_prev_cesareans,Number of Previous Cesareans,2023,Unknown or Not Stated,4703
+num_prev_cesareans,Number of Previous Cesareans,2024,Yes,3615867
+num_prev_cesareans,Number of Previous Cesareans,2024,No,7960
+num_prev_cesareans,Number of Previous Cesareans,2024,Unknown or Not Stated,5107

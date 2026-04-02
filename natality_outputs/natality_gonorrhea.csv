@@ -1,0 +1,1175 @@
+variable_label,variable_name,year,geo,category,births
+gonorrhea,Gonorrhea,2016,Alabama (01),Yes,215
+gonorrhea,Gonorrhea,2016,Alabama (01),No,58918
+gonorrhea,Gonorrhea,2016,Alabama (01),Unknown or Not Stated,18
+gonorrhea,Gonorrhea,2016,Alaska (02),Yes,27
+gonorrhea,Gonorrhea,2016,Alaska (02),No,11084
+gonorrhea,Gonorrhea,2016,Alaska (02),Unknown or Not Stated,98
+gonorrhea,Gonorrhea,2016,Arizona (04),Yes,250
+gonorrhea,Gonorrhea,2016,Arizona (04),No,84269
+gonorrhea,Gonorrhea,2016,Arkansas (05),Yes,208
+gonorrhea,Gonorrhea,2016,Arkansas (05),No,38064
+gonorrhea,Gonorrhea,2016,California (06),Yes,379
+gonorrhea,Gonorrhea,2016,California (06),No,488407
+gonorrhea,Gonorrhea,2016,California (06),Unknown or Not Stated,41
+gonorrhea,Gonorrhea,2016,Colorado (08),Yes,103
+gonorrhea,Gonorrhea,2016,Colorado (08),No,66500
+gonorrhea,Gonorrhea,2016,Colorado (08),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2016,Connecticut (09),Yes,32
+gonorrhea,Gonorrhea,2016,Connecticut (09),No,35369
+gonorrhea,Gonorrhea,2016,Connecticut (09),Unknown or Not Stated,614
+gonorrhea,Gonorrhea,2016,Delaware (10),Yes,35
+gonorrhea,Gonorrhea,2016,Delaware (10),No,10957
+gonorrhea,Gonorrhea,2016,District of Columbia (11),Yes,21
+gonorrhea,Gonorrhea,2016,District of Columbia (11),No,9821
+gonorrhea,Gonorrhea,2016,District of Columbia (11),Unknown or Not Stated,16
+gonorrhea,Gonorrhea,2016,Florida (12),Yes,573
+gonorrhea,Gonorrhea,2016,Florida (12),No,221967
+gonorrhea,Gonorrhea,2016,Florida (12),Unknown or Not Stated,2482
+gonorrhea,Gonorrhea,2016,Georgia (13),Yes,550
+gonorrhea,Gonorrhea,2016,Georgia (13),No,128961
+gonorrhea,Gonorrhea,2016,Georgia (13),Unknown or Not Stated,531
+gonorrhea,Gonorrhea,2016,Hawaii (15),Yes,16
+gonorrhea,Gonorrhea,2016,Hawaii (15),No,18043
+gonorrhea,Gonorrhea,2016,Idaho (16),Yes,29
+gonorrhea,Gonorrhea,2016,Idaho (16),No,22381
+gonorrhea,Gonorrhea,2016,Idaho (16),Unknown or Not Stated,72
+gonorrhea,Gonorrhea,2016,Illinois (17),Yes,442
+gonorrhea,Gonorrhea,2016,Illinois (17),No,153680
+gonorrhea,Gonorrhea,2016,Illinois (17),Unknown or Not Stated,323
+gonorrhea,Gonorrhea,2016,Indiana (18),Yes,304
+gonorrhea,Gonorrhea,2016,Indiana (18),No,82778
+gonorrhea,Gonorrhea,2016,Iowa (19),Yes,81
+gonorrhea,Gonorrhea,2016,Iowa (19),No,39321
+gonorrhea,Gonorrhea,2016,Kansas (20),Yes,98
+gonorrhea,Gonorrhea,2016,Kansas (20),No,37955
+gonorrhea,Gonorrhea,2016,Kentucky (21),Yes,199
+gonorrhea,Gonorrhea,2016,Kentucky (21),No,54730
+gonorrhea,Gonorrhea,2016,Kentucky (21),Unknown or Not Stated,520
+gonorrhea,Gonorrhea,2016,Louisiana (22),Yes,462
+gonorrhea,Gonorrhea,2016,Louisiana (22),No,62716
+gonorrhea,Gonorrhea,2016,Maine (23),Yes,10
+gonorrhea,Gonorrhea,2016,Maine (23),No,12614
+gonorrhea,Gonorrhea,2016,Maine (23),Unknown or Not Stated,81
+gonorrhea,Gonorrhea,2016,Maryland (24),Yes,183
+gonorrhea,Gonorrhea,2016,Maryland (24),No,72860
+gonorrhea,Gonorrhea,2016,Maryland (24),Unknown or Not Stated,93
+gonorrhea,Gonorrhea,2016,Massachusetts (25),Yes,81
+gonorrhea,Gonorrhea,2016,Massachusetts (25),No,71130
+gonorrhea,Gonorrhea,2016,Massachusetts (25),Unknown or Not Stated,106
+gonorrhea,Gonorrhea,2016,Michigan (26),Yes,226
+gonorrhea,Gonorrhea,2016,Michigan (26),No,112064
+gonorrhea,Gonorrhea,2016,Michigan (26),Unknown or Not Stated,1025
+gonorrhea,Gonorrhea,2016,Minnesota (27),Yes,105
+gonorrhea,Gonorrhea,2016,Minnesota (27),No,69454
+gonorrhea,Gonorrhea,2016,Minnesota (27),Unknown or Not Stated,190
+gonorrhea,Gonorrhea,2016,Mississippi (28),Yes,226
+gonorrhea,Gonorrhea,2016,Mississippi (28),No,37684
+gonorrhea,Gonorrhea,2016,Mississippi (28),Unknown or Not Stated,18
+gonorrhea,Gonorrhea,2016,Missouri (29),Yes,327
+gonorrhea,Gonorrhea,2016,Missouri (29),No,74376
+gonorrhea,Gonorrhea,2016,Montana (30),Yes,42
+gonorrhea,Gonorrhea,2016,Montana (30),No,12213
+gonorrhea,Gonorrhea,2016,Montana (30),Unknown or Not Stated,27
+gonorrhea,Gonorrhea,2016,Nebraska (31),Yes,76
+gonorrhea,Gonorrhea,2016,Nebraska (31),No,26448
+gonorrhea,Gonorrhea,2016,Nebraska (31),Unknown or Not Stated,65
+gonorrhea,Gonorrhea,2016,Nevada (32),Yes,78
+gonorrhea,Gonorrhea,2016,Nevada (32),No,36179
+gonorrhea,Gonorrhea,2016,New Hampshire (33),No,12151
+gonorrhea,Gonorrhea,2016,New Hampshire (33),Unknown or Not Stated,112
+gonorrhea,Gonorrhea,2016,New Jersey (34),Yes,282
+gonorrhea,Gonorrhea,2016,New Jersey (34),No,102360
+gonorrhea,Gonorrhea,2016,New Mexico (35),Yes,44
+gonorrhea,Gonorrhea,2016,New Mexico (35),No,24456
+gonorrhea,Gonorrhea,2016,New Mexico (35),Unknown or Not Stated,192
+gonorrhea,Gonorrhea,2016,New York (36),Yes,411
+gonorrhea,Gonorrhea,2016,New York (36),No,232838
+gonorrhea,Gonorrhea,2016,New York (36),Unknown or Not Stated,1034
+gonorrhea,Gonorrhea,2016,North Carolina (37),Yes,433
+gonorrhea,Gonorrhea,2016,North Carolina (37),No,120007
+gonorrhea,Gonorrhea,2016,North Carolina (37),Unknown or Not Stated,339
+gonorrhea,Gonorrhea,2016,North Dakota (38),Yes,20
+gonorrhea,Gonorrhea,2016,North Dakota (38),No,11361
+gonorrhea,Gonorrhea,2016,Ohio (39),Yes,755
+gonorrhea,Gonorrhea,2016,Ohio (39),No,137276
+gonorrhea,Gonorrhea,2016,Ohio (39),Unknown or Not Stated,54
+gonorrhea,Gonorrhea,2016,Oklahoma (40),Yes,204
+gonorrhea,Gonorrhea,2016,Oklahoma (40),No,52387
+gonorrhea,Gonorrhea,2016,Oregon (41),Yes,103
+gonorrhea,Gonorrhea,2016,Oregon (41),No,45427
+gonorrhea,Gonorrhea,2016,Pennsylvania (42),Yes,304
+gonorrhea,Gonorrhea,2016,Pennsylvania (42),No,139059
+gonorrhea,Gonorrhea,2016,Pennsylvania (42),Unknown or Not Stated,46
+gonorrhea,Gonorrhea,2016,Rhode Island (44),No,10788
+gonorrhea,Gonorrhea,2016,South Carolina (45),Yes,388
+gonorrhea,Gonorrhea,2016,South Carolina (45),No,56937
+gonorrhea,Gonorrhea,2016,South Carolina (45),Unknown or Not Stated,17
+gonorrhea,Gonorrhea,2016,South Dakota (46),Yes,52
+gonorrhea,Gonorrhea,2016,South Dakota (46),No,12221
+gonorrhea,Gonorrhea,2016,Tennessee (47),Yes,283
+gonorrhea,Gonorrhea,2016,Tennessee (47),No,80511
+gonorrhea,Gonorrhea,2016,Tennessee (47),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2016,Texas (48),Yes,1215
+gonorrhea,Gonorrhea,2016,Texas (48),No,396826
+gonorrhea,Gonorrhea,2016,Utah (49),Yes,47
+gonorrhea,Gonorrhea,2016,Utah (49),No,50416
+gonorrhea,Gonorrhea,2016,Vermont (50),No,5750
+gonorrhea,Gonorrhea,2016,Virginia (51),Yes,267
+gonorrhea,Gonorrhea,2016,Virginia (51),No,102184
+gonorrhea,Gonorrhea,2016,Washington (53),Yes,109
+gonorrhea,Gonorrhea,2016,Washington (53),No,89918
+gonorrhea,Gonorrhea,2016,Washington (53),Unknown or Not Stated,478
+gonorrhea,Gonorrhea,2016,West Virginia (54),Yes,19
+gonorrhea,Gonorrhea,2016,West Virginia (54),No,18785
+gonorrhea,Gonorrhea,2016,West Virginia (54),Unknown or Not Stated,275
+gonorrhea,Gonorrhea,2016,Wisconsin (55),Yes,216
+gonorrhea,Gonorrhea,2016,Wisconsin (55),No,65715
+gonorrhea,Gonorrhea,2016,Wisconsin (55),Unknown or Not Stated,684
+gonorrhea,Gonorrhea,2016,Wyoming (56),No,7380
+gonorrhea,Gonorrhea,2017,Alabama (01),Yes,207
+gonorrhea,Gonorrhea,2017,Alabama (01),No,58719
+gonorrhea,Gonorrhea,2017,Alabama (01),Unknown or Not Stated,15
+gonorrhea,Gonorrhea,2017,Alaska (02),Yes,33
+gonorrhea,Gonorrhea,2017,Alaska (02),No,10293
+gonorrhea,Gonorrhea,2017,Alaska (02),Unknown or Not Stated,119
+gonorrhea,Gonorrhea,2017,Arizona (04),Yes,254
+gonorrhea,Gonorrhea,2017,Arizona (04),No,81612
+gonorrhea,Gonorrhea,2017,Arkansas (05),Yes,235
+gonorrhea,Gonorrhea,2017,Arkansas (05),No,37281
+gonorrhea,Gonorrhea,2017,California (06),Yes,406
+gonorrhea,Gonorrhea,2017,California (06),No,471219
+gonorrhea,Gonorrhea,2017,California (06),Unknown or Not Stated,33
+gonorrhea,Gonorrhea,2017,Colorado (08),Yes,125
+gonorrhea,Gonorrhea,2017,Colorado (08),No,64246
+gonorrhea,Gonorrhea,2017,Colorado (08),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2017,Connecticut (09),Yes,27
+gonorrhea,Gonorrhea,2017,Connecticut (09),No,34947
+gonorrhea,Gonorrhea,2017,Connecticut (09),Unknown or Not Stated,247
+gonorrhea,Gonorrhea,2017,Delaware (10),Yes,41
+gonorrhea,Gonorrhea,2017,Delaware (10),No,10813
+gonorrhea,Gonorrhea,2017,District of Columbia (11),Yes,32
+gonorrhea,Gonorrhea,2017,District of Columbia (11),No,9525
+gonorrhea,Gonorrhea,2017,Florida (12),Yes,666
+gonorrhea,Gonorrhea,2017,Florida (12),No,220549
+gonorrhea,Gonorrhea,2017,Florida (12),Unknown or Not Stated,2415
+gonorrhea,Gonorrhea,2017,Georgia (13),Yes,651
+gonorrhea,Gonorrhea,2017,Georgia (13),No,128056
+gonorrhea,Gonorrhea,2017,Georgia (13),Unknown or Not Stated,536
+gonorrhea,Gonorrhea,2017,Hawaii (15),Yes,16
+gonorrhea,Gonorrhea,2017,Hawaii (15),No,17501
+gonorrhea,Gonorrhea,2017,Idaho (16),Yes,22
+gonorrhea,Gonorrhea,2017,Idaho (16),No,22109
+gonorrhea,Gonorrhea,2017,Idaho (16),Unknown or Not Stated,50
+gonorrhea,Gonorrhea,2017,Illinois (17),Yes,449
+gonorrhea,Gonorrhea,2017,Illinois (17),No,148458
+gonorrhea,Gonorrhea,2017,Illinois (17),Unknown or Not Stated,483
+gonorrhea,Gonorrhea,2017,Indiana (18),Yes,354
+gonorrhea,Gonorrhea,2017,Indiana (18),No,81812
+gonorrhea,Gonorrhea,2017,Iowa (19),Yes,94
+gonorrhea,Gonorrhea,2017,Iowa (19),No,38330
+gonorrhea,Gonorrhea,2017,Kansas (20),Yes,136
+gonorrhea,Gonorrhea,2017,Kansas (20),No,36382
+gonorrhea,Gonorrhea,2017,Kentucky (21),Yes,230
+gonorrhea,Gonorrhea,2017,Kentucky (21),No,54292
+gonorrhea,Gonorrhea,2017,Kentucky (21),Unknown or Not Stated,230
+gonorrhea,Gonorrhea,2017,Louisiana (22),Yes,480
+gonorrhea,Gonorrhea,2017,Louisiana (22),No,60538
+gonorrhea,Gonorrhea,2017,Maine (23),No,12238
+gonorrhea,Gonorrhea,2017,Maine (23),Unknown or Not Stated,51
+gonorrhea,Gonorrhea,2017,Maryland (24),Yes,226
+gonorrhea,Gonorrhea,2017,Maryland (24),No,71373
+gonorrhea,Gonorrhea,2017,Maryland (24),Unknown or Not Stated,42
+gonorrhea,Gonorrhea,2017,Massachusetts (25),Yes,77
+gonorrhea,Gonorrhea,2017,Massachusetts (25),No,70549
+gonorrhea,Gonorrhea,2017,Massachusetts (25),Unknown or Not Stated,76
+gonorrhea,Gonorrhea,2017,Michigan (26),Yes,253
+gonorrhea,Gonorrhea,2017,Michigan (26),No,109722
+gonorrhea,Gonorrhea,2017,Michigan (26),Unknown or Not Stated,1451
+gonorrhea,Gonorrhea,2017,Minnesota (27),Yes,120
+gonorrhea,Gonorrhea,2017,Minnesota (27),No,68240
+gonorrhea,Gonorrhea,2017,Minnesota (27),Unknown or Not Stated,235
+gonorrhea,Gonorrhea,2017,Mississippi (28),Yes,249
+gonorrhea,Gonorrhea,2017,Mississippi (28),No,37096
+gonorrhea,Gonorrhea,2017,Mississippi (28),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2017,Missouri (29),Yes,385
+gonorrhea,Gonorrhea,2017,Missouri (29),No,72648
+gonorrhea,Gonorrhea,2017,Montana (30),Yes,26
+gonorrhea,Gonorrhea,2017,Montana (30),No,11754
+gonorrhea,Gonorrhea,2017,Montana (30),Unknown or Not Stated,19
+gonorrhea,Gonorrhea,2017,Nebraska (31),Yes,98
+gonorrhea,Gonorrhea,2017,Nebraska (31),No,25689
+gonorrhea,Gonorrhea,2017,Nebraska (31),Unknown or Not Stated,34
+gonorrhea,Gonorrhea,2017,Nevada (32),Yes,78
+gonorrhea,Gonorrhea,2017,Nevada (32),No,35676
+gonorrhea,Gonorrhea,2017,New Hampshire (33),Yes,11
+gonorrhea,Gonorrhea,2017,New Hampshire (33),No,12080
+gonorrhea,Gonorrhea,2017,New Hampshire (33),Unknown or Not Stated,25
+gonorrhea,Gonorrhea,2017,New Jersey (34),Yes,268
+gonorrhea,Gonorrhea,2017,New Jersey (34),No,100979
+gonorrhea,Gonorrhea,2017,New Mexico (35),Yes,60
+gonorrhea,Gonorrhea,2017,New Mexico (35),No,23493
+gonorrhea,Gonorrhea,2017,New Mexico (35),Unknown or Not Stated,214
+gonorrhea,Gonorrhea,2017,New York (36),Yes,399
+gonorrhea,Gonorrhea,2017,New York (36),No,228209
+gonorrhea,Gonorrhea,2017,New York (36),Unknown or Not Stated,1129
+gonorrhea,Gonorrhea,2017,North Carolina (37),Yes,410
+gonorrhea,Gonorrhea,2017,North Carolina (37),No,119270
+gonorrhea,Gonorrhea,2017,North Carolina (37),Unknown or Not Stated,445
+gonorrhea,Gonorrhea,2017,North Dakota (38),Yes,21
+gonorrhea,Gonorrhea,2017,North Dakota (38),No,10713
+gonorrhea,Gonorrhea,2017,Ohio (39),Yes,906
+gonorrhea,Gonorrhea,2017,Ohio (39),No,135883
+gonorrhea,Gonorrhea,2017,Ohio (39),Unknown or Not Stated,43
+gonorrhea,Gonorrhea,2017,Oklahoma (40),Yes,208
+gonorrhea,Gonorrhea,2017,Oklahoma (40),No,50004
+gonorrhea,Gonorrhea,2017,Oregon (41),Yes,77
+gonorrhea,Gonorrhea,2017,Oregon (41),No,43553
+gonorrhea,Gonorrhea,2017,Pennsylvania (42),Yes,368
+gonorrhea,Gonorrhea,2017,Pennsylvania (42),No,137325
+gonorrhea,Gonorrhea,2017,Pennsylvania (42),Unknown or Not Stated,52
+gonorrhea,Gonorrhea,2017,Rhode Island (44),No,10634
+gonorrhea,Gonorrhea,2017,South Carolina (45),Yes,378
+gonorrhea,Gonorrhea,2017,South Carolina (45),No,56637
+gonorrhea,Gonorrhea,2017,South Carolina (45),Unknown or Not Stated,14
+gonorrhea,Gonorrhea,2017,South Dakota (46),Yes,64
+gonorrhea,Gonorrhea,2017,South Dakota (46),No,12061
+gonorrhea,Gonorrhea,2017,Tennessee (47),Yes,346
+gonorrhea,Gonorrhea,2017,Tennessee (47),No,80597
+gonorrhea,Gonorrhea,2017,Tennessee (47),Unknown or Not Stated,73
+gonorrhea,Gonorrhea,2017,Texas (48),Yes,1127
+gonorrhea,Gonorrhea,2017,Texas (48),No,380919
+gonorrhea,Gonorrhea,2017,Utah (49),Yes,39
+gonorrhea,Gonorrhea,2017,Utah (49),No,48546
+gonorrhea,Gonorrhea,2017,Vermont (50),No,5654
+gonorrhea,Gonorrhea,2017,Virginia (51),Yes,257
+gonorrhea,Gonorrhea,2017,Virginia (51),No,100125
+gonorrhea,Gonorrhea,2017,Washington (53),Yes,140
+gonorrhea,Gonorrhea,2017,Washington (53),No,86999
+gonorrhea,Gonorrhea,2017,Washington (53),Unknown or Not Stated,423
+gonorrhea,Gonorrhea,2017,West Virginia (54),Yes,32
+gonorrhea,Gonorrhea,2017,West Virginia (54),No,18358
+gonorrhea,Gonorrhea,2017,West Virginia (54),Unknown or Not Stated,285
+gonorrhea,Gonorrhea,2017,Wisconsin (55),Yes,227
+gonorrhea,Gonorrhea,2017,Wisconsin (55),No,63595
+gonorrhea,Gonorrhea,2017,Wisconsin (55),Unknown or Not Stated,1153
+gonorrhea,Gonorrhea,2017,Wyoming (56),No,6894
+gonorrhea,Gonorrhea,2018,Alabama (01),Yes,221
+gonorrhea,Gonorrhea,2018,Alabama (01),No,57528
+gonorrhea,Gonorrhea,2018,Alabama (01),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2018,Alaska (02),Yes,29
+gonorrhea,Gonorrhea,2018,Alaska (02),No,9926
+gonorrhea,Gonorrhea,2018,Alaska (02),Unknown or Not Stated,131
+gonorrhea,Gonorrhea,2018,Arizona (04),Yes,301
+gonorrhea,Gonorrhea,2018,Arizona (04),No,80419
+gonorrhea,Gonorrhea,2018,Arkansas (05),Yes,237
+gonorrhea,Gonorrhea,2018,Arkansas (05),No,36778
+gonorrhea,Gonorrhea,2018,California (06),Yes,504
+gonorrhea,Gonorrhea,2018,California (06),No,454361
+gonorrhea,Gonorrhea,2018,California (06),Unknown or Not Stated,55
+gonorrhea,Gonorrhea,2018,Colorado (08),Yes,160
+gonorrhea,Gonorrhea,2018,Colorado (08),No,62718
+gonorrhea,Gonorrhea,2018,Connecticut (09),Yes,35
+gonorrhea,Gonorrhea,2018,Connecticut (09),No,34602
+gonorrhea,Gonorrhea,2018,Connecticut (09),Unknown or Not Stated,88
+gonorrhea,Gonorrhea,2018,Delaware (10),Yes,50
+gonorrhea,Gonorrhea,2018,Delaware (10),No,10567
+gonorrhea,Gonorrhea,2018,District of Columbia (11),Yes,35
+gonorrhea,Gonorrhea,2018,District of Columbia (11),No,9174
+gonorrhea,Gonorrhea,2018,Florida (12),Yes,674
+gonorrhea,Gonorrhea,2018,Florida (12),No,218478
+gonorrhea,Gonorrhea,2018,Florida (12),Unknown or Not Stated,2390
+gonorrhea,Gonorrhea,2018,Georgia (13),Yes,558
+gonorrhea,Gonorrhea,2018,Georgia (13),No,125111
+gonorrhea,Gonorrhea,2018,Georgia (13),Unknown or Not Stated,503
+gonorrhea,Gonorrhea,2018,Hawaii (15),Yes,12
+gonorrhea,Gonorrhea,2018,Hawaii (15),No,16960
+gonorrhea,Gonorrhea,2018,Idaho (16),Yes,37
+gonorrhea,Gonorrhea,2018,Idaho (16),No,21327
+gonorrhea,Gonorrhea,2018,Idaho (16),Unknown or Not Stated,39
+gonorrhea,Gonorrhea,2018,Illinois (17),Yes,404
+gonorrhea,Gonorrhea,2018,Illinois (17),No,144026
+gonorrhea,Gonorrhea,2018,Illinois (17),Unknown or Not Stated,385
+gonorrhea,Gonorrhea,2018,Indiana (18),Yes,370
+gonorrhea,Gonorrhea,2018,Indiana (18),No,81274
+gonorrhea,Gonorrhea,2018,Iowa (19),Yes,145
+gonorrhea,Gonorrhea,2018,Iowa (19),No,37639
+gonorrhea,Gonorrhea,2018,Kansas (20),Yes,119
+gonorrhea,Gonorrhea,2018,Kansas (20),No,36141
+gonorrhea,Gonorrhea,2018,Kentucky (21),Yes,233
+gonorrhea,Gonorrhea,2018,Kentucky (21),No,53538
+gonorrhea,Gonorrhea,2018,Kentucky (21),Unknown or Not Stated,151
+gonorrhea,Gonorrhea,2018,Louisiana (22),Yes,382
+gonorrhea,Gonorrhea,2018,Louisiana (22),No,59233
+gonorrhea,Gonorrhea,2018,Maine (23),Yes,10
+gonorrhea,Gonorrhea,2018,Maine (23),No,12253
+gonorrhea,Gonorrhea,2018,Maine (23),Unknown or Not Stated,48
+gonorrhea,Gonorrhea,2018,Maryland (24),Yes,209
+gonorrhea,Gonorrhea,2018,Maryland (24),No,70802
+gonorrhea,Gonorrhea,2018,Maryland (24),Unknown or Not Stated,69
+gonorrhea,Gonorrhea,2018,Massachusetts (25),Yes,87
+gonorrhea,Gonorrhea,2018,Massachusetts (25),No,68948
+gonorrhea,Gonorrhea,2018,Massachusetts (25),Unknown or Not Stated,74
+gonorrhea,Gonorrhea,2018,Michigan (26),Yes,216
+gonorrhea,Gonorrhea,2018,Michigan (26),No,108772
+gonorrhea,Gonorrhea,2018,Michigan (26),Unknown or Not Stated,1044
+gonorrhea,Gonorrhea,2018,Minnesota (27),Yes,141
+gonorrhea,Gonorrhea,2018,Minnesota (27),No,67041
+gonorrhea,Gonorrhea,2018,Minnesota (27),Unknown or Not Stated,162
+gonorrhea,Gonorrhea,2018,Mississippi (28),Yes,305
+gonorrhea,Gonorrhea,2018,Mississippi (28),No,36672
+gonorrhea,Gonorrhea,2018,Mississippi (28),Unknown or Not Stated,23
+gonorrhea,Gonorrhea,2018,Missouri (29),Yes,368
+gonorrhea,Gonorrhea,2018,Missouri (29),No,72900
+gonorrhea,Gonorrhea,2018,Montana (30),Yes,25
+gonorrhea,Gonorrhea,2018,Montana (30),No,11477
+gonorrhea,Gonorrhea,2018,Montana (30),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2018,Nebraska (31),Yes,72
+gonorrhea,Gonorrhea,2018,Nebraska (31),No,25374
+gonorrhea,Gonorrhea,2018,Nebraska (31),Unknown or Not Stated,42
+gonorrhea,Gonorrhea,2018,Nevada (32),Yes,78
+gonorrhea,Gonorrhea,2018,Nevada (32),No,35603
+gonorrhea,Gonorrhea,2018,New Hampshire (33),Yes,10
+gonorrhea,Gonorrhea,2018,New Hampshire (33),No,11965
+gonorrhea,Gonorrhea,2018,New Hampshire (33),Unknown or Not Stated,20
+gonorrhea,Gonorrhea,2018,New Jersey (34),Yes,264
+gonorrhea,Gonorrhea,2018,New Jersey (34),No,100949
+gonorrhea,Gonorrhea,2018,New Jersey (34),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2018,New Mexico (35),Yes,56
+gonorrhea,Gonorrhea,2018,New Mexico (35),No,22847
+gonorrhea,Gonorrhea,2018,New Mexico (35),Unknown or Not Stated,136
+gonorrhea,Gonorrhea,2018,New York (36),Yes,366
+gonorrhea,Gonorrhea,2018,New York (36),No,224702
+gonorrhea,Gonorrhea,2018,New York (36),Unknown or Not Stated,1170
+gonorrhea,Gonorrhea,2018,North Carolina (37),Yes,482
+gonorrhea,Gonorrhea,2018,North Carolina (37),No,118026
+gonorrhea,Gonorrhea,2018,North Carolina (37),Unknown or Not Stated,446
+gonorrhea,Gonorrhea,2018,North Dakota (38),Yes,32
+gonorrhea,Gonorrhea,2018,North Dakota (38),No,10603
+gonorrhea,Gonorrhea,2018,Ohio (39),Yes,889
+gonorrhea,Gonorrhea,2018,Ohio (39),No,134222
+gonorrhea,Gonorrhea,2018,Ohio (39),Unknown or Not Stated,23
+gonorrhea,Gonorrhea,2018,Oklahoma (40),Yes,229
+gonorrhea,Gonorrhea,2018,Oklahoma (40),No,49571
+gonorrhea,Gonorrhea,2018,Oregon (41),Yes,98
+gonorrhea,Gonorrhea,2018,Oregon (41),No,42088
+gonorrhea,Gonorrhea,2018,Pennsylvania (42),Yes,503
+gonorrhea,Gonorrhea,2018,Pennsylvania (42),No,135124
+gonorrhea,Gonorrhea,2018,Pennsylvania (42),Unknown or Not Stated,46
+gonorrhea,Gonorrhea,2018,Rhode Island (44),No,10497
+gonorrhea,Gonorrhea,2018,South Carolina (45),Yes,430
+gonorrhea,Gonorrhea,2018,South Carolina (45),No,56227
+gonorrhea,Gonorrhea,2018,South Carolina (45),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2018,South Dakota (46),Yes,66
+gonorrhea,Gonorrhea,2018,South Dakota (46),No,11809
+gonorrhea,Gonorrhea,2018,South Dakota (46),Unknown or Not Stated,18
+gonorrhea,Gonorrhea,2018,Tennessee (47),Yes,385
+gonorrhea,Gonorrhea,2018,Tennessee (47),No,80319
+gonorrhea,Gonorrhea,2018,Tennessee (47),Unknown or Not Stated,47
+gonorrhea,Gonorrhea,2018,Texas (48),Yes,1127
+gonorrhea,Gonorrhea,2018,Texas (48),No,377463
+gonorrhea,Gonorrhea,2018,Texas (48),Unknown or Not Stated,34
+gonorrhea,Gonorrhea,2018,Utah (49),Yes,22
+gonorrhea,Gonorrhea,2018,Utah (49),No,47186
+gonorrhea,Gonorrhea,2018,Vermont (50),Yes,10
+gonorrhea,Gonorrhea,2018,Vermont (50),No,5421
+gonorrhea,Gonorrhea,2018,Virginia (51),Yes,321
+gonorrhea,Gonorrhea,2018,Virginia (51),No,99520
+gonorrhea,Gonorrhea,2018,Washington (53),Yes,132
+gonorrhea,Gonorrhea,2018,Washington (53),No,85951
+gonorrhea,Gonorrhea,2018,West Virginia (54),Yes,49
+gonorrhea,Gonorrhea,2018,West Virginia (54),No,17932
+gonorrhea,Gonorrhea,2018,West Virginia (54),Unknown or Not Stated,267
+gonorrhea,Gonorrhea,2018,Wisconsin (55),Yes,225
+gonorrhea,Gonorrhea,2018,Wisconsin (55),No,62904
+gonorrhea,Gonorrhea,2018,Wisconsin (55),Unknown or Not Stated,969
+gonorrhea,Gonorrhea,2018,Wyoming (56),Yes,12
+gonorrhea,Gonorrhea,2018,Wyoming (56),No,6550
+gonorrhea,Gonorrhea,2019,Alabama (01),Yes,236
+gonorrhea,Gonorrhea,2019,Alabama (01),No,58369
+gonorrhea,Gonorrhea,2019,Alabama (01),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2019,Alaska (02),Yes,33
+gonorrhea,Gonorrhea,2019,Alaska (02),No,9680
+gonorrhea,Gonorrhea,2019,Alaska (02),Unknown or Not Stated,109
+gonorrhea,Gonorrhea,2019,Arizona (04),Yes,307
+gonorrhea,Gonorrhea,2019,Arizona (04),No,79064
+gonorrhea,Gonorrhea,2019,Arkansas (05),Yes,248
+gonorrhea,Gonorrhea,2019,Arkansas (05),No,36314
+gonorrhea,Gonorrhea,2019,California (06),Yes,779
+gonorrhea,Gonorrhea,2019,California (06),No,444767
+gonorrhea,Gonorrhea,2019,California (06),Unknown or Not Stated,933
+gonorrhea,Gonorrhea,2019,Colorado (08),Yes,124
+gonorrhea,Gonorrhea,2019,Colorado (08),No,62737
+gonorrhea,Gonorrhea,2019,Connecticut (09),Yes,46
+gonorrhea,Gonorrhea,2019,Connecticut (09),No,34128
+gonorrhea,Gonorrhea,2019,Connecticut (09),Unknown or Not Stated,84
+gonorrhea,Gonorrhea,2019,Delaware (10),Yes,75
+gonorrhea,Gonorrhea,2019,Delaware (10),No,10441
+gonorrhea,Gonorrhea,2019,Delaware (10),Unknown or Not Stated,46
+gonorrhea,Gonorrhea,2019,District of Columbia (11),Yes,29
+gonorrhea,Gonorrhea,2019,District of Columbia (11),No,9044
+gonorrhea,Gonorrhea,2019,Florida (12),Yes,650
+gonorrhea,Gonorrhea,2019,Florida (12),No,218282
+gonorrhea,Gonorrhea,2019,Florida (12),Unknown or Not Stated,1070
+gonorrhea,Gonorrhea,2019,Georgia (13),Yes,567
+gonorrhea,Gonorrhea,2019,Georgia (13),No,125501
+gonorrhea,Gonorrhea,2019,Georgia (13),Unknown or Not Stated,303
+gonorrhea,Gonorrhea,2019,Hawaii (15),Yes,14
+gonorrhea,Gonorrhea,2019,Hawaii (15),No,16783
+gonorrhea,Gonorrhea,2019,Idaho (16),Yes,24
+gonorrhea,Gonorrhea,2019,Idaho (16),No,21987
+gonorrhea,Gonorrhea,2019,Idaho (16),Unknown or Not Stated,52
+gonorrhea,Gonorrhea,2019,Illinois (17),Yes,447
+gonorrhea,Gonorrhea,2019,Illinois (17),No,139530
+gonorrhea,Gonorrhea,2019,Illinois (17),Unknown or Not Stated,151
+gonorrhea,Gonorrhea,2019,Indiana (18),Yes,336
+gonorrhea,Gonorrhea,2019,Indiana (18),No,80518
+gonorrhea,Gonorrhea,2019,Iowa (19),Yes,147
+gonorrhea,Gonorrhea,2019,Iowa (19),No,37498
+gonorrhea,Gonorrhea,2019,Kansas (20),Yes,141
+gonorrhea,Gonorrhea,2019,Kansas (20),No,35254
+gonorrhea,Gonorrhea,2019,Kentucky (21),Yes,241
+gonorrhea,Gonorrhea,2019,Kentucky (21),No,52617
+gonorrhea,Gonorrhea,2019,Kentucky (21),Unknown or Not Stated,211
+gonorrhea,Gonorrhea,2019,Louisiana (22),Yes,462
+gonorrhea,Gonorrhea,2019,Louisiana (22),No,58477
+gonorrhea,Gonorrhea,2019,Maine (23),Yes,10
+gonorrhea,Gonorrhea,2019,Maine (23),No,11702
+gonorrhea,Gonorrhea,2019,Maine (23),Unknown or Not Stated,67
+gonorrhea,Gonorrhea,2019,Maryland (24),Yes,175
+gonorrhea,Gonorrhea,2019,Maryland (24),No,69972
+gonorrhea,Gonorrhea,2019,Maryland (24),Unknown or Not Stated,31
+gonorrhea,Gonorrhea,2019,Massachusetts (25),Yes,73
+gonorrhea,Gonorrhea,2019,Massachusetts (25),No,68903
+gonorrhea,Gonorrhea,2019,Massachusetts (25),Unknown or Not Stated,141
+gonorrhea,Gonorrhea,2019,Michigan (26),Yes,246
+gonorrhea,Gonorrhea,2019,Michigan (26),No,106161
+gonorrhea,Gonorrhea,2019,Michigan (26),Unknown or Not Stated,1479
+gonorrhea,Gonorrhea,2019,Minnesota (27),Yes,139
+gonorrhea,Gonorrhea,2019,Minnesota (27),No,65675
+gonorrhea,Gonorrhea,2019,Minnesota (27),Unknown or Not Stated,213
+gonorrhea,Gonorrhea,2019,Mississippi (28),Yes,367
+gonorrhea,Gonorrhea,2019,Mississippi (28),No,36248
+gonorrhea,Gonorrhea,2019,Mississippi (28),Unknown or Not Stated,21
+gonorrhea,Gonorrhea,2019,Missouri (29),Yes,368
+gonorrhea,Gonorrhea,2019,Missouri (29),No,71755
+gonorrhea,Gonorrhea,2019,Montana (30),Yes,41
+gonorrhea,Gonorrhea,2019,Montana (30),No,11033
+gonorrhea,Gonorrhea,2019,Nebraska (31),Yes,70
+gonorrhea,Gonorrhea,2019,Nebraska (31),No,24642
+gonorrhea,Gonorrhea,2019,Nebraska (31),Unknown or Not Stated,43
+gonorrhea,Gonorrhea,2019,Nevada (32),Yes,68
+gonorrhea,Gonorrhea,2019,Nevada (32),No,35002
+gonorrhea,Gonorrhea,2019,New Hampshire (33),No,11806
+gonorrhea,Gonorrhea,2019,New Hampshire (33),Unknown or Not Stated,24
+gonorrhea,Gonorrhea,2019,New Jersey (34),Yes,216
+gonorrhea,Gonorrhea,2019,New Jersey (34),No,99359
+gonorrhea,Gonorrhea,2019,New Jersey (34),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2019,New Mexico (35),Yes,66
+gonorrhea,Gonorrhea,2019,New Mexico (35),No,22786
+gonorrhea,Gonorrhea,2019,New Mexico (35),Unknown or Not Stated,108
+gonorrhea,Gonorrhea,2019,New York (36),Yes,380
+gonorrhea,Gonorrhea,2019,New York (36),No,219871
+gonorrhea,Gonorrhea,2019,New York (36),Unknown or Not Stated,1288
+gonorrhea,Gonorrhea,2019,North Carolina (37),Yes,539
+gonorrhea,Gonorrhea,2019,North Carolina (37),No,117575
+gonorrhea,Gonorrhea,2019,North Carolina (37),Unknown or Not Stated,611
+gonorrhea,Gonorrhea,2019,North Dakota (38),Yes,39
+gonorrhea,Gonorrhea,2019,North Dakota (38),No,10415
+gonorrhea,Gonorrhea,2019,Ohio (39),Yes,860
+gonorrhea,Gonorrhea,2019,Ohio (39),No,133548
+gonorrhea,Gonorrhea,2019,Ohio (39),Unknown or Not Stated,53
+gonorrhea,Gonorrhea,2019,Oklahoma (40),Yes,178
+gonorrhea,Gonorrhea,2019,Oklahoma (40),No,48959
+gonorrhea,Gonorrhea,2019,Oregon (41),Yes,90
+gonorrhea,Gonorrhea,2019,Oregon (41),No,41765
+gonorrhea,Gonorrhea,2019,Pennsylvania (42),Yes,373
+gonorrhea,Gonorrhea,2019,Pennsylvania (42),No,133809
+gonorrhea,Gonorrhea,2019,Pennsylvania (42),Unknown or Not Stated,48
+gonorrhea,Gonorrhea,2019,Rhode Island (44),No,10167
+gonorrhea,Gonorrhea,2019,South Carolina (45),Yes,376
+gonorrhea,Gonorrhea,2019,South Carolina (45),No,56649
+gonorrhea,Gonorrhea,2019,South Carolina (45),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2019,South Dakota (46),Yes,77
+gonorrhea,Gonorrhea,2019,South Dakota (46),No,11367
+gonorrhea,Gonorrhea,2019,Tennessee (47),Yes,403
+gonorrhea,Gonorrhea,2019,Tennessee (47),No,80036
+gonorrhea,Gonorrhea,2019,Tennessee (47),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2019,Texas (48),Yes,1194
+gonorrhea,Gonorrhea,2019,Texas (48),No,375562
+gonorrhea,Gonorrhea,2019,Texas (48),Unknown or Not Stated,843
+gonorrhea,Gonorrhea,2019,Utah (49),Yes,25
+gonorrhea,Gonorrhea,2019,Utah (49),No,46800
+gonorrhea,Gonorrhea,2019,Vermont (50),No,5358
+gonorrhea,Gonorrhea,2019,Virginia (51),Yes,281
+gonorrhea,Gonorrhea,2019,Virginia (51),No,97129
+gonorrhea,Gonorrhea,2019,Virginia (51),Unknown or Not Stated,19
+gonorrhea,Gonorrhea,2019,Washington (53),Yes,138
+gonorrhea,Gonorrhea,2019,Washington (53),No,84726
+gonorrhea,Gonorrhea,2019,Washington (53),Unknown or Not Stated,31
+gonorrhea,Gonorrhea,2019,West Virginia (54),Yes,44
+gonorrhea,Gonorrhea,2019,West Virginia (54),No,17506
+gonorrhea,Gonorrhea,2019,West Virginia (54),Unknown or Not Stated,586
+gonorrhea,Gonorrhea,2019,Wisconsin (55),Yes,220
+gonorrhea,Gonorrhea,2019,Wisconsin (55),No,62247
+gonorrhea,Gonorrhea,2019,Wisconsin (55),Unknown or Not Stated,803
+gonorrhea,Gonorrhea,2019,Wyoming (56),Yes,11
+gonorrhea,Gonorrhea,2019,Wyoming (56),No,6554
+gonorrhea,Gonorrhea,2020,Alabama (01),Yes,305
+gonorrhea,Gonorrhea,2020,Alabama (01),No,57337
+gonorrhea,Gonorrhea,2020,Alaska (02),Yes,30
+gonorrhea,Gonorrhea,2020,Alaska (02),No,9352
+gonorrhea,Gonorrhea,2020,Alaska (02),Unknown or Not Stated,87
+gonorrhea,Gonorrhea,2020,Arizona (04),Yes,288
+gonorrhea,Gonorrhea,2020,Arizona (04),No,76655
+gonorrhea,Gonorrhea,2020,Arkansas (05),Yes,270
+gonorrhea,Gonorrhea,2020,Arkansas (05),No,34979
+gonorrhea,Gonorrhea,2020,California (06),Yes,719
+gonorrhea,Gonorrhea,2020,California (06),No,418124
+gonorrhea,Gonorrhea,2020,California (06),Unknown or Not Stated,1416
+gonorrhea,Gonorrhea,2020,Colorado (08),Yes,155
+gonorrhea,Gonorrhea,2020,Colorado (08),No,61328
+gonorrhea,Gonorrhea,2020,Colorado (08),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2020,Connecticut (09),Yes,40
+gonorrhea,Gonorrhea,2020,Connecticut (09),No,33330
+gonorrhea,Gonorrhea,2020,Connecticut (09),Unknown or Not Stated,90
+gonorrhea,Gonorrhea,2020,Delaware (10),Yes,37
+gonorrhea,Gonorrhea,2020,Delaware (10),No,10236
+gonorrhea,Gonorrhea,2020,Delaware (10),Unknown or Not Stated,119
+gonorrhea,Gonorrhea,2020,District of Columbia (11),Yes,43
+gonorrhea,Gonorrhea,2020,District of Columbia (11),No,8826
+gonorrhea,Gonorrhea,2020,Florida (12),Yes,691
+gonorrhea,Gonorrhea,2020,Florida (12),No,208158
+gonorrhea,Gonorrhea,2020,Florida (12),Unknown or Not Stated,822
+gonorrhea,Gonorrhea,2020,Georgia (13),Yes,689
+gonorrhea,Gonorrhea,2020,Georgia (13),No,121485
+gonorrhea,Gonorrhea,2020,Georgia (13),Unknown or Not Stated,299
+gonorrhea,Gonorrhea,2020,Hawaii (15),Yes,19
+gonorrhea,Gonorrhea,2020,Hawaii (15),No,15765
+gonorrhea,Gonorrhea,2020,Idaho (16),Yes,27
+gonorrhea,Gonorrhea,2020,Idaho (16),No,21471
+gonorrhea,Gonorrhea,2020,Idaho (16),Unknown or Not Stated,35
+gonorrhea,Gonorrhea,2020,Illinois (17),Yes,489
+gonorrhea,Gonorrhea,2020,Illinois (17),No,132586
+gonorrhea,Gonorrhea,2020,Illinois (17),Unknown or Not Stated,223
+gonorrhea,Gonorrhea,2020,Indiana (18),Yes,301
+gonorrhea,Gonorrhea,2020,Indiana (18),No,78265
+gonorrhea,Gonorrhea,2020,Indiana (18),Unknown or Not Stated,50
+gonorrhea,Gonorrhea,2020,Iowa (19),Yes,139
+gonorrhea,Gonorrhea,2020,Iowa (19),No,35972
+gonorrhea,Gonorrhea,2020,Kansas (20),Yes,112
+gonorrhea,Gonorrhea,2020,Kansas (20),No,34262
+gonorrhea,Gonorrhea,2020,Kentucky (21),Yes,232
+gonorrhea,Gonorrhea,2020,Kentucky (21),No,50788
+gonorrhea,Gonorrhea,2020,Kentucky (21),Unknown or Not Stated,648
+gonorrhea,Gonorrhea,2020,Louisiana (22),Yes,458
+gonorrhea,Gonorrhea,2020,Louisiana (22),No,56868
+gonorrhea,Gonorrhea,2020,Maine (23),No,11374
+gonorrhea,Gonorrhea,2020,Maine (23),Unknown or Not Stated,163
+gonorrhea,Gonorrhea,2020,Maryland (24),Yes,203
+gonorrhea,Gonorrhea,2020,Maryland (24),No,68324
+gonorrhea,Gonorrhea,2020,Maryland (24),Unknown or Not Stated,27
+gonorrhea,Gonorrhea,2020,Massachusetts (25),Yes,85
+gonorrhea,Gonorrhea,2020,Massachusetts (25),No,66108
+gonorrhea,Gonorrhea,2020,Massachusetts (25),Unknown or Not Stated,235
+gonorrhea,Gonorrhea,2020,Michigan (26),Yes,353
+gonorrhea,Gonorrhea,2020,Michigan (26),No,102343
+gonorrhea,Gonorrhea,2020,Michigan (26),Unknown or Not Stated,1378
+gonorrhea,Gonorrhea,2020,Minnesota (27),Yes,169
+gonorrhea,Gonorrhea,2020,Minnesota (27),No,63096
+gonorrhea,Gonorrhea,2020,Minnesota (27),Unknown or Not Stated,178
+gonorrhea,Gonorrhea,2020,Mississippi (28),Yes,362
+gonorrhea,Gonorrhea,2020,Mississippi (28),No,35103
+gonorrhea,Gonorrhea,2020,Missouri (29),Yes,370
+gonorrhea,Gonorrhea,2020,Missouri (29),No,68911
+gonorrhea,Gonorrhea,2020,Montana (30),Yes,43
+gonorrhea,Gonorrhea,2020,Montana (30),No,10747
+gonorrhea,Gonorrhea,2020,Nebraska (31),Yes,80
+gonorrhea,Gonorrhea,2020,Nebraska (31),No,24117
+gonorrhea,Gonorrhea,2020,Nebraska (31),Unknown or Not Stated,94
+gonorrhea,Gonorrhea,2020,Nevada (32),Yes,66
+gonorrhea,Gonorrhea,2020,Nevada (32),No,33586
+gonorrhea,Gonorrhea,2020,New Hampshire (33),No,11753
+gonorrhea,Gonorrhea,2020,New Hampshire (33),Unknown or Not Stated,33
+gonorrhea,Gonorrhea,2020,New Jersey (34),Yes,215
+gonorrhea,Gonorrhea,2020,New Jersey (34),No,97729
+gonorrhea,Gonorrhea,2020,New Jersey (34),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2020,New Mexico (35),Yes,46
+gonorrhea,Gonorrhea,2020,New Mexico (35),No,21704
+gonorrhea,Gonorrhea,2020,New Mexico (35),Unknown or Not Stated,153
+gonorrhea,Gonorrhea,2020,New York (36),Yes,455
+gonorrhea,Gonorrhea,2020,New York (36),No,207695
+gonorrhea,Gonorrhea,2020,New York (36),Unknown or Not Stated,1188
+gonorrhea,Gonorrhea,2020,North Carolina (37),Yes,614
+gonorrhea,Gonorrhea,2020,North Carolina (37),No,114650
+gonorrhea,Gonorrhea,2020,North Carolina (37),Unknown or Not Stated,1466
+gonorrhea,Gonorrhea,2020,North Dakota (38),Yes,32
+gonorrhea,Gonorrhea,2020,North Dakota (38),No,10027
+gonorrhea,Gonorrhea,2020,Ohio (39),Yes,836
+gonorrhea,Gonorrhea,2020,Ohio (39),No,128331
+gonorrhea,Gonorrhea,2020,Ohio (39),Unknown or Not Stated,24
+gonorrhea,Gonorrhea,2020,Oklahoma (40),Yes,210
+gonorrhea,Gonorrhea,2020,Oklahoma (40),No,47411
+gonorrhea,Gonorrhea,2020,Oregon (41),Yes,87
+gonorrhea,Gonorrhea,2020,Oregon (41),No,39730
+gonorrhea,Gonorrhea,2020,Pennsylvania (42),Yes,327
+gonorrhea,Gonorrhea,2020,Pennsylvania (42),No,130298
+gonorrhea,Gonorrhea,2020,Pennsylvania (42),Unknown or Not Stated,68
+gonorrhea,Gonorrhea,2020,Rhode Island (44),Yes,10
+gonorrhea,Gonorrhea,2020,Rhode Island (44),No,10084
+gonorrhea,Gonorrhea,2020,South Carolina (45),Yes,369
+gonorrhea,Gonorrhea,2020,South Carolina (45),No,55315
+gonorrhea,Gonorrhea,2020,South Carolina (45),Unknown or Not Stated,20
+gonorrhea,Gonorrhea,2020,South Dakota (46),Yes,83
+gonorrhea,Gonorrhea,2020,South Dakota (46),No,10870
+gonorrhea,Gonorrhea,2020,Tennessee (47),Yes,445
+gonorrhea,Gonorrhea,2020,Tennessee (47),No,78239
+gonorrhea,Gonorrhea,2020,Texas (48),Yes,1101
+gonorrhea,Gonorrhea,2020,Texas (48),No,366273
+gonorrhea,Gonorrhea,2020,Texas (48),Unknown or Not Stated,816
+gonorrhea,Gonorrhea,2020,Utah (49),Yes,28
+gonorrhea,Gonorrhea,2020,Utah (49),No,45674
+gonorrhea,Gonorrhea,2020,Vermont (50),No,5123
+gonorrhea,Gonorrhea,2020,Virginia (51),Yes,296
+gonorrhea,Gonorrhea,2020,Virginia (51),No,94428
+gonorrhea,Gonorrhea,2020,Virginia (51),Unknown or Not Stated,25
+gonorrhea,Gonorrhea,2020,Washington (53),Yes,148
+gonorrhea,Gonorrhea,2020,Washington (53),No,82407
+gonorrhea,Gonorrhea,2020,Washington (53),Unknown or Not Stated,531
+gonorrhea,Gonorrhea,2020,West Virginia (54),Yes,36
+gonorrhea,Gonorrhea,2020,West Virginia (54),No,16844
+gonorrhea,Gonorrhea,2020,West Virginia (54),Unknown or Not Stated,443
+gonorrhea,Gonorrhea,2020,Wisconsin (55),Yes,239
+gonorrhea,Gonorrhea,2020,Wisconsin (55),No,59643
+gonorrhea,Gonorrhea,2020,Wisconsin (55),Unknown or Not Stated,712
+gonorrhea,Gonorrhea,2020,Wyoming (56),Yes,10
+gonorrhea,Gonorrhea,2020,Wyoming (56),No,6117
+gonorrhea,Gonorrhea,2021,Alabama (01),Yes,376
+gonorrhea,Gonorrhea,2021,Alabama (01),No,57670
+gonorrhea,Gonorrhea,2021,Alaska (02),Yes,39
+gonorrhea,Gonorrhea,2021,Alaska (02),No,9264
+gonorrhea,Gonorrhea,2021,Alaska (02),Unknown or Not Stated,64
+gonorrhea,Gonorrhea,2021,Arizona (04),Yes,270
+gonorrhea,Gonorrhea,2021,Arizona (04),No,77640
+gonorrhea,Gonorrhea,2021,Arkansas (05),Yes,261
+gonorrhea,Gonorrhea,2021,Arkansas (05),No,35701
+gonorrhea,Gonorrhea,2021,California (06),Yes,713
+gonorrhea,Gonorrhea,2021,California (06),No,418074
+gonorrhea,Gonorrhea,2021,California (06),Unknown or Not Stated,1821
+gonorrhea,Gonorrhea,2021,Colorado (08),Yes,170
+gonorrhea,Gonorrhea,2021,Colorado (08),No,62774
+gonorrhea,Gonorrhea,2021,Connecticut (09),Yes,68
+gonorrhea,Gonorrhea,2021,Connecticut (09),No,35572
+gonorrhea,Gonorrhea,2021,Connecticut (09),Unknown or Not Stated,30
+gonorrhea,Gonorrhea,2021,Delaware (10),Yes,29
+gonorrhea,Gonorrhea,2021,Delaware (10),No,10364
+gonorrhea,Gonorrhea,2021,Delaware (10),Unknown or Not Stated,89
+gonorrhea,Gonorrhea,2021,District of Columbia (11),Yes,37
+gonorrhea,Gonorrhea,2021,District of Columbia (11),No,8517
+gonorrhea,Gonorrhea,2021,District of Columbia (11),Unknown or Not Stated,106
+gonorrhea,Gonorrhea,2021,Florida (12),Yes,778
+gonorrhea,Gonorrhea,2021,Florida (12),No,214204
+gonorrhea,Gonorrhea,2021,Florida (12),Unknown or Not Stated,1278
+gonorrhea,Gonorrhea,2021,Georgia (13),Yes,736
+gonorrhea,Gonorrhea,2021,Georgia (13),No,123026
+gonorrhea,Gonorrhea,2021,Georgia (13),Unknown or Not Stated,311
+gonorrhea,Gonorrhea,2021,Hawaii (15),Yes,10
+gonorrhea,Gonorrhea,2021,Hawaii (15),No,15610
+gonorrhea,Gonorrhea,2021,Idaho (16),Yes,23
+gonorrhea,Gonorrhea,2021,Idaho (16),No,22331
+gonorrhea,Gonorrhea,2021,Idaho (16),Unknown or Not Stated,73
+gonorrhea,Gonorrhea,2021,Illinois (17),Yes,524
+gonorrhea,Gonorrhea,2021,Illinois (17),No,131514
+gonorrhea,Gonorrhea,2021,Illinois (17),Unknown or Not Stated,151
+gonorrhea,Gonorrhea,2021,Indiana (18),Yes,387
+gonorrhea,Gonorrhea,2021,Indiana (18),No,77143
+gonorrhea,Gonorrhea,2021,Indiana (18),Unknown or Not Stated,2416
+gonorrhea,Gonorrhea,2021,Iowa (19),Yes,185
+gonorrhea,Gonorrhea,2021,Iowa (19),No,36637
+gonorrhea,Gonorrhea,2021,Iowa (19),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2021,Kansas (20),Yes,132
+gonorrhea,Gonorrhea,2021,Kansas (20),No,34570
+gonorrhea,Gonorrhea,2021,Kentucky (21),Yes,255
+gonorrhea,Gonorrhea,2021,Kentucky (21),No,51661
+gonorrhea,Gonorrhea,2021,Kentucky (21),Unknown or Not Stated,298
+gonorrhea,Gonorrhea,2021,Louisiana (22),Yes,569
+gonorrhea,Gonorrhea,2021,Louisiana (22),No,56861
+gonorrhea,Gonorrhea,2021,Maine (23),No,11951
+gonorrhea,Gonorrhea,2021,Maine (23),Unknown or Not Stated,47
+gonorrhea,Gonorrhea,2021,Maryland (24),Yes,186
+gonorrhea,Gonorrhea,2021,Maryland (24),No,68080
+gonorrhea,Gonorrhea,2021,Maryland (24),Unknown or Not Stated,19
+gonorrhea,Gonorrhea,2021,Massachusetts (25),Yes,109
+gonorrhea,Gonorrhea,2021,Massachusetts (25),No,68347
+gonorrhea,Gonorrhea,2021,Massachusetts (25),Unknown or Not Stated,681
+gonorrhea,Gonorrhea,2021,Michigan (26),Yes,347
+gonorrhea,Gonorrhea,2021,Michigan (26),No,103392
+gonorrhea,Gonorrhea,2021,Michigan (26),Unknown or Not Stated,1241
+gonorrhea,Gonorrhea,2021,Minnesota (27),Yes,201
+gonorrhea,Gonorrhea,2021,Minnesota (27),No,64051
+gonorrhea,Gonorrhea,2021,Minnesota (27),Unknown or Not Stated,173
+gonorrhea,Gonorrhea,2021,Mississippi (28),Yes,382
+gonorrhea,Gonorrhea,2021,Mississippi (28),No,34764
+gonorrhea,Gonorrhea,2021,Mississippi (28),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2021,Missouri (29),Yes,371
+gonorrhea,Gonorrhea,2021,Missouri (29),No,69081
+gonorrhea,Gonorrhea,2021,Montana (30),Yes,33
+gonorrhea,Gonorrhea,2021,Montana (30),No,11197
+gonorrhea,Gonorrhea,2021,Nebraska (31),Yes,83
+gonorrhea,Gonorrhea,2021,Nebraska (31),No,24462
+gonorrhea,Gonorrhea,2021,Nebraska (31),Unknown or Not Stated,64
+gonorrhea,Gonorrhea,2021,Nevada (32),Yes,60
+gonorrhea,Gonorrhea,2021,Nevada (32),No,33623
+gonorrhea,Gonorrhea,2021,New Hampshire (33),No,12586
+gonorrhea,Gonorrhea,2021,New Hampshire (33),Unknown or Not Stated,33
+gonorrhea,Gonorrhea,2021,New Jersey (34),Yes,206
+gonorrhea,Gonorrhea,2021,New Jersey (34),No,100850
+gonorrhea,Gonorrhea,2021,New Jersey (34),Unknown or Not Stated,441
+gonorrhea,Gonorrhea,2021,New Mexico (35),Yes,57
+gonorrhea,Gonorrhea,2021,New Mexico (35),No,21219
+gonorrhea,Gonorrhea,2021,New Mexico (35),Unknown or Not Stated,115
+gonorrhea,Gonorrhea,2021,New York (36),Yes,556
+gonorrhea,Gonorrhea,2021,New York (36),No,208787
+gonorrhea,Gonorrhea,2021,New York (36),Unknown or Not Stated,1399
+gonorrhea,Gonorrhea,2021,North Carolina (37),Yes,621
+gonorrhea,Gonorrhea,2021,North Carolina (37),No,119138
+gonorrhea,Gonorrhea,2021,North Carolina (37),Unknown or Not Stated,707
+gonorrhea,Gonorrhea,2021,North Dakota (38),Yes,44
+gonorrhea,Gonorrhea,2021,North Dakota (38),No,10068
+gonorrhea,Gonorrhea,2021,Ohio (39),Yes,940
+gonorrhea,Gonorrhea,2021,Ohio (39),No,128757
+gonorrhea,Gonorrhea,2021,Ohio (39),Unknown or Not Stated,94
+gonorrhea,Gonorrhea,2021,Oklahoma (40),Yes,229
+gonorrhea,Gonorrhea,2021,Oklahoma (40),No,48170
+gonorrhea,Gonorrhea,2021,Oklahoma (40),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2021,Oregon (41),Yes,99
+gonorrhea,Gonorrhea,2021,Oregon (41),No,40815
+gonorrhea,Gonorrhea,2021,Pennsylvania (42),Yes,382
+gonorrhea,Gonorrhea,2021,Pennsylvania (42),No,131848
+gonorrhea,Gonorrhea,2021,Pennsylvania (42),Unknown or Not Stated,392
+gonorrhea,Gonorrhea,2021,Rhode Island (44),Yes,13
+gonorrhea,Gonorrhea,2021,Rhode Island (44),No,10448
+gonorrhea,Gonorrhea,2021,South Carolina (45),Yes,367
+gonorrhea,Gonorrhea,2021,South Carolina (45),No,56697
+gonorrhea,Gonorrhea,2021,South Carolina (45),Unknown or Not Stated,121
+gonorrhea,Gonorrhea,2021,South Dakota (46),Yes,119
+gonorrhea,Gonorrhea,2021,South Dakota (46),No,11246
+gonorrhea,Gonorrhea,2021,Tennessee (47),Yes,543
+gonorrhea,Gonorrhea,2021,Tennessee (47),No,81163
+gonorrhea,Gonorrhea,2021,Tennessee (47),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2021,Texas (48),Yes,1136
+gonorrhea,Gonorrhea,2021,Texas (48),No,371629
+gonorrhea,Gonorrhea,2021,Texas (48),Unknown or Not Stated,829
+gonorrhea,Gonorrhea,2021,Utah (49),Yes,27
+gonorrhea,Gonorrhea,2021,Utah (49),No,46685
+gonorrhea,Gonorrhea,2021,Vermont (50),No,5379
+gonorrhea,Gonorrhea,2021,Virginia (51),Yes,304
+gonorrhea,Gonorrhea,2021,Virginia (51),No,95499
+gonorrhea,Gonorrhea,2021,Virginia (51),Unknown or Not Stated,22
+gonorrhea,Gonorrhea,2021,Washington (53),Yes,145
+gonorrhea,Gonorrhea,2021,Washington (53),No,82801
+gonorrhea,Gonorrhea,2021,Washington (53),Unknown or Not Stated,965
+gonorrhea,Gonorrhea,2021,West Virginia (54),Yes,43
+gonorrhea,Gonorrhea,2021,West Virginia (54),No,16877
+gonorrhea,Gonorrhea,2021,West Virginia (54),Unknown or Not Stated,278
+gonorrhea,Gonorrhea,2021,Wisconsin (55),Yes,240
+gonorrhea,Gonorrhea,2021,Wisconsin (55),No,61045
+gonorrhea,Gonorrhea,2021,Wisconsin (55),Unknown or Not Stated,496
+gonorrhea,Gonorrhea,2021,Wyoming (56),Yes,12
+gonorrhea,Gonorrhea,2021,Wyoming (56),No,6223
+gonorrhea,Gonorrhea,2022,Alabama (01),Yes,265
+gonorrhea,Gonorrhea,2022,Alabama (01),No,57881
+gonorrhea,Gonorrhea,2022,Alaska (02),Yes,50
+gonorrhea,Gonorrhea,2022,Alaska (02),No,9243
+gonorrhea,Gonorrhea,2022,Alaska (02),Unknown or Not Stated,66
+gonorrhea,Gonorrhea,2022,Arizona (04),Yes,238
+gonorrhea,Gonorrhea,2022,Arizona (04),No,78305
+gonorrhea,Gonorrhea,2022,Arkansas (05),Yes,184
+gonorrhea,Gonorrhea,2022,Arkansas (05),No,35283
+gonorrhea,Gonorrhea,2022,California (06),Yes,602
+gonorrhea,Gonorrhea,2022,California (06),No,416651
+gonorrhea,Gonorrhea,2022,California (06),Unknown or Not Stated,1851
+gonorrhea,Gonorrhea,2022,Colorado (08),Yes,167
+gonorrhea,Gonorrhea,2022,Colorado (08),No,62203
+gonorrhea,Gonorrhea,2022,Colorado (08),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2022,Connecticut (09),Yes,41
+gonorrhea,Gonorrhea,2022,Connecticut (09),No,35254
+gonorrhea,Gonorrhea,2022,Connecticut (09),Unknown or Not Stated,37
+gonorrhea,Gonorrhea,2022,Delaware (10),Yes,28
+gonorrhea,Gonorrhea,2022,Delaware (10),No,10701
+gonorrhea,Gonorrhea,2022,Delaware (10),Unknown or Not Stated,87
+gonorrhea,Gonorrhea,2022,District of Columbia (11),Yes,25
+gonorrhea,Gonorrhea,2022,District of Columbia (11),No,8037
+gonorrhea,Gonorrhea,2022,District of Columbia (11),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2022,Florida (12),Yes,717
+gonorrhea,Gonorrhea,2022,Florida (12),No,222283
+gonorrhea,Gonorrhea,2022,Florida (12),Unknown or Not Stated,1433
+gonorrhea,Gonorrhea,2022,Georgia (13),Yes,614
+gonorrhea,Gonorrhea,2022,Georgia (13),No,125174
+gonorrhea,Gonorrhea,2022,Georgia (13),Unknown or Not Stated,342
+gonorrhea,Gonorrhea,2022,Hawaii (15),Yes,18
+gonorrhea,Gonorrhea,2022,Hawaii (15),No,15517
+gonorrhea,Gonorrhea,2022,Idaho (16),Yes,17
+gonorrhea,Gonorrhea,2022,Idaho (16),No,22291
+gonorrhea,Gonorrhea,2022,Idaho (16),Unknown or Not Stated,83
+gonorrhea,Gonorrhea,2022,Illinois (17),Yes,397
+gonorrhea,Gonorrhea,2022,Illinois (17),No,127778
+gonorrhea,Gonorrhea,2022,Illinois (17),Unknown or Not Stated,175
+gonorrhea,Gonorrhea,2022,Indiana (18),Yes,263
+gonorrhea,Gonorrhea,2022,Indiana (18),No,77547
+gonorrhea,Gonorrhea,2022,Indiana (18),Unknown or Not Stated,1839
+gonorrhea,Gonorrhea,2022,Iowa (19),Yes,103
+gonorrhea,Gonorrhea,2022,Iowa (19),No,36389
+gonorrhea,Gonorrhea,2022,Iowa (19),Unknown or Not Stated,14
+gonorrhea,Gonorrhea,2022,Kansas (20),Yes,115
+gonorrhea,Gonorrhea,2022,Kansas (20),No,34286
+gonorrhea,Gonorrhea,2022,Kentucky (21),Yes,199
+gonorrhea,Gonorrhea,2022,Kentucky (21),No,51605
+gonorrhea,Gonorrhea,2022,Kentucky (21),Unknown or Not Stated,511
+gonorrhea,Gonorrhea,2022,Louisiana (22),Yes,414
+gonorrhea,Gonorrhea,2022,Louisiana (22),No,56065
+gonorrhea,Gonorrhea,2022,Maine (23),Yes,11
+gonorrhea,Gonorrhea,2022,Maine (23),No,12035
+gonorrhea,Gonorrhea,2022,Maine (23),Unknown or Not Stated,47
+gonorrhea,Gonorrhea,2022,Maryland (24),Yes,177
+gonorrhea,Gonorrhea,2022,Maryland (24),No,68581
+gonorrhea,Gonorrhea,2022,Maryland (24),Unknown or Not Stated,24
+gonorrhea,Gonorrhea,2022,Massachusetts (25),Yes,107
+gonorrhea,Gonorrhea,2022,Massachusetts (25),No,68305
+gonorrhea,Gonorrhea,2022,Massachusetts (25),Unknown or Not Stated,172
+gonorrhea,Gonorrhea,2022,Michigan (26),Yes,241
+gonorrhea,Gonorrhea,2022,Michigan (26),No,100627
+gonorrhea,Gonorrhea,2022,Michigan (26),Unknown or Not Stated,1453
+gonorrhea,Gonorrhea,2022,Minnesota (27),Yes,147
+gonorrhea,Gonorrhea,2022,Minnesota (27),No,63770
+gonorrhea,Gonorrhea,2022,Minnesota (27),Unknown or Not Stated,98
+gonorrhea,Gonorrhea,2022,Mississippi (28),Yes,335
+gonorrhea,Gonorrhea,2022,Mississippi (28),No,34327
+gonorrhea,Gonorrhea,2022,Mississippi (28),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2022,Missouri (29),Yes,331
+gonorrhea,Gonorrhea,2022,Missouri (29),No,68652
+gonorrhea,Gonorrhea,2022,Montana (30),Yes,18
+gonorrhea,Gonorrhea,2022,Montana (30),No,11154
+gonorrhea,Gonorrhea,2022,Nebraska (31),Yes,57
+gonorrhea,Gonorrhea,2022,Nebraska (31),No,24230
+gonorrhea,Gonorrhea,2022,Nebraska (31),Unknown or Not Stated,58
+gonorrhea,Gonorrhea,2022,Nevada (32),Yes,73
+gonorrhea,Gonorrhea,2022,Nevada (32),No,33117
+gonorrhea,Gonorrhea,2022,New Hampshire (33),No,12036
+gonorrhea,Gonorrhea,2022,New Hampshire (33),Unknown or Not Stated,32
+gonorrhea,Gonorrhea,2022,New Jersey (34),Yes,163
+gonorrhea,Gonorrhea,2022,New Jersey (34),No,101756
+gonorrhea,Gonorrhea,2022,New Jersey (34),Unknown or Not Stated,974
+gonorrhea,Gonorrhea,2022,New Mexico (35),Yes,63
+gonorrhea,Gonorrhea,2022,New Mexico (35),No,21425
+gonorrhea,Gonorrhea,2022,New Mexico (35),Unknown or Not Stated,126
+gonorrhea,Gonorrhea,2022,New York (36),Yes,394
+gonorrhea,Gonorrhea,2022,New York (36),No,206233
+gonorrhea,Gonorrhea,2022,New York (36),Unknown or Not Stated,1147
+gonorrhea,Gonorrhea,2022,North Carolina (37),Yes,528
+gonorrhea,Gonorrhea,2022,North Carolina (37),No,118857
+gonorrhea,Gonorrhea,2022,North Carolina (37),Unknown or Not Stated,2177
+gonorrhea,Gonorrhea,2022,North Dakota (38),Yes,34
+gonorrhea,Gonorrhea,2022,North Dakota (38),No,9533
+gonorrhea,Gonorrhea,2022,Ohio (39),Yes,766
+gonorrhea,Gonorrhea,2022,Ohio (39),No,127357
+gonorrhea,Gonorrhea,2022,Ohio (39),Unknown or Not Stated,108
+gonorrhea,Gonorrhea,2022,Oklahoma (40),Yes,175
+gonorrhea,Gonorrhea,2022,Oklahoma (40),No,48146
+gonorrhea,Gonorrhea,2022,Oklahoma (40),Unknown or Not Stated,11
+gonorrhea,Gonorrhea,2022,Oregon (41),Yes,78
+gonorrhea,Gonorrhea,2022,Oregon (41),No,39409
+gonorrhea,Gonorrhea,2022,Pennsylvania (42),Yes,286
+gonorrhea,Gonorrhea,2022,Pennsylvania (42),No,128125
+gonorrhea,Gonorrhea,2022,Pennsylvania (42),Unknown or Not Stated,1841
+gonorrhea,Gonorrhea,2022,Rhode Island (44),No,10158
+gonorrhea,Gonorrhea,2022,Rhode Island (44),Unknown or Not Stated,103
+gonorrhea,Gonorrhea,2022,South Carolina (45),Yes,313
+gonorrhea,Gonorrhea,2022,South Carolina (45),No,57245
+gonorrhea,Gonorrhea,2022,South Carolina (45),Unknown or Not Stated,262
+gonorrhea,Gonorrhea,2022,South Dakota (46),Yes,103
+gonorrhea,Gonorrhea,2022,South Dakota (46),No,11085
+gonorrhea,Gonorrhea,2022,South Dakota (46),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2022,Tennessee (47),Yes,369
+gonorrhea,Gonorrhea,2022,Tennessee (47),No,81890
+gonorrhea,Gonorrhea,2022,Texas (48),Yes,1036
+gonorrhea,Gonorrhea,2022,Texas (48),No,386492
+gonorrhea,Gonorrhea,2022,Texas (48),Unknown or Not Stated,2213
+gonorrhea,Gonorrhea,2022,Utah (49),Yes,42
+gonorrhea,Gonorrhea,2022,Utah (49),No,45726
+gonorrhea,Gonorrhea,2022,Vermont (50),No,5310
+gonorrhea,Gonorrhea,2022,Virginia (51),Yes,279
+gonorrhea,Gonorrhea,2022,Virginia (51),No,95319
+gonorrhea,Gonorrhea,2022,Virginia (51),Unknown or Not Stated,32
+gonorrhea,Gonorrhea,2022,Washington (53),Yes,115
+gonorrhea,Gonorrhea,2022,Washington (53),No,82757
+gonorrhea,Gonorrhea,2022,Washington (53),Unknown or Not Stated,461
+gonorrhea,Gonorrhea,2022,West Virginia (54),Yes,31
+gonorrhea,Gonorrhea,2022,West Virginia (54),No,16759
+gonorrhea,Gonorrhea,2022,West Virginia (54),Unknown or Not Stated,139
+gonorrhea,Gonorrhea,2022,Wisconsin (55),Yes,183
+gonorrhea,Gonorrhea,2022,Wisconsin (55),No,59627
+gonorrhea,Gonorrhea,2022,Wisconsin (55),Unknown or Not Stated,239
+gonorrhea,Gonorrhea,2022,Wyoming (56),Yes,13
+gonorrhea,Gonorrhea,2022,Wyoming (56),No,6033
+gonorrhea,Gonorrhea,2023,Alabama (01),Yes,242
+gonorrhea,Gonorrhea,2023,Alabama (01),No,57610
+gonorrhea,Gonorrhea,2023,Alaska (02),Yes,43
+gonorrhea,Gonorrhea,2023,Alaska (02),No,8882
+gonorrhea,Gonorrhea,2023,Alaska (02),Unknown or Not Stated,90
+gonorrhea,Gonorrhea,2023,Arizona (04),Yes,198
+gonorrhea,Gonorrhea,2023,Arizona (04),No,77890
+gonorrhea,Gonorrhea,2023,Arkansas (05),Yes,177
+gonorrhea,Gonorrhea,2023,Arkansas (05),No,35084
+gonorrhea,Gonorrhea,2023,California (06),Yes,420
+gonorrhea,Gonorrhea,2023,California (06),No,397818
+gonorrhea,Gonorrhea,2023,California (06),Unknown or Not Stated,1870
+gonorrhea,Gonorrhea,2023,Colorado (08),Yes,123
+gonorrhea,Gonorrhea,2023,Colorado (08),No,60814
+gonorrhea,Gonorrhea,2023,Colorado (08),Unknown or Not Stated,557
+gonorrhea,Gonorrhea,2023,Connecticut (09),Yes,47
+gonorrhea,Gonorrhea,2023,Connecticut (09),No,34484
+gonorrhea,Gonorrhea,2023,Connecticut (09),Unknown or Not Stated,28
+gonorrhea,Gonorrhea,2023,Delaware (10),Yes,24
+gonorrhea,Gonorrhea,2023,Delaware (10),No,10301
+gonorrhea,Gonorrhea,2023,Delaware (10),Unknown or Not Stated,102
+gonorrhea,Gonorrhea,2023,District of Columbia (11),Yes,27
+gonorrhea,Gonorrhea,2023,District of Columbia (11),No,7866
+gonorrhea,Gonorrhea,2023,Florida (12),Yes,702
+gonorrhea,Gonorrhea,2023,Florida (12),No,218422
+gonorrhea,Gonorrhea,2023,Florida (12),Unknown or Not Stated,2286
+gonorrhea,Gonorrhea,2023,Georgia (13),Yes,508
+gonorrhea,Gonorrhea,2023,Georgia (13),No,124302
+gonorrhea,Gonorrhea,2023,Georgia (13),Unknown or Not Stated,310
+gonorrhea,Gonorrhea,2023,Hawaii (15),No,14801
+gonorrhea,Gonorrhea,2023,Idaho (16),No,22311
+gonorrhea,Gonorrhea,2023,Idaho (16),Unknown or Not Stated,77
+gonorrhea,Gonorrhea,2023,Illinois (17),Yes,306
+gonorrhea,Gonorrhea,2023,Illinois (17),No,124361
+gonorrhea,Gonorrhea,2023,Illinois (17),Unknown or Not Stated,153
+gonorrhea,Gonorrhea,2023,Indiana (18),Yes,216
+gonorrhea,Gonorrhea,2023,Indiana (18),No,77410
+gonorrhea,Gonorrhea,2023,Indiana (18),Unknown or Not Stated,1374
+gonorrhea,Gonorrhea,2023,Iowa (19),Yes,86
+gonorrhea,Gonorrhea,2023,Iowa (19),No,35953
+gonorrhea,Gonorrhea,2023,Iowa (19),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2023,Kansas (20),Yes,120
+gonorrhea,Gonorrhea,2023,Kansas (20),No,33945
+gonorrhea,Gonorrhea,2023,Kentucky (21),Yes,107
+gonorrhea,Gonorrhea,2023,Kentucky (21),No,51417
+gonorrhea,Gonorrhea,2023,Kentucky (21),Unknown or Not Stated,460
+gonorrhea,Gonorrhea,2023,Louisiana (22),Yes,365
+gonorrhea,Gonorrhea,2023,Louisiana (22),No,54559
+gonorrhea,Gonorrhea,2023,Maine (23),Yes,11
+gonorrhea,Gonorrhea,2023,Maine (23),No,11571
+gonorrhea,Gonorrhea,2023,Maine (23),Unknown or Not Stated,45
+gonorrhea,Gonorrhea,2023,Maryland (24),Yes,170
+gonorrhea,Gonorrhea,2023,Maryland (24),No,65369
+gonorrhea,Gonorrhea,2023,Maryland (24),Unknown or Not Stated,55
+gonorrhea,Gonorrhea,2023,Massachusetts (25),Yes,132
+gonorrhea,Gonorrhea,2023,Massachusetts (25),No,66743
+gonorrhea,Gonorrhea,2023,Massachusetts (25),Unknown or Not Stated,218
+gonorrhea,Gonorrhea,2023,Michigan (26),Yes,202
+gonorrhea,Gonorrhea,2023,Michigan (26),No,97543
+gonorrhea,Gonorrhea,2023,Michigan (26),Unknown or Not Stated,1379
+gonorrhea,Gonorrhea,2023,Minnesota (27),Yes,113
+gonorrhea,Gonorrhea,2023,Minnesota (27),No,61498
+gonorrhea,Gonorrhea,2023,Minnesota (27),Unknown or Not Stated,104
+gonorrhea,Gonorrhea,2023,Mississippi (28),Yes,343
+gonorrhea,Gonorrhea,2023,Mississippi (28),No,34114
+gonorrhea,Gonorrhea,2023,Missouri (29),Yes,257
+gonorrhea,Gonorrhea,2023,Missouri (29),No,66860
+gonorrhea,Gonorrhea,2023,Montana (30),Yes,24
+gonorrhea,Gonorrhea,2023,Montana (30),No,11049
+gonorrhea,Gonorrhea,2023,Nebraska (31),Yes,55
+gonorrhea,Gonorrhea,2023,Nebraska (31),No,24012
+gonorrhea,Gonorrhea,2023,Nebraska (31),Unknown or Not Stated,44
+gonorrhea,Gonorrhea,2023,Nevada (32),Yes,78
+gonorrhea,Gonorrhea,2023,Nevada (32),No,31713
+gonorrhea,Gonorrhea,2023,New Hampshire (33),No,11892
+gonorrhea,Gonorrhea,2023,New Hampshire (33),Unknown or Not Stated,41
+gonorrhea,Gonorrhea,2023,New Jersey (34),Yes,154
+gonorrhea,Gonorrhea,2023,New Jersey (34),No,100258
+gonorrhea,Gonorrhea,2023,New Jersey (34),Unknown or Not Stated,589
+gonorrhea,Gonorrhea,2023,New Mexico (35),Yes,42
+gonorrhea,Gonorrhea,2023,New Mexico (35),No,20840
+gonorrhea,Gonorrhea,2023,New Mexico (35),Unknown or Not Stated,69
+gonorrhea,Gonorrhea,2023,New York (36),Yes,333
+gonorrhea,Gonorrhea,2023,New York (36),No,202305
+gonorrhea,Gonorrhea,2023,New York (36),Unknown or Not Stated,974
+gonorrhea,Gonorrhea,2023,North Carolina (37),Yes,476
+gonorrhea,Gonorrhea,2023,North Carolina (37),No,117529
+gonorrhea,Gonorrhea,2023,North Carolina (37),Unknown or Not Stated,2077
+gonorrhea,Gonorrhea,2023,North Dakota (38),Yes,20
+gonorrhea,Gonorrhea,2023,North Dakota (38),No,9626
+gonorrhea,Gonorrhea,2023,Ohio (39),Yes,618
+gonorrhea,Gonorrhea,2023,Ohio (39),No,126211
+gonorrhea,Gonorrhea,2023,Ohio (39),Unknown or Not Stated,67
+gonorrhea,Gonorrhea,2023,Oklahoma (40),Yes,129
+gonorrhea,Gonorrhea,2023,Oklahoma (40),No,47766
+gonorrhea,Gonorrhea,2023,Oklahoma (40),Unknown or Not Stated,14
+gonorrhea,Gonorrhea,2023,Oregon (41),Yes,60
+gonorrhea,Gonorrhea,2023,Oregon (41),No,38233
+gonorrhea,Gonorrhea,2023,Pennsylvania (42),Yes,262
+gonorrhea,Gonorrhea,2023,Pennsylvania (42),No,125111
+gonorrhea,Gonorrhea,2023,Pennsylvania (42),Unknown or Not Stated,1578
+gonorrhea,Gonorrhea,2023,Rhode Island (44),Yes,21
+gonorrhea,Gonorrhea,2023,Rhode Island (44),No,9713
+gonorrhea,Gonorrhea,2023,Rhode Island (44),Unknown or Not Stated,71
+gonorrhea,Gonorrhea,2023,South Carolina (45),Yes,277
+gonorrhea,Gonorrhea,2023,South Carolina (45),No,57183
+gonorrhea,Gonorrhea,2023,South Carolina (45),Unknown or Not Stated,269
+gonorrhea,Gonorrhea,2023,South Dakota (46),Yes,74
+gonorrhea,Gonorrhea,2023,South Dakota (46),No,11115
+gonorrhea,Gonorrhea,2023,South Dakota (46),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2023,Tennessee (47),Yes,390
+gonorrhea,Gonorrhea,2023,Tennessee (47),No,82622
+gonorrhea,Gonorrhea,2023,Texas (48),Yes,920
+gonorrhea,Gonorrhea,2023,Texas (48),No,385073
+gonorrhea,Gonorrhea,2023,Texas (48),Unknown or Not Stated,1952
+gonorrhea,Gonorrhea,2023,Utah (49),Yes,14
+gonorrhea,Gonorrhea,2023,Utah (49),No,44999
+gonorrhea,Gonorrhea,2023,Vermont (50),No,5061
+gonorrhea,Gonorrhea,2023,Virginia (51),Yes,192
+gonorrhea,Gonorrhea,2023,Virginia (51),No,92426
+gonorrhea,Gonorrhea,2023,Virginia (51),Unknown or Not Stated,31
+gonorrhea,Gonorrhea,2023,Washington (53),Yes,128
+gonorrhea,Gonorrhea,2023,Washington (53),No,80571
+gonorrhea,Gonorrhea,2023,Washington (53),Unknown or Not Stated,233
+gonorrhea,Gonorrhea,2023,West Virginia (54),Yes,23
+gonorrhea,Gonorrhea,2023,West Virginia (54),No,16495
+gonorrhea,Gonorrhea,2023,West Virginia (54),Unknown or Not Stated,88
+gonorrhea,Gonorrhea,2023,Wisconsin (55),Yes,146
+gonorrhea,Gonorrhea,2023,Wisconsin (55),No,59352
+gonorrhea,Gonorrhea,2023,Wisconsin (55),Unknown or Not Stated,256
+gonorrhea,Gonorrhea,2023,Wyoming (56),No,5980
+gonorrhea,Gonorrhea,2024,Alabama (01),Yes,223
+gonorrhea,Gonorrhea,2024,Alabama (01),No,57701
+gonorrhea,Gonorrhea,2024,Alabama (01),Unknown or Not Stated,10
+gonorrhea,Gonorrhea,2024,Alaska (02),Yes,46
+gonorrhea,Gonorrhea,2024,Alaska (02),No,8820
+gonorrhea,Gonorrhea,2024,Alaska (02),Unknown or Not Stated,77
+gonorrhea,Gonorrhea,2024,Arizona (04),Yes,197
+gonorrhea,Gonorrhea,2024,Arizona (04),No,78509
+gonorrhea,Gonorrhea,2024,Arkansas (05),Yes,117
+gonorrhea,Gonorrhea,2024,Arkansas (05),No,35277
+gonorrhea,Gonorrhea,2024,California (06),Yes,378
+gonorrhea,Gonorrhea,2024,California (06),No,400386
+gonorrhea,Gonorrhea,2024,California (06),Unknown or Not Stated,1311
+gonorrhea,Gonorrhea,2024,Colorado (08),Yes,93
+gonorrhea,Gonorrhea,2024,Colorado (08),No,64136
+gonorrhea,Gonorrhea,2024,Colorado (08),Unknown or Not Stated,39
+gonorrhea,Gonorrhea,2024,Connecticut (09),Yes,34
+gonorrhea,Gonorrhea,2024,Connecticut (09),No,34534
+gonorrhea,Gonorrhea,2024,Connecticut (09),Unknown or Not Stated,31
+gonorrhea,Gonorrhea,2024,Delaware (10),Yes,30
+gonorrhea,Gonorrhea,2024,Delaware (10),No,10388
+gonorrhea,Gonorrhea,2024,Delaware (10),Unknown or Not Stated,132
+gonorrhea,Gonorrhea,2024,District of Columbia (11),Yes,34
+gonorrhea,Gonorrhea,2024,District of Columbia (11),No,7579
+gonorrhea,Gonorrhea,2024,Florida (12),Yes,610
+gonorrhea,Gonorrhea,2024,Florida (12),No,223491
+gonorrhea,Gonorrhea,2024,Florida (12),Unknown or Not Stated,288
+gonorrhea,Gonorrhea,2024,Georgia (13),Yes,360
+gonorrhea,Gonorrhea,2024,Georgia (13),No,125736
+gonorrhea,Gonorrhea,2024,Georgia (13),Unknown or Not Stated,341
+gonorrhea,Gonorrhea,2024,Hawaii (15),Yes,16
+gonorrhea,Gonorrhea,2024,Hawaii (15),No,14901
+gonorrhea,Gonorrhea,2024,Idaho (16),Yes,10
+gonorrhea,Gonorrhea,2024,Idaho (16),No,23187
+gonorrhea,Gonorrhea,2024,Idaho (16),Unknown or Not Stated,79
+gonorrhea,Gonorrhea,2024,Illinois (17),Yes,301
+gonorrhea,Gonorrhea,2024,Illinois (17),No,125252
+gonorrhea,Gonorrhea,2024,Illinois (17),Unknown or Not Stated,178
+gonorrhea,Gonorrhea,2024,Indiana (18),Yes,146
+gonorrhea,Gonorrhea,2024,Indiana (18),No,78802
+gonorrhea,Gonorrhea,2024,Indiana (18),Unknown or Not Stated,1309
+gonorrhea,Gonorrhea,2024,Iowa (19),Yes,66
+gonorrhea,Gonorrhea,2024,Iowa (19),No,36363
+gonorrhea,Gonorrhea,2024,Kansas (20),Yes,114
+gonorrhea,Gonorrhea,2024,Kansas (20),No,33869
+gonorrhea,Gonorrhea,2024,Kentucky (21),Yes,118
+gonorrhea,Gonorrhea,2024,Kentucky (21),No,51982
+gonorrhea,Gonorrhea,2024,Kentucky (21),Unknown or Not Stated,813
+gonorrhea,Gonorrhea,2024,Louisiana (22),Yes,272
+gonorrhea,Gonorrhea,2024,Louisiana (22),No,53032
+gonorrhea,Gonorrhea,2024,Maine (23),Yes,17
+gonorrhea,Gonorrhea,2024,Maine (23),No,11542
+gonorrhea,Gonorrhea,2024,Maine (23),Unknown or Not Stated,42
+gonorrhea,Gonorrhea,2024,Maryland (24),Yes,177
+gonorrhea,Gonorrhea,2024,Maryland (24),No,65511
+gonorrhea,Gonorrhea,2024,Maryland (24),Unknown or Not Stated,109
+gonorrhea,Gonorrhea,2024,Massachusetts (25),Yes,116
+gonorrhea,Gonorrhea,2024,Massachusetts (25),No,67881
+gonorrhea,Gonorrhea,2024,Massachusetts (25),Unknown or Not Stated,187
+gonorrhea,Gonorrhea,2024,Michigan (26),Yes,213
+gonorrhea,Gonorrhea,2024,Michigan (26),No,97790
+gonorrhea,Gonorrhea,2024,Michigan (26),Unknown or Not Stated,1522
+gonorrhea,Gonorrhea,2024,Minnesota (27),Yes,96
+gonorrhea,Gonorrhea,2024,Minnesota (27),No,61914
+gonorrhea,Gonorrhea,2024,Minnesota (27),Unknown or Not Stated,100
+gonorrhea,Gonorrhea,2024,Mississippi (28),Yes,227
+gonorrhea,Gonorrhea,2024,Mississippi (28),No,33238
+gonorrhea,Gonorrhea,2024,Missouri (29),Yes,159
+gonorrhea,Gonorrhea,2024,Missouri (29),No,67837
+gonorrhea,Gonorrhea,2024,Montana (30),Yes,12
+gonorrhea,Gonorrhea,2024,Montana (30),No,11312
+gonorrhea,Gonorrhea,2024,Nebraska (31),Yes,61
+gonorrhea,Gonorrhea,2024,Nebraska (31),No,24699
+gonorrhea,Gonorrhea,2024,Nebraska (31),Unknown or Not Stated,25
+gonorrhea,Gonorrhea,2024,Nevada (32),Yes,69
+gonorrhea,Gonorrhea,2024,Nevada (32),No,32310
+gonorrhea,Gonorrhea,2024,New Hampshire (33),No,11739
+gonorrhea,Gonorrhea,2024,New Hampshire (33),Unknown or Not Stated,30
+gonorrhea,Gonorrhea,2024,New Jersey (34),Yes,124
+gonorrhea,Gonorrhea,2024,New Jersey (34),No,100722
+gonorrhea,Gonorrhea,2024,New Jersey (34),Unknown or Not Stated,526
+gonorrhea,Gonorrhea,2024,New Mexico (35),Yes,21
+gonorrhea,Gonorrhea,2024,New Mexico (35),No,21216
+gonorrhea,Gonorrhea,2024,New Mexico (35),Unknown or Not Stated,91
+gonorrhea,Gonorrhea,2024,New York (36),Yes,262
+gonorrhea,Gonorrhea,2024,New York (36),No,203702
+gonorrhea,Gonorrhea,2024,New York (36),Unknown or Not Stated,1525
+gonorrhea,Gonorrhea,2024,North Carolina (37),Yes,363
+gonorrhea,Gonorrhea,2024,North Carolina (37),No,122481
+gonorrhea,Gonorrhea,2024,North Carolina (37),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2024,North Dakota (38),No,9625
+gonorrhea,Gonorrhea,2024,Ohio (39),Yes,509
+gonorrhea,Gonorrhea,2024,Ohio (39),No,126194
+gonorrhea,Gonorrhea,2024,Ohio (39),Unknown or Not Stated,92
+gonorrhea,Gonorrhea,2024,Oklahoma (40),Yes,112
+gonorrhea,Gonorrhea,2024,Oklahoma (40),No,47837
+gonorrhea,Gonorrhea,2024,Oklahoma (40),Unknown or Not Stated,13
+gonorrhea,Gonorrhea,2024,Oregon (41),Yes,41
+gonorrhea,Gonorrhea,2024,Oregon (41),No,38922
+gonorrhea,Gonorrhea,2024,Pennsylvania (42),Yes,259
+gonorrhea,Gonorrhea,2024,Pennsylvania (42),No,125010
+gonorrhea,Gonorrhea,2024,Pennsylvania (42),Unknown or Not Stated,2030
+gonorrhea,Gonorrhea,2024,Rhode Island (44),Yes,21
+gonorrhea,Gonorrhea,2024,Rhode Island (44),No,9976
+gonorrhea,Gonorrhea,2024,Rhode Island (44),Unknown or Not Stated,12
+gonorrhea,Gonorrhea,2024,South Carolina (45),Yes,246
+gonorrhea,Gonorrhea,2024,South Carolina (45),No,58260
+gonorrhea,Gonorrhea,2024,South Carolina (45),Unknown or Not Stated,262
+gonorrhea,Gonorrhea,2024,South Dakota (46),Yes,68
+gonorrhea,Gonorrhea,2024,South Dakota (46),No,11359
+gonorrhea,Gonorrhea,2024,South Dakota (46),Unknown or Not Stated,24
+gonorrhea,Gonorrhea,2024,Tennessee (47),Yes,285
+gonorrhea,Gonorrhea,2024,Tennessee (47),No,83544
+gonorrhea,Gonorrhea,2024,Texas (48),Yes,831
+gonorrhea,Gonorrhea,2024,Texas (48),No,387617
+gonorrhea,Gonorrhea,2024,Texas (48),Unknown or Not Stated,2380
+gonorrhea,Gonorrhea,2024,Utah (49),Yes,14
+gonorrhea,Gonorrhea,2024,Utah (49),No,46649
+gonorrhea,Gonorrhea,2024,Vermont (50),No,5021
+gonorrhea,Gonorrhea,2024,Virginia (51),Yes,179
+gonorrhea,Gonorrhea,2024,Virginia (51),No,93869
+gonorrhea,Gonorrhea,2024,Washington (53),Yes,94
+gonorrhea,Gonorrhea,2024,Washington (53),No,82781
+gonorrhea,Gonorrhea,2024,Washington (53),Unknown or Not Stated,243
+gonorrhea,Gonorrhea,2024,West Virginia (54),Yes,22
+gonorrhea,Gonorrhea,2024,West Virginia (54),No,16995
+gonorrhea,Gonorrhea,2024,Wisconsin (55),Yes,109
+gonorrhea,Gonorrhea,2024,Wisconsin (55),No,59184
+gonorrhea,Gonorrhea,2024,Wisconsin (55),Unknown or Not Stated,393
+gonorrhea,Gonorrhea,2024,Wyoming (56),No,6083

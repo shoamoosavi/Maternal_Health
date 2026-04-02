@@ -1,275 +1,359 @@
 """
-CDC WONDER Natality Data Pull — Multi-Scenario
+CDC WONDER Natality Data Pull — Selected Variables
 Database: Natality 2016-2024 Expanded (D149)
-Group By 1 (fixed): County of Residence
-Group By 2 (varies): Defined per scenario in SCENARIOS list below
-Filters by: Year (one pull per year, 2016-2024)
-Output: One CSV per scenario, saved to the OUTPUT_DIR folder
 
-CDC API docs: https://wonder.cdc.gov/wonder/help/wonder-api.html
-NOTE: CDC asks that automated queries be spaced ~2 minutes apart.
+County-level (B_1 = County of Residence, D149.V21-level2):
+  All variables except the four STI variables below.
 
-────────────────────────────────────────────────────────────────
-HOW TO ADD A NEW SCENARIO
-────────────────────────────────────────────────────────────────
-1. Look up the parameter code for your variable:
-     a. Go to https://wonder.cdc.gov/natality-expanded-current.html
-     b. Build a query using that variable as "And By" (Group By 2)
-     c. Click Send → then click "API Options" on the results page
-     d. Find the <value> inside the <n>B_2</n> parameter block
-        It will look like "D149.Vxxx"
+State-level (B_1 = State of Residence, D149.V21-level1):
+  gonorrhea, syphilis, chlamydia, hepatitis_c
+  (county-level suppression is too heavy for these rare infections)
 
-2. Add an entry to the SCENARIOS list below:
-     {
-       "label":    "short_name_for_filename",   # used in output filename
-       "b2_code":  "D149.Vxxx",                 # the code from step 1d
-       "b2_name":  "Human Readable Name",       # for log output only
-     }
-────────────────────────────────────────────────────────────────
+One year per request, 2016-2024.
+Writes per-variable CSVs + combined CSV.
+Prints suppression rate per variable; flags any >25%.
 
-KNOWN PARAMETER CODES (D149 — Natality 2016-2024 Expanded)
-  County of Residence         → D149.V9    (always used as B_1)
-  Year                        → D149.V20   (used as year filter)
-  Delivery Method Expanded    → D149.V116
-  Payment Method              → D149.V143  (source of payment / insurance)
-  Gestational Diabetes        → D149.V130
-  Gestational Age (weeks)     → D149.V13
-  Mother's Age                → D149.V3
-  Mother's Race (6 cats)      → D149.V2
-  Mother's Hispanic Origin    → D149.V274
-  Maternal Education          → D149.V5
-  Tobacco Use                 → D149.V142
-  Pre-pregnancy BMI           → D149.V209
-  Plurality                   → D149.V12
-  Sex of Infant               → D149.V11
-
-  ⚠️  Always verify codes via "API Options" before running —
-      codes can shift when CDC releases a new data vintage.
+Run with:
+    /Users/shoamoosavi/opt/anaconda3/bin/python3 cdc_wonder_natality_pull.py
 """
 
-import requests
-import time
 import csv
 import os
-import xml.etree.ElementTree as ET
+import re
+import time
+import sys
 
-# ── Global Configuration ──────────────────────────────────────────────────────
-DATABASE_ID = "D149"
-API_URL     = f"https://wonder.cdc.gov/controller/datarequest/{DATABASE_ID}"
-YEARS       = list(range(2016, 2025))   # 2016–2024
-OUTPUT_DIR  = "natality_outputs"        # folder where CSVs are saved
-DELAY_SECS  = 120                       # 2 min between requests (CDC guidance)
+try:
+    from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
+except ImportError:
+    sys.exit("Run: pip install playwright && playwright install chromium")
 
-# ── Scenario Definitions ──────────────────────────────────────────────────────
-# Add, remove, or comment out rows to control which pulls are executed.
-# Each scenario produces one CSV: natality_{label}_2016_2024.csv
+# ── Configuration ─────────────────────────────────────────────────────────────
+OUTPUT_DIR   = "natality_outputs"
+YEARS        = list(range(2016, 2025))   # 2016–2024
+DELAY_SECS   = 10
+PAGE_TIMEOUT = 60_000
+RESULT_WAIT  = 30_000
+
+B1_COUNTY = "D149.V21-level2"
+B1_STATE  = "D149.V21-level1"
+
+# ── Scenarios ─────────────────────────────────────────────────────────────────
+# b1: B_1 value (county or state); omit = county
 SCENARIOS = [
-    {
-        "label":   "delivery_method_expanded",
-        "b2_code": "D149.V116",
-        "b2_name": "Delivery Method Expanded",
-    },
-    {
-        "label":   "payment_method",
-        "b2_code": "D149.V143",
-        "b2_name": "Payment Method (Insurance)",
-    },
-    {
-        "label":   "gestational_diabetes",
-        "b2_code": "D149.V130",
-        "b2_name": "Gestational Diabetes",
-    },
-    # ── Add more scenarios below this line ────────────────────────────────────
-    # {
-    #     "label":   "gestational_age",
-    #     "b2_code": "D149.V13",
-    #     "b2_name": "Gestational Age (weeks)",
-    # },
-    # {
-    #     "label":   "mothers_age",
-    #     "b2_code": "D149.V3",
-    #     "b2_name": "Mother's Age",
-    # },
-    # {
-    #     "label":   "tobacco_use",
-    #     "b2_code": "D149.V142",
-    #     "b2_name": "Tobacco Use",
-    # },
+    # Maternal characteristics
+    {"label": "mothers_race_6cat",          "b2_value": "D149.V42",  "b2_name": "Mother's Single Race 6"},
+    {"label": "mothers_hispanic",           "b2_value": "D149.V43",  "b2_name": "Mother's Hispanic Origin"},
+    {"label": "mothers_age_9groups",        "b2_value": "D149.V1",   "b2_name": "Age of Mother 9"},
+    # Pregnancy history & prenatal care
+    {"label": "interval_last_other_preg",   "b2_value": "D149.V61",  "b2_name": "Interval Since Last Other Pregnancy Outcome"},
+    {"label": "live_birth_order",           "b2_value": "D149.V28",  "b2_name": "Live Birth Order"},
+    {"label": "prenatal_visits_count",      "b2_value": "D149.V64",  "b2_name": "Number of Prenatal Visits"},
+    {"label": "prenatal_care_month",        "b2_value": "D149.V8",   "b2_name": "Month Prenatal Care Began"},
+    # Maternal risk factors
+    {"label": "prepreg_bmi",                "b2_value": "D149.V71",  "b2_name": "Mother's Pre-pregnancy BMI"},
+    {"label": "weight_gain_recode",         "b2_value": "D149.V73",  "b2_name": "Mother's Weight Gain Recode"},
+    {"label": "tobacco_use",                "b2_value": "D149.V10",  "b2_name": "Tobacco Use"},
+    # Pregnancy risk factors
+    {"label": "gestational_diabetes",       "b2_value": "D149.V75",  "b2_name": "Gestational Diabetes"},
+    {"label": "gestational_hypertension",   "b2_value": "D149.V17",  "b2_name": "Gestational Hypertension"},
+    {"label": "eclampsia",                  "b2_value": "D149.V18",  "b2_name": "Eclampsia"},
+    {"label": "prev_preterm_birth",         "b2_value": "D149.V76",  "b2_name": "Previous Preterm Birth"},
+    {"label": "infertility_treatment",      "b2_value": "D149.V77",  "b2_name": "Infertility Treatment Used"},
+    {"label": "fertility_drugs",            "b2_value": "D149.V78",  "b2_name": "Fertility Enhancing Drugs"},
+    {"label": "art",                        "b2_value": "D149.V79",  "b2_name": "Assistive Reproductive Technology"},
+    {"label": "prev_cesarean",              "b2_value": "D149.V80",  "b2_name": "Previous Cesarean Delivery"},
+    # Maternal infections — state level (too suppressed at county)
+    {"label": "gonorrhea",                  "b2_value": "D149.V83",  "b2_name": "Gonorrhea",  "b1": B1_STATE},
+    {"label": "syphilis",                   "b2_value": "D149.V84",  "b2_name": "Syphilis",   "b1": B1_STATE},
+    {"label": "chlamydia",                  "b2_value": "D149.V85",  "b2_name": "Chlamydia",  "b1": B1_STATE},
+    {"label": "hepatitis_c",                "b2_value": "D149.V87",  "b2_name": "Hepatitis C","b1": B1_STATE},
+    # Labor characteristics
+    {"label": "induction_of_labor",         "b2_value": "D149.V91",  "b2_name": "Induction of Labor"},
+    {"label": "augmentation_of_labor",      "b2_value": "D149.V92",  "b2_name": "Augmentation of Labor"},
+    {"label": "steroids_fetal_lung",        "b2_value": "D149.V93",  "b2_name": "Steroids"},
+    # chorioamnionitis and anesthesia skipped — fully suppressed at county level
+    # Delivery — where & method
+    {"label": "birthplace",                 "b2_value": "D149.V45",  "b2_name": "Birthplace"},
+    {"label": "fetal_presentation",         "b2_value": "D149.V98",  "b2_name": "Fetal Presentation"},
+    {"label": "final_route_method",         "b2_value": "D149.V99",  "b2_name": "Final Route and Delivery Method"},
+    {"label": "delivery_method_expanded",   "b2_value": "D149.V101", "b2_name": "Delivery Method Expanded"},
+    {"label": "delivery_method_3cat",       "b2_value": "D149.V31",  "b2_name": "Delivery Method"},
+    {"label": "payment_5cat",               "b2_value": "D149.V110", "b2_name": "Source of Payment for Delivery"},
+    # Maternal morbidity
+    {"label": "maternal_transfusion",       "b2_value": "D149.V102", "b2_name": "Maternal Transfusion"},
+    {"label": "perineal_laceration",        "b2_value": "D149.V103", "b2_name": "Perineal Laceration"},
+    {"label": "ruptured_uterus",            "b2_value": "D149.V104", "b2_name": "Ruptured Uterus"},
+    {"label": "icu_admission",              "b2_value": "D149.V106", "b2_name": "Admission to Intensive Care Unit"},
+    # Gestational age
+    {"label": "gest_age_11g_oe",            "b2_value": "D149.V33",  "b2_name": "OE Gestational Age Recode 11"},
+    # Infant characteristics
+    {"label": "plurality",                  "b2_value": "D149.V7",   "b2_name": "Plurality"},
+    {"label": "birth_weight_12groups",      "b2_value": "D149.V9",   "b2_name": "Infant Birth Weight 12"},
+    # apgar_5min_single and apgar_10min_single skipped per user request
+    {"label": "breastfed_at_discharge",     "b2_value": "D149.V138", "b2_name": "Infant Breastfed at Discharge"},
 ]
 
-# ── XML Builder ───────────────────────────────────────────────────────────────
-def build_xml(year: int, b2_code: str) -> str:
-    """Build the XML POST body for one (year, group-by) combination."""
-    return f"""<request-parameters>
-  <parameter>
-    <n>accept_datause_restrictions</n>
-    <value>true</value>
-  </parameter>
-  <parameter>
-    <n>B_1</n>
-    <value>D149.V9</value>
-  </parameter>
-  <parameter>
-    <n>B_2</n>
-    <value>{b2_code}</value>
-  </parameter>
-  <parameter>
-    <n>B_3</n>
-    <value>*None*</value>
-  </parameter>
-  <parameter>
-    <n>B_4</n>
-    <value>*None*</value>
-  </parameter>
-  <parameter>
-    <n>F_D149.V20</n>
-    <value>{year}</value>
-  </parameter>
-  <parameter>
-    <n>O_V9_fmode</n>
-    <value>frGroupBy</value>
-  </parameter>
-  <parameter>
-    <n>O_show_totals</n>
-    <value>false</value>
-  </parameter>
-  <parameter>
-    <n>O_show_suppressed</n>
-    <value>true</value>
-  </parameter>
-  <parameter>
-    <n>M_1</n>
-    <value>D149.M1</value>
-  </parameter>
-</request-parameters>"""
+TOTAL = len(SCENARIOS)
 
 
-# ── Response Parser ───────────────────────────────────────────────────────────
-def parse_response(xml_text: str, year: int, scenario_label: str) -> list[dict]:
-    """Parse CDC WONDER XML response into a list of row dicts."""
-    try:
-        root = ET.fromstring(xml_text)
-    except ET.ParseError as e:
-        print(f"    [!] XML parse error ({scenario_label}, {year}): {e}")
+# ── HTML Parser ───────────────────────────────────────────────────────────────
+def strip_tags(html: str) -> str:
+    return re.sub(r'<[^>]+>', '', html).strip()
+
+
+def parse_results_html(html: str, label: str, b2_name: str, year: int) -> list[dict]:
+    data_tbody = None
+    for m in re.finditer(r'<tbody[^>]*>(.*?)</tbody>', html, re.DOTALL | re.IGNORECASE):
+        content = m.group(1)
+        if re.search(r'class=["\']v["\']', content, re.I):
+            data_tbody = content
+            break
+    if not data_tbody:
         return []
 
-    # Surface any API-level error messages
-    for m in root.findall(".//m"):
-        text = m.text or ""
-        if m.get("c", "").startswith("D") or "error" in text.lower():
-            print(f"    [!] API message ({scenario_label}, {year}): {text}")
-
-    # Column headers
-    headers = [h.get("l", h.text or "") for h in root.findall(".//h-rows/r/th")]
-    if not headers:
-        print(f"    [!] No headers found ({scenario_label}, {year}). Check parameter codes.")
-        _save_debug(xml_text, scenario_label, year)
-        return []
-
-    # Data rows
     rows = []
-    for row in root.findall(".//data-table/r"):
-        record = {"Year": year}
-        for i, cell in enumerate(row.findall("c")):
-            col = headers[i] if i < len(headers) else f"col_{i}"
-            record[col] = cell.get("l") or cell.get("v") or ""
-        rows.append(record)
+    current_geo = ""
+    current_subcol = ""
+
+    for tr in re.finditer(r'<tr[^>]*>(.*?)</tr>', data_tbody, re.DOTALL | re.IGNORECASE):
+        tr_content = tr.group(1)
+        if re.search(r'class=["\']t["\']', tr_content, re.I):
+            continue
+
+        th_vals = [strip_tags(th) for th in
+                   re.findall(r'<th[^>]*class=["\']v["\'][^>]*>(.*?)</th>',
+                               tr_content, re.DOTALL | re.IGNORECASE)]
+        td_vals = [strip_tags(td) for td in
+                   re.findall(r'<td[^>]*>(.*?)</td>',
+                               tr_content, re.DOTALL | re.IGNORECASE)]
+        if not td_vals:
+            continue
+
+        if len(th_vals) == 3:
+            current_geo   = th_vals[0]
+            current_subcol = th_vals[1]
+            category       = th_vals[2]
+        elif len(th_vals) == 2:
+            if current_geo and current_subcol:
+                current_subcol = th_vals[0]
+                category       = th_vals[1]
+            else:
+                current_geo = th_vals[0]
+                category    = th_vals[1]
+        elif len(th_vals) == 1:
+            category = th_vals[0]
+        else:
+            continue
+
+        births = td_vals[0].replace(",", "").strip()
+        rows.append({
+            "variable_label": label,
+            "variable_name":  b2_name,
+            "year":           str(year),
+            "geo":            current_geo,
+            "category":       category,
+            "births":         births,
+        })
 
     return rows
 
 
-def _save_debug(xml_text: str, label: str, year: int):
-    """Save raw XML to a debug file for inspection."""
-    path = os.path.join(OUTPUT_DIR, f"debug_{label}_{year}.xml")
-    with open(path, "w", encoding="utf-8") as f:
-        f.write(xml_text)
-    print(f"    Raw response saved → {path}")
+def suppression_rate(rows: list[dict]) -> float:
+    """Return fraction of data rows where births == 'Suppressed'."""
+    if not rows:
+        return 0.0
+    suppressed = sum(1 for r in rows if r["births"].lower() == "suppressed")
+    return suppressed / len(rows)
 
 
-# ── Per-Scenario Runner ───────────────────────────────────────────────────────
-def run_scenario(scenario: dict, total_pull_count: list) -> None:
-    """
-    Execute all yearly pulls for one scenario and write a combined CSV.
-    total_pull_count is a mutable list used to track cross-scenario
-    request counts for rate-limiting purposes.
-    """
-    label   = scenario["label"]
-    b2_code = scenario["b2_code"]
-    b2_name = scenario["b2_name"]
-    out_csv = os.path.join(OUTPUT_DIR, f"natality_{label}_2016_2024.csv")
+# ── Single-year puller ────────────────────────────────────────────────────────
+def pull_one_year(browser, b1_val: str, b2_val: str, year: int) -> list[dict]:
+    context = browser.new_context()
+    page    = context.new_page()
+    rows    = []
+    try:
+        page.goto("https://wonder.cdc.gov/natality-expanded-current.html",
+                  wait_until="domcontentloaded", timeout=PAGE_TIMEOUT)
+        time.sleep(2)
 
-    print(f"\n{'═'*60}")
-    print(f"  Scenario: {b2_name}  [{b2_code}]")
-    print(f"  Output  : {out_csv}")
-    print(f"{'═'*60}")
+        agree_btn = page.locator("input[value='I Agree']")
+        if agree_btn.count() > 0:
+            agree_btn.click()
+            time.sleep(5)
 
-    all_rows    = []
-    all_columns = set()
+        if page.locator(f"select[name='B_2'] option[value='{b2_val}']").count() == 0:
+            return []
 
-    for i, year in enumerate(YEARS):
-        # Rate-limit: always pause before every request except the very first
-        if total_pull_count[0] > 0:
-            print(f"  Waiting {DELAY_SECS}s (CDC rate limit)...")
-            time.sleep(DELAY_SECS)
-
-        total_pull_count[0] += 1
-        print(f"  [{total_pull_count[0]:02d}] Pulling {year}  ({i+1}/{len(YEARS)})...", end=" ", flush=True)
+        page.locator("select[name='B_1']").select_option(value=b1_val)
+        time.sleep(0.3)
 
         try:
-            response = requests.post(
-                API_URL,
-                data={
-                    "request_xml": build_xml(year, b2_code),
-                    "accept_datause_restrictions": "true",
-                },
-                timeout=60,
+            page.locator("select[name='B_2']").select_option(value=b2_val, timeout=15_000)
+        except PWTimeout:
+            return []
+        time.sleep(0.3)
+
+        year_ctrl = page.locator("select[name='V_D149.V20']")
+        if year_ctrl.count() > 0:
+            year_ctrl.evaluate(f"""sel => {{
+                for (let o of sel.options) {{
+                    o.selected = (o.value === '{year}');
+                }}
+            }}""")
+            time.sleep(0.2)
+
+        page.locator("#submit-button1").click()
+        try:
+            page.wait_for_function(
+                "() => document.title.includes('Results') || document.title.includes('Error')",
+                timeout=RESULT_WAIT
             )
-            response.raise_for_status()
-        except requests.RequestException as e:
-            print(f"FAILED — {e}")
-            continue
+        except PWTimeout:
+            return []
 
-        rows = parse_response(response.text, year, label)
-        if rows:
-            print(f"✓ {len(rows)} rows")
-            all_rows.extend(rows)
-            all_columns.update(rows[0].keys())
-        else:
-            print("no data")
-            _save_debug(response.text, label, year)
+        time.sleep(3)
+        if "Results" not in page.title():
+            return []
 
-    # Write CSV
-    if all_rows:
-        col_order = ["Year"] + sorted(c for c in all_columns if c != "Year")
-        with open(out_csv, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=col_order, extrasaction="ignore")
-            writer.writeheader()
-            writer.writerows(all_rows)
-        print(f"\n  ✅ Saved {len(all_rows)} rows → {out_csv}")
-    else:
-        print(f"\n  ❌ No data collected for scenario '{label}'.")
+        rows = parse_results_html(page.content(), "", "", year)
+
+    except Exception:
+        rows = []
+    finally:
+        context.close()
+
+    return rows
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    total_requests = len(SCENARIOS) * len(YEARS)
-    est_minutes    = (total_requests * DELAY_SECS) // 60
-    print(f"CDC WONDER Natality Pull — Multi-Scenario")
-    print(f"  Scenarios : {len(SCENARIOS)}")
-    print(f"  Years     : {YEARS[0]}–{YEARS[-1]}  ({len(YEARS)} pulls each)")
-    print(f"  Total     : {total_requests} API requests")
-    print(f"  Est. time : ~{est_minutes} minutes  (2 min/request, CDC rate limit)")
-    print(f"  Output dir: {OUTPUT_DIR}/")
+    done = {
+        f.replace("natality_", "").replace(".csv", "")
+        for f in os.listdir(OUTPUT_DIR)
+        if f.startswith("natality_") and f.endswith(".csv")
+        and f != "natality_ALL_combined.csv"
+        and os.path.getsize(os.path.join(OUTPUT_DIR, f)) > 200
+    }
+    # Only count as done if file has a 'geo' column (current schema)
+    valid_done = set()
+    for label in done:
+        path = os.path.join(OUTPUT_DIR, f"natality_{label}.csv")
+        if os.path.exists(path):
+            with open(path) as f:
+                header = f.readline()
+            if "geo" in header or "county" in header:
+                valid_done.add(label)
 
-    pull_counter = [0]   # mutable so run_scenario can update it
-    for scenario in SCENARIOS:
-        run_scenario(scenario, pull_counter)
+    todo = [s for s in SCENARIOS if s["label"] not in valid_done]
 
-    print(f"\n{'═'*60}")
-    print(f"All done! {pull_counter[0]} requests made.")
-    print(f"CSVs saved in: {OUTPUT_DIR}/")
+    total_pulls = len(todo) * len(YEARS)
+    est_min     = (total_pulls * (DELAY_SECS + 20)) // 60  # ~20s avg request time
+    print("=" * 65)
+    print("CDC WONDER Natality Pull — Selected Variables")
+    print(f"  Total scenarios     : {TOTAL}")
+    print(f"  Already done        : {len(valid_done)}")
+    print(f"  Remaining           : {len(todo)}")
+    print(f"  Years per scenario  : {len(YEARS)}  ({YEARS[0]}–{YEARS[-1]})")
+    print(f"  Total requests      : {total_pulls}")
+    print(f"  Estimated time      : ~{est_min} min  (~{est_min//60}h {est_min%60}m)")
+    print(f"  Output dir          : {OUTPUT_DIR}/")
+    print("=" * 65)
+
+    suppression_flags: list[str] = []
+    all_combined: list[dict] = []
+    request_count = 0
+
+    # Load already-done rows into combined
+    for label in valid_done:
+        path = os.path.join(OUTPUT_DIR, f"natality_{label}.csv")
+        with open(path, newline="", encoding="utf-8") as f:
+            reader = csv.DictReader(f)
+            all_combined.extend(reader)
+
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch(headless=True)
+
+        for s_idx, scenario in enumerate(todo):
+            label   = scenario["label"]
+            b2_val  = scenario["b2_value"]
+            b2_name = scenario["b2_name"]
+            b1_val  = scenario.get("b1", B1_COUNTY)
+            geo_level = "state" if b1_val == B1_STATE else "county"
+            out_csv = os.path.join(OUTPUT_DIR, f"natality_{label}.csv")
+
+            print(f"\n[{s_idx+1}/{len(todo)}] {b2_name}  ({b2_val})  [{geo_level}]")
+
+            scenario_rows: list[dict] = []
+
+            for y_idx, year in enumerate(YEARS):
+                if request_count > 0:
+                    print(f"  Waiting {DELAY_SECS}s …", flush=True)
+                    time.sleep(DELAY_SECS)
+                request_count += 1
+
+                print(f"  [{request_count:04d}] {year} ({y_idx+1}/{len(YEARS)}) … ",
+                      end="", flush=True)
+
+                try:
+                    rows = pull_one_year(browser, b1_val, b2_val, year)
+                except Exception as e:
+                    print(f"ERROR: {e}")
+                    rows = []
+
+                if rows:
+                    print(f"✓ {len(rows)} rows")
+                    for r in rows:
+                        r["variable_label"] = label
+                        r["variable_name"]  = b2_name
+                    scenario_rows.extend(rows)
+                else:
+                    print("no data / skipped")
+
+            if scenario_rows:
+                sup_rate = suppression_rate(scenario_rows)
+                sup_pct  = f"{sup_rate*100:.1f}%"
+                flag     = " ⚠️  HIGH SUPPRESSION" if sup_rate > 0.25 else ""
+                if sup_rate > 0.25:
+                    suppression_flags.append(f"{label} ({b2_name}): {sup_pct} suppressed")
+
+                fieldnames = ["variable_label", "variable_name", "year",
+                              "geo", "category", "births"]
+                with open(out_csv, "w", newline="", encoding="utf-8") as f:
+                    writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
+                    writer.writeheader()
+                    writer.writerows(scenario_rows)
+                print(f"  ✅ Saved {len(scenario_rows):,} rows → {out_csv}  "
+                      f"[suppression: {sup_pct}]{flag}")
+                all_combined.extend(scenario_rows)
+            else:
+                print(f"  ❌ No data for {label}")
+
+        browser.close()
+
+    # Combined CSV
+    combined_path = os.path.join(OUTPUT_DIR, "natality_ALL_combined.csv")
+    if all_combined:
+        fields = ["variable_label", "variable_name", "year", "geo", "category", "births"]
+        with open(combined_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+            writer.writeheader()
+            writer.writerows(all_combined)
+        print(f"\n✅ Combined CSV: {len(all_combined):,} rows → {combined_path}")
+
+    print(f"\n{'='*65}")
+    print(f"Done. {request_count} requests made.")
+
+    if suppression_flags:
+        print(f"\n⚠️  Variables with >25% suppressed rows ({len(suppression_flags)}):")
+        for s in suppression_flags:
+            print(f"  • {s}")
+    else:
+        print("\n✅ No variables exceeded 25% suppression threshold.")
+
+    print(f"{'='*65}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1196 @@
+variable_label,variable_name,year,geo,category,births
+hepatitis_c,Hepatitis C,2016,Alabama (01),Yes,179
+hepatitis_c,Hepatitis C,2016,Alabama (01),No,58954
+hepatitis_c,Hepatitis C,2016,Alabama (01),Unknown or Not Stated,18
+hepatitis_c,Hepatitis C,2016,Alaska (02),Yes,92
+hepatitis_c,Hepatitis C,2016,Alaska (02),No,11019
+hepatitis_c,Hepatitis C,2016,Alaska (02),Unknown or Not Stated,98
+hepatitis_c,Hepatitis C,2016,Arizona (04),Yes,184
+hepatitis_c,Hepatitis C,2016,Arizona (04),No,84335
+hepatitis_c,Hepatitis C,2016,Arkansas (05),Yes,138
+hepatitis_c,Hepatitis C,2016,Arkansas (05),No,38134
+hepatitis_c,Hepatitis C,2016,California (06),Yes,401
+hepatitis_c,Hepatitis C,2016,California (06),No,488385
+hepatitis_c,Hepatitis C,2016,California (06),Unknown or Not Stated,41
+hepatitis_c,Hepatitis C,2016,Colorado (08),Yes,134
+hepatitis_c,Hepatitis C,2016,Colorado (08),No,66469
+hepatitis_c,Hepatitis C,2016,Colorado (08),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2016,Connecticut (09),Yes,135
+hepatitis_c,Hepatitis C,2016,Connecticut (09),No,35266
+hepatitis_c,Hepatitis C,2016,Connecticut (09),Unknown or Not Stated,614
+hepatitis_c,Hepatitis C,2016,Delaware (10),Yes,85
+hepatitis_c,Hepatitis C,2016,Delaware (10),No,10907
+hepatitis_c,Hepatitis C,2016,District of Columbia (11),No,9836
+hepatitis_c,Hepatitis C,2016,District of Columbia (11),Unknown or Not Stated,16
+hepatitis_c,Hepatitis C,2016,Florida (12),Yes,1176
+hepatitis_c,Hepatitis C,2016,Florida (12),No,221364
+hepatitis_c,Hepatitis C,2016,Florida (12),Unknown or Not Stated,2482
+hepatitis_c,Hepatitis C,2016,Georgia (13),Yes,177
+hepatitis_c,Hepatitis C,2016,Georgia (13),No,129334
+hepatitis_c,Hepatitis C,2016,Georgia (13),Unknown or Not Stated,531
+hepatitis_c,Hepatitis C,2016,Hawaii (15),Yes,17
+hepatitis_c,Hepatitis C,2016,Hawaii (15),No,18042
+hepatitis_c,Hepatitis C,2016,Idaho (16),Yes,43
+hepatitis_c,Hepatitis C,2016,Idaho (16),No,22367
+hepatitis_c,Hepatitis C,2016,Idaho (16),Unknown or Not Stated,72
+hepatitis_c,Hepatitis C,2016,Illinois (17),Yes,220
+hepatitis_c,Hepatitis C,2016,Illinois (17),No,153902
+hepatitis_c,Hepatitis C,2016,Illinois (17),Unknown or Not Stated,323
+hepatitis_c,Hepatitis C,2016,Indiana (18),Yes,511
+hepatitis_c,Hepatitis C,2016,Indiana (18),No,82571
+hepatitis_c,Hepatitis C,2016,Iowa (19),Yes,70
+hepatitis_c,Hepatitis C,2016,Iowa (19),No,39332
+hepatitis_c,Hepatitis C,2016,Kansas (20),Yes,71
+hepatitis_c,Hepatitis C,2016,Kansas (20),No,37982
+hepatitis_c,Hepatitis C,2016,Kentucky (21),Yes,1096
+hepatitis_c,Hepatitis C,2016,Kentucky (21),No,53833
+hepatitis_c,Hepatitis C,2016,Kentucky (21),Unknown or Not Stated,520
+hepatitis_c,Hepatitis C,2016,Louisiana (22),Yes,240
+hepatitis_c,Hepatitis C,2016,Louisiana (22),No,62938
+hepatitis_c,Hepatitis C,2016,Maine (23),Yes,137
+hepatitis_c,Hepatitis C,2016,Maine (23),No,12487
+hepatitis_c,Hepatitis C,2016,Maine (23),Unknown or Not Stated,81
+hepatitis_c,Hepatitis C,2016,Maryland (24),Yes,276
+hepatitis_c,Hepatitis C,2016,Maryland (24),No,72767
+hepatitis_c,Hepatitis C,2016,Maryland (24),Unknown or Not Stated,93
+hepatitis_c,Hepatitis C,2016,Massachusetts (25),Yes,696
+hepatitis_c,Hepatitis C,2016,Massachusetts (25),No,70515
+hepatitis_c,Hepatitis C,2016,Massachusetts (25),Unknown or Not Stated,106
+hepatitis_c,Hepatitis C,2016,Michigan (26),Yes,354
+hepatitis_c,Hepatitis C,2016,Michigan (26),No,111936
+hepatitis_c,Hepatitis C,2016,Michigan (26),Unknown or Not Stated,1025
+hepatitis_c,Hepatitis C,2016,Minnesota (27),Yes,164
+hepatitis_c,Hepatitis C,2016,Minnesota (27),No,69395
+hepatitis_c,Hepatitis C,2016,Minnesota (27),Unknown or Not Stated,190
+hepatitis_c,Hepatitis C,2016,Mississippi (28),Yes,59
+hepatitis_c,Hepatitis C,2016,Mississippi (28),No,37851
+hepatitis_c,Hepatitis C,2016,Mississippi (28),Unknown or Not Stated,18
+hepatitis_c,Hepatitis C,2016,Missouri (29),Yes,518
+hepatitis_c,Hepatitis C,2016,Missouri (29),No,74185
+hepatitis_c,Hepatitis C,2016,Montana (30),Yes,180
+hepatitis_c,Hepatitis C,2016,Montana (30),No,12075
+hepatitis_c,Hepatitis C,2016,Montana (30),Unknown or Not Stated,27
+hepatitis_c,Hepatitis C,2016,Nebraska (31),Yes,41
+hepatitis_c,Hepatitis C,2016,Nebraska (31),No,26483
+hepatitis_c,Hepatitis C,2016,Nebraska (31),Unknown or Not Stated,65
+hepatitis_c,Hepatitis C,2016,Nevada (32),Yes,59
+hepatitis_c,Hepatitis C,2016,Nevada (32),No,36198
+hepatitis_c,Hepatitis C,2016,New Hampshire (33),Yes,160
+hepatitis_c,Hepatitis C,2016,New Hampshire (33),No,11995
+hepatitis_c,Hepatitis C,2016,New Hampshire (33),Unknown or Not Stated,112
+hepatitis_c,Hepatitis C,2016,New Jersey (34),Yes,470
+hepatitis_c,Hepatitis C,2016,New Jersey (34),No,102172
+hepatitis_c,Hepatitis C,2016,New Mexico (35),Yes,188
+hepatitis_c,Hepatitis C,2016,New Mexico (35),No,24312
+hepatitis_c,Hepatitis C,2016,New Mexico (35),Unknown or Not Stated,192
+hepatitis_c,Hepatitis C,2016,New York (36),Yes,635
+hepatitis_c,Hepatitis C,2016,New York (36),No,232614
+hepatitis_c,Hepatitis C,2016,New York (36),Unknown or Not Stated,1034
+hepatitis_c,Hepatitis C,2016,North Carolina (37),Yes,434
+hepatitis_c,Hepatitis C,2016,North Carolina (37),No,120006
+hepatitis_c,Hepatitis C,2016,North Carolina (37),Unknown or Not Stated,339
+hepatitis_c,Hepatitis C,2016,North Dakota (38),Yes,92
+hepatitis_c,Hepatitis C,2016,North Dakota (38),No,11289
+hepatitis_c,Hepatitis C,2016,Ohio (39),Yes,1853
+hepatitis_c,Hepatitis C,2016,Ohio (39),No,136178
+hepatitis_c,Hepatitis C,2016,Ohio (39),Unknown or Not Stated,54
+hepatitis_c,Hepatitis C,2016,Oklahoma (40),Yes,224
+hepatitis_c,Hepatitis C,2016,Oklahoma (40),No,52367
+hepatitis_c,Hepatitis C,2016,Oregon (41),Yes,189
+hepatitis_c,Hepatitis C,2016,Oregon (41),No,45341
+hepatitis_c,Hepatitis C,2016,Pennsylvania (42),Yes,1363
+hepatitis_c,Hepatitis C,2016,Pennsylvania (42),No,138000
+hepatitis_c,Hepatitis C,2016,Pennsylvania (42),Unknown or Not Stated,46
+hepatitis_c,Hepatitis C,2016,Rhode Island (44),Yes,43
+hepatitis_c,Hepatitis C,2016,Rhode Island (44),No,10754
+hepatitis_c,Hepatitis C,2016,South Carolina (45),Yes,176
+hepatitis_c,Hepatitis C,2016,South Carolina (45),No,57149
+hepatitis_c,Hepatitis C,2016,South Carolina (45),Unknown or Not Stated,17
+hepatitis_c,Hepatitis C,2016,South Dakota (46),Yes,32
+hepatitis_c,Hepatitis C,2016,South Dakota (46),No,12241
+hepatitis_c,Hepatitis C,2016,Tennessee (47),Yes,1111
+hepatitis_c,Hepatitis C,2016,Tennessee (47),No,79683
+hepatitis_c,Hepatitis C,2016,Tennessee (47),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2016,Texas (48),Yes,448
+hepatitis_c,Hepatitis C,2016,Texas (48),No,397593
+hepatitis_c,Hepatitis C,2016,Utah (49),Yes,80
+hepatitis_c,Hepatitis C,2016,Utah (49),No,50383
+hepatitis_c,Hepatitis C,2016,Vermont (50),Yes,86
+hepatitis_c,Hepatitis C,2016,Vermont (50),No,5670
+hepatitis_c,Hepatitis C,2016,Virginia (51),Yes,376
+hepatitis_c,Hepatitis C,2016,Virginia (51),No,102075
+hepatitis_c,Hepatitis C,2016,Washington (53),Yes,343
+hepatitis_c,Hepatitis C,2016,Washington (53),No,89684
+hepatitis_c,Hepatitis C,2016,Washington (53),Unknown or Not Stated,478
+hepatitis_c,Hepatitis C,2016,West Virginia (54),Yes,634
+hepatitis_c,Hepatitis C,2016,West Virginia (54),No,18170
+hepatitis_c,Hepatitis C,2016,West Virginia (54),Unknown or Not Stated,275
+hepatitis_c,Hepatitis C,2016,Wisconsin (55),Yes,173
+hepatitis_c,Hepatitis C,2016,Wisconsin (55),No,65758
+hepatitis_c,Hepatitis C,2016,Wisconsin (55),Unknown or Not Stated,684
+hepatitis_c,Hepatitis C,2016,Wyoming (56),Yes,19
+hepatitis_c,Hepatitis C,2016,Wyoming (56),No,7367
+hepatitis_c,Hepatitis C,2017,Alabama (01),Yes,184
+hepatitis_c,Hepatitis C,2017,Alabama (01),No,58742
+hepatitis_c,Hepatitis C,2017,Alabama (01),Unknown or Not Stated,15
+hepatitis_c,Hepatitis C,2017,Alaska (02),Yes,92
+hepatitis_c,Hepatitis C,2017,Alaska (02),No,10234
+hepatitis_c,Hepatitis C,2017,Alaska (02),Unknown or Not Stated,119
+hepatitis_c,Hepatitis C,2017,Arizona (04),Yes,195
+hepatitis_c,Hepatitis C,2017,Arizona (04),No,81671
+hepatitis_c,Hepatitis C,2017,Arkansas (05),Yes,208
+hepatitis_c,Hepatitis C,2017,Arkansas (05),No,37308
+hepatitis_c,Hepatitis C,2017,California (06),Yes,461
+hepatitis_c,Hepatitis C,2017,California (06),No,471164
+hepatitis_c,Hepatitis C,2017,California (06),Unknown or Not Stated,33
+hepatitis_c,Hepatitis C,2017,Colorado (08),Yes,147
+hepatitis_c,Hepatitis C,2017,Colorado (08),No,64224
+hepatitis_c,Hepatitis C,2017,Colorado (08),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2017,Connecticut (09),Yes,106
+hepatitis_c,Hepatitis C,2017,Connecticut (09),No,34868
+hepatitis_c,Hepatitis C,2017,Connecticut (09),Unknown or Not Stated,247
+hepatitis_c,Hepatitis C,2017,Delaware (10),Yes,101
+hepatitis_c,Hepatitis C,2017,Delaware (10),No,10753
+hepatitis_c,Hepatitis C,2017,District of Columbia (11),No,9552
+hepatitis_c,Hepatitis C,2017,Florida (12),Yes,1288
+hepatitis_c,Hepatitis C,2017,Florida (12),No,219927
+hepatitis_c,Hepatitis C,2017,Florida (12),Unknown or Not Stated,2415
+hepatitis_c,Hepatitis C,2017,Georgia (13),Yes,226
+hepatitis_c,Hepatitis C,2017,Georgia (13),No,128481
+hepatitis_c,Hepatitis C,2017,Georgia (13),Unknown or Not Stated,536
+hepatitis_c,Hepatitis C,2017,Hawaii (15),Yes,19
+hepatitis_c,Hepatitis C,2017,Hawaii (15),No,17498
+hepatitis_c,Hepatitis C,2017,Idaho (16),Yes,44
+hepatitis_c,Hepatitis C,2017,Idaho (16),No,22087
+hepatitis_c,Hepatitis C,2017,Idaho (16),Unknown or Not Stated,50
+hepatitis_c,Hepatitis C,2017,Illinois (17),Yes,268
+hepatitis_c,Hepatitis C,2017,Illinois (17),No,148639
+hepatitis_c,Hepatitis C,2017,Illinois (17),Unknown or Not Stated,483
+hepatitis_c,Hepatitis C,2017,Indiana (18),Yes,602
+hepatitis_c,Hepatitis C,2017,Indiana (18),No,81564
+hepatitis_c,Hepatitis C,2017,Iowa (19),Yes,67
+hepatitis_c,Hepatitis C,2017,Iowa (19),No,38357
+hepatitis_c,Hepatitis C,2017,Kansas (20),Yes,71
+hepatitis_c,Hepatitis C,2017,Kansas (20),No,36447
+hepatitis_c,Hepatitis C,2017,Kentucky (21),Yes,1261
+hepatitis_c,Hepatitis C,2017,Kentucky (21),No,53261
+hepatitis_c,Hepatitis C,2017,Kentucky (21),Unknown or Not Stated,230
+hepatitis_c,Hepatitis C,2017,Louisiana (22),Yes,231
+hepatitis_c,Hepatitis C,2017,Louisiana (22),No,60787
+hepatitis_c,Hepatitis C,2017,Maine (23),Yes,159
+hepatitis_c,Hepatitis C,2017,Maine (23),No,12088
+hepatitis_c,Hepatitis C,2017,Maine (23),Unknown or Not Stated,51
+hepatitis_c,Hepatitis C,2017,Maryland (24),Yes,264
+hepatitis_c,Hepatitis C,2017,Maryland (24),No,71335
+hepatitis_c,Hepatitis C,2017,Maryland (24),Unknown or Not Stated,42
+hepatitis_c,Hepatitis C,2017,Massachusetts (25),Yes,719
+hepatitis_c,Hepatitis C,2017,Massachusetts (25),No,69907
+hepatitis_c,Hepatitis C,2017,Massachusetts (25),Unknown or Not Stated,76
+hepatitis_c,Hepatitis C,2017,Michigan (26),Yes,437
+hepatitis_c,Hepatitis C,2017,Michigan (26),No,109538
+hepatitis_c,Hepatitis C,2017,Michigan (26),Unknown or Not Stated,1451
+hepatitis_c,Hepatitis C,2017,Minnesota (27),Yes,180
+hepatitis_c,Hepatitis C,2017,Minnesota (27),No,68180
+hepatitis_c,Hepatitis C,2017,Minnesota (27),Unknown or Not Stated,235
+hepatitis_c,Hepatitis C,2017,Mississippi (28),Yes,77
+hepatitis_c,Hepatitis C,2017,Mississippi (28),No,37268
+hepatitis_c,Hepatitis C,2017,Mississippi (28),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2017,Missouri (29),Yes,527
+hepatitis_c,Hepatitis C,2017,Missouri (29),No,72506
+hepatitis_c,Hepatitis C,2017,Montana (30),Yes,178
+hepatitis_c,Hepatitis C,2017,Montana (30),No,11602
+hepatitis_c,Hepatitis C,2017,Montana (30),Unknown or Not Stated,19
+hepatitis_c,Hepatitis C,2017,Nebraska (31),Yes,27
+hepatitis_c,Hepatitis C,2017,Nebraska (31),No,25760
+hepatitis_c,Hepatitis C,2017,Nebraska (31),Unknown or Not Stated,34
+hepatitis_c,Hepatitis C,2017,Nevada (32),Yes,73
+hepatitis_c,Hepatitis C,2017,Nevada (32),No,35681
+hepatitis_c,Hepatitis C,2017,New Hampshire (33),Yes,200
+hepatitis_c,Hepatitis C,2017,New Hampshire (33),No,11891
+hepatitis_c,Hepatitis C,2017,New Hampshire (33),Unknown or Not Stated,25
+hepatitis_c,Hepatitis C,2017,New Jersey (34),Yes,507
+hepatitis_c,Hepatitis C,2017,New Jersey (34),No,100740
+hepatitis_c,Hepatitis C,2017,New Mexico (35),Yes,209
+hepatitis_c,Hepatitis C,2017,New Mexico (35),No,23344
+hepatitis_c,Hepatitis C,2017,New Mexico (35),Unknown or Not Stated,214
+hepatitis_c,Hepatitis C,2017,New York (36),Yes,691
+hepatitis_c,Hepatitis C,2017,New York (36),No,227917
+hepatitis_c,Hepatitis C,2017,New York (36),Unknown or Not Stated,1129
+hepatitis_c,Hepatitis C,2017,North Carolina (37),Yes,551
+hepatitis_c,Hepatitis C,2017,North Carolina (37),No,119129
+hepatitis_c,Hepatitis C,2017,North Carolina (37),Unknown or Not Stated,445
+hepatitis_c,Hepatitis C,2017,North Dakota (38),Yes,98
+hepatitis_c,Hepatitis C,2017,North Dakota (38),No,10636
+hepatitis_c,Hepatitis C,2017,Ohio (39),Yes,1892
+hepatitis_c,Hepatitis C,2017,Ohio (39),No,134897
+hepatitis_c,Hepatitis C,2017,Ohio (39),Unknown or Not Stated,43
+hepatitis_c,Hepatitis C,2017,Oklahoma (40),Yes,247
+hepatitis_c,Hepatitis C,2017,Oklahoma (40),No,49965
+hepatitis_c,Hepatitis C,2017,Oregon (41),Yes,200
+hepatitis_c,Hepatitis C,2017,Oregon (41),No,43430
+hepatitis_c,Hepatitis C,2017,Pennsylvania (42),Yes,1492
+hepatitis_c,Hepatitis C,2017,Pennsylvania (42),No,136201
+hepatitis_c,Hepatitis C,2017,Pennsylvania (42),Unknown or Not Stated,52
+hepatitis_c,Hepatitis C,2017,Rhode Island (44),Yes,50
+hepatitis_c,Hepatitis C,2017,Rhode Island (44),No,10588
+hepatitis_c,Hepatitis C,2017,South Carolina (45),Yes,215
+hepatitis_c,Hepatitis C,2017,South Carolina (45),No,56800
+hepatitis_c,Hepatitis C,2017,South Carolina (45),Unknown or Not Stated,14
+hepatitis_c,Hepatitis C,2017,South Dakota (46),Yes,37
+hepatitis_c,Hepatitis C,2017,South Dakota (46),No,12088
+hepatitis_c,Hepatitis C,2017,Tennessee (47),Yes,1047
+hepatitis_c,Hepatitis C,2017,Tennessee (47),No,79896
+hepatitis_c,Hepatitis C,2017,Tennessee (47),Unknown or Not Stated,73
+hepatitis_c,Hepatitis C,2017,Texas (48),Yes,462
+hepatitis_c,Hepatitis C,2017,Texas (48),No,381584
+hepatitis_c,Hepatitis C,2017,Utah (49),Yes,114
+hepatitis_c,Hepatitis C,2017,Utah (49),No,48471
+hepatitis_c,Hepatitis C,2017,Vermont (50),Yes,119
+hepatitis_c,Hepatitis C,2017,Vermont (50),No,5536
+hepatitis_c,Hepatitis C,2017,Virginia (51),Yes,470
+hepatitis_c,Hepatitis C,2017,Virginia (51),No,99912
+hepatitis_c,Hepatitis C,2017,Washington (53),Yes,383
+hepatitis_c,Hepatitis C,2017,Washington (53),No,86756
+hepatitis_c,Hepatitis C,2017,Washington (53),Unknown or Not Stated,423
+hepatitis_c,Hepatitis C,2017,West Virginia (54),Yes,663
+hepatitis_c,Hepatitis C,2017,West Virginia (54),No,17727
+hepatitis_c,Hepatitis C,2017,West Virginia (54),Unknown or Not Stated,285
+hepatitis_c,Hepatitis C,2017,Wisconsin (55),Yes,201
+hepatitis_c,Hepatitis C,2017,Wisconsin (55),No,63621
+hepatitis_c,Hepatitis C,2017,Wisconsin (55),Unknown or Not Stated,1153
+hepatitis_c,Hepatitis C,2017,Wyoming (56),Yes,21
+hepatitis_c,Hepatitis C,2017,Wyoming (56),No,6880
+hepatitis_c,Hepatitis C,2018,Alabama (01),Yes,207
+hepatitis_c,Hepatitis C,2018,Alabama (01),No,57542
+hepatitis_c,Hepatitis C,2018,Alabama (01),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2018,Alaska (02),Yes,94
+hepatitis_c,Hepatitis C,2018,Alaska (02),No,9861
+hepatitis_c,Hepatitis C,2018,Alaska (02),Unknown or Not Stated,131
+hepatitis_c,Hepatitis C,2018,Arizona (04),Yes,240
+hepatitis_c,Hepatitis C,2018,Arizona (04),No,80480
+hepatitis_c,Hepatitis C,2018,Arkansas (05),Yes,200
+hepatitis_c,Hepatitis C,2018,Arkansas (05),No,36815
+hepatitis_c,Hepatitis C,2018,California (06),Yes,520
+hepatitis_c,Hepatitis C,2018,California (06),No,454345
+hepatitis_c,Hepatitis C,2018,California (06),Unknown or Not Stated,55
+hepatitis_c,Hepatitis C,2018,Colorado (08),Yes,158
+hepatitis_c,Hepatitis C,2018,Colorado (08),No,62720
+hepatitis_c,Hepatitis C,2018,Connecticut (09),Yes,96
+hepatitis_c,Hepatitis C,2018,Connecticut (09),No,34541
+hepatitis_c,Hepatitis C,2018,Connecticut (09),Unknown or Not Stated,88
+hepatitis_c,Hepatitis C,2018,Delaware (10),Yes,112
+hepatitis_c,Hepatitis C,2018,Delaware (10),No,10505
+hepatitis_c,Hepatitis C,2018,District of Columbia (11),No,9203
+hepatitis_c,Hepatitis C,2018,Florida (12),Yes,1304
+hepatitis_c,Hepatitis C,2018,Florida (12),No,217848
+hepatitis_c,Hepatitis C,2018,Florida (12),Unknown or Not Stated,2390
+hepatitis_c,Hepatitis C,2018,Georgia (13),Yes,202
+hepatitis_c,Hepatitis C,2018,Georgia (13),No,125467
+hepatitis_c,Hepatitis C,2018,Georgia (13),Unknown or Not Stated,503
+hepatitis_c,Hepatitis C,2018,Hawaii (15),Yes,13
+hepatitis_c,Hepatitis C,2018,Hawaii (15),No,16959
+hepatitis_c,Hepatitis C,2018,Idaho (16),Yes,57
+hepatitis_c,Hepatitis C,2018,Idaho (16),No,21307
+hepatitis_c,Hepatitis C,2018,Idaho (16),Unknown or Not Stated,39
+hepatitis_c,Hepatitis C,2018,Illinois (17),Yes,257
+hepatitis_c,Hepatitis C,2018,Illinois (17),No,144173
+hepatitis_c,Hepatitis C,2018,Illinois (17),Unknown or Not Stated,385
+hepatitis_c,Hepatitis C,2018,Indiana (18),Yes,692
+hepatitis_c,Hepatitis C,2018,Indiana (18),No,80952
+hepatitis_c,Hepatitis C,2018,Iowa (19),Yes,81
+hepatitis_c,Hepatitis C,2018,Iowa (19),No,37703
+hepatitis_c,Hepatitis C,2018,Kansas (20),Yes,73
+hepatitis_c,Hepatitis C,2018,Kansas (20),No,36187
+hepatitis_c,Hepatitis C,2018,Kentucky (21),Yes,1280
+hepatitis_c,Hepatitis C,2018,Kentucky (21),No,52491
+hepatitis_c,Hepatitis C,2018,Kentucky (21),Unknown or Not Stated,151
+hepatitis_c,Hepatitis C,2018,Louisiana (22),Yes,258
+hepatitis_c,Hepatitis C,2018,Louisiana (22),No,59357
+hepatitis_c,Hepatitis C,2018,Maine (23),Yes,181
+hepatitis_c,Hepatitis C,2018,Maine (23),No,12082
+hepatitis_c,Hepatitis C,2018,Maine (23),Unknown or Not Stated,48
+hepatitis_c,Hepatitis C,2018,Maryland (24),Yes,292
+hepatitis_c,Hepatitis C,2018,Maryland (24),No,70719
+hepatitis_c,Hepatitis C,2018,Maryland (24),Unknown or Not Stated,69
+hepatitis_c,Hepatitis C,2018,Massachusetts (25),Yes,600
+hepatitis_c,Hepatitis C,2018,Massachusetts (25),No,68435
+hepatitis_c,Hepatitis C,2018,Massachusetts (25),Unknown or Not Stated,74
+hepatitis_c,Hepatitis C,2018,Michigan (26),Yes,434
+hepatitis_c,Hepatitis C,2018,Michigan (26),No,108554
+hepatitis_c,Hepatitis C,2018,Michigan (26),Unknown or Not Stated,1044
+hepatitis_c,Hepatitis C,2018,Minnesota (27),Yes,221
+hepatitis_c,Hepatitis C,2018,Minnesota (27),No,66961
+hepatitis_c,Hepatitis C,2018,Minnesota (27),Unknown or Not Stated,162
+hepatitis_c,Hepatitis C,2018,Mississippi (28),Yes,68
+hepatitis_c,Hepatitis C,2018,Mississippi (28),No,36909
+hepatitis_c,Hepatitis C,2018,Mississippi (28),Unknown or Not Stated,23
+hepatitis_c,Hepatitis C,2018,Missouri (29),Yes,542
+hepatitis_c,Hepatitis C,2018,Missouri (29),No,72726
+hepatitis_c,Hepatitis C,2018,Montana (30),Yes,184
+hepatitis_c,Hepatitis C,2018,Montana (30),No,11318
+hepatitis_c,Hepatitis C,2018,Montana (30),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2018,Nebraska (31),Yes,25
+hepatitis_c,Hepatitis C,2018,Nebraska (31),No,25421
+hepatitis_c,Hepatitis C,2018,Nebraska (31),Unknown or Not Stated,42
+hepatitis_c,Hepatitis C,2018,Nevada (32),Yes,69
+hepatitis_c,Hepatitis C,2018,Nevada (32),No,35612
+hepatitis_c,Hepatitis C,2018,New Hampshire (33),Yes,220
+hepatitis_c,Hepatitis C,2018,New Hampshire (33),No,11755
+hepatitis_c,Hepatitis C,2018,New Hampshire (33),Unknown or Not Stated,20
+hepatitis_c,Hepatitis C,2018,New Jersey (34),Yes,500
+hepatitis_c,Hepatitis C,2018,New Jersey (34),No,100713
+hepatitis_c,Hepatitis C,2018,New Jersey (34),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2018,New Mexico (35),Yes,179
+hepatitis_c,Hepatitis C,2018,New Mexico (35),No,22724
+hepatitis_c,Hepatitis C,2018,New Mexico (35),Unknown or Not Stated,136
+hepatitis_c,Hepatitis C,2018,New York (36),Yes,715
+hepatitis_c,Hepatitis C,2018,New York (36),No,224353
+hepatitis_c,Hepatitis C,2018,New York (36),Unknown or Not Stated,1170
+hepatitis_c,Hepatitis C,2018,North Carolina (37),Yes,650
+hepatitis_c,Hepatitis C,2018,North Carolina (37),No,117858
+hepatitis_c,Hepatitis C,2018,North Carolina (37),Unknown or Not Stated,446
+hepatitis_c,Hepatitis C,2018,North Dakota (38),Yes,97
+hepatitis_c,Hepatitis C,2018,North Dakota (38),No,10538
+hepatitis_c,Hepatitis C,2018,Ohio (39),Yes,2167
+hepatitis_c,Hepatitis C,2018,Ohio (39),No,132944
+hepatitis_c,Hepatitis C,2018,Ohio (39),Unknown or Not Stated,23
+hepatitis_c,Hepatitis C,2018,Oklahoma (40),Yes,214
+hepatitis_c,Hepatitis C,2018,Oklahoma (40),No,49586
+hepatitis_c,Hepatitis C,2018,Oregon (41),Yes,196
+hepatitis_c,Hepatitis C,2018,Oregon (41),No,41990
+hepatitis_c,Hepatitis C,2018,Pennsylvania (42),Yes,1625
+hepatitis_c,Hepatitis C,2018,Pennsylvania (42),No,134002
+hepatitis_c,Hepatitis C,2018,Pennsylvania (42),Unknown or Not Stated,46
+hepatitis_c,Hepatitis C,2018,Rhode Island (44),Yes,47
+hepatitis_c,Hepatitis C,2018,Rhode Island (44),No,10459
+hepatitis_c,Hepatitis C,2018,South Carolina (45),Yes,234
+hepatitis_c,Hepatitis C,2018,South Carolina (45),No,56423
+hepatitis_c,Hepatitis C,2018,South Carolina (45),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2018,South Dakota (46),Yes,68
+hepatitis_c,Hepatitis C,2018,South Dakota (46),No,11807
+hepatitis_c,Hepatitis C,2018,South Dakota (46),Unknown or Not Stated,18
+hepatitis_c,Hepatitis C,2018,Tennessee (47),Yes,1157
+hepatitis_c,Hepatitis C,2018,Tennessee (47),No,79547
+hepatitis_c,Hepatitis C,2018,Tennessee (47),Unknown or Not Stated,47
+hepatitis_c,Hepatitis C,2018,Texas (48),Yes,422
+hepatitis_c,Hepatitis C,2018,Texas (48),No,378168
+hepatitis_c,Hepatitis C,2018,Texas (48),Unknown or Not Stated,34
+hepatitis_c,Hepatitis C,2018,Utah (49),Yes,135
+hepatitis_c,Hepatitis C,2018,Utah (49),No,47073
+hepatitis_c,Hepatitis C,2018,Vermont (50),Yes,92
+hepatitis_c,Hepatitis C,2018,Vermont (50),No,5339
+hepatitis_c,Hepatitis C,2018,Virginia (51),Yes,469
+hepatitis_c,Hepatitis C,2018,Virginia (51),No,99372
+hepatitis_c,Hepatitis C,2018,Washington (53),Yes,375
+hepatitis_c,Hepatitis C,2018,Washington (53),No,85708
+hepatitis_c,Hepatitis C,2018,West Virginia (54),Yes,637
+hepatitis_c,Hepatitis C,2018,West Virginia (54),No,17344
+hepatitis_c,Hepatitis C,2018,West Virginia (54),Unknown or Not Stated,267
+hepatitis_c,Hepatitis C,2018,Wisconsin (55),Yes,238
+hepatitis_c,Hepatitis C,2018,Wisconsin (55),No,62891
+hepatitis_c,Hepatitis C,2018,Wisconsin (55),Unknown or Not Stated,969
+hepatitis_c,Hepatitis C,2018,Wyoming (56),Yes,24
+hepatitis_c,Hepatitis C,2018,Wyoming (56),No,6538
+hepatitis_c,Hepatitis C,2019,Alabama (01),Yes,231
+hepatitis_c,Hepatitis C,2019,Alabama (01),No,58374
+hepatitis_c,Hepatitis C,2019,Alabama (01),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2019,Alaska (02),Yes,80
+hepatitis_c,Hepatitis C,2019,Alaska (02),No,9633
+hepatitis_c,Hepatitis C,2019,Alaska (02),Unknown or Not Stated,109
+hepatitis_c,Hepatitis C,2019,Arizona (04),Yes,210
+hepatitis_c,Hepatitis C,2019,Arizona (04),No,79161
+hepatitis_c,Hepatitis C,2019,Arkansas (05),Yes,185
+hepatitis_c,Hepatitis C,2019,Arkansas (05),No,36377
+hepatitis_c,Hepatitis C,2019,California (06),Yes,688
+hepatitis_c,Hepatitis C,2019,California (06),No,444858
+hepatitis_c,Hepatitis C,2019,California (06),Unknown or Not Stated,933
+hepatitis_c,Hepatitis C,2019,Colorado (08),Yes,145
+hepatitis_c,Hepatitis C,2019,Colorado (08),No,62716
+hepatitis_c,Hepatitis C,2019,Connecticut (09),Yes,89
+hepatitis_c,Hepatitis C,2019,Connecticut (09),No,34085
+hepatitis_c,Hepatitis C,2019,Connecticut (09),Unknown or Not Stated,84
+hepatitis_c,Hepatitis C,2019,Delaware (10),Yes,131
+hepatitis_c,Hepatitis C,2019,Delaware (10),No,10385
+hepatitis_c,Hepatitis C,2019,Delaware (10),Unknown or Not Stated,46
+hepatitis_c,Hepatitis C,2019,District of Columbia (11),No,9065
+hepatitis_c,Hepatitis C,2019,Florida (12),Yes,1254
+hepatitis_c,Hepatitis C,2019,Florida (12),No,217678
+hepatitis_c,Hepatitis C,2019,Florida (12),Unknown or Not Stated,1070
+hepatitis_c,Hepatitis C,2019,Georgia (13),Yes,230
+hepatitis_c,Hepatitis C,2019,Georgia (13),No,125838
+hepatitis_c,Hepatitis C,2019,Georgia (13),Unknown or Not Stated,303
+hepatitis_c,Hepatitis C,2019,Hawaii (15),Yes,23
+hepatitis_c,Hepatitis C,2019,Hawaii (15),No,16774
+hepatitis_c,Hepatitis C,2019,Idaho (16),Yes,55
+hepatitis_c,Hepatitis C,2019,Idaho (16),No,21956
+hepatitis_c,Hepatitis C,2019,Idaho (16),Unknown or Not Stated,52
+hepatitis_c,Hepatitis C,2019,Illinois (17),Yes,272
+hepatitis_c,Hepatitis C,2019,Illinois (17),No,139705
+hepatitis_c,Hepatitis C,2019,Illinois (17),Unknown or Not Stated,151
+hepatitis_c,Hepatitis C,2019,Indiana (18),Yes,694
+hepatitis_c,Hepatitis C,2019,Indiana (18),No,80160
+hepatitis_c,Hepatitis C,2019,Iowa (19),Yes,89
+hepatitis_c,Hepatitis C,2019,Iowa (19),No,37556
+hepatitis_c,Hepatitis C,2019,Kansas (20),Yes,78
+hepatitis_c,Hepatitis C,2019,Kansas (20),No,35317
+hepatitis_c,Hepatitis C,2019,Kentucky (21),Yes,1249
+hepatitis_c,Hepatitis C,2019,Kentucky (21),No,51609
+hepatitis_c,Hepatitis C,2019,Kentucky (21),Unknown or Not Stated,211
+hepatitis_c,Hepatitis C,2019,Louisiana (22),Yes,240
+hepatitis_c,Hepatitis C,2019,Louisiana (22),No,58699
+hepatitis_c,Hepatitis C,2019,Maine (23),Yes,183
+hepatitis_c,Hepatitis C,2019,Maine (23),No,11529
+hepatitis_c,Hepatitis C,2019,Maine (23),Unknown or Not Stated,67
+hepatitis_c,Hepatitis C,2019,Maryland (24),Yes,307
+hepatitis_c,Hepatitis C,2019,Maryland (24),No,69840
+hepatitis_c,Hepatitis C,2019,Maryland (24),Unknown or Not Stated,31
+hepatitis_c,Hepatitis C,2019,Massachusetts (25),Yes,632
+hepatitis_c,Hepatitis C,2019,Massachusetts (25),No,68344
+hepatitis_c,Hepatitis C,2019,Massachusetts (25),Unknown or Not Stated,141
+hepatitis_c,Hepatitis C,2019,Michigan (26),Yes,436
+hepatitis_c,Hepatitis C,2019,Michigan (26),No,105971
+hepatitis_c,Hepatitis C,2019,Michigan (26),Unknown or Not Stated,1479
+hepatitis_c,Hepatitis C,2019,Minnesota (27),Yes,230
+hepatitis_c,Hepatitis C,2019,Minnesota (27),No,65584
+hepatitis_c,Hepatitis C,2019,Minnesota (27),Unknown or Not Stated,213
+hepatitis_c,Hepatitis C,2019,Mississippi (28),Yes,99
+hepatitis_c,Hepatitis C,2019,Mississippi (28),No,36516
+hepatitis_c,Hepatitis C,2019,Mississippi (28),Unknown or Not Stated,21
+hepatitis_c,Hepatitis C,2019,Missouri (29),Yes,554
+hepatitis_c,Hepatitis C,2019,Missouri (29),No,71569
+hepatitis_c,Hepatitis C,2019,Montana (30),Yes,167
+hepatitis_c,Hepatitis C,2019,Montana (30),No,10907
+hepatitis_c,Hepatitis C,2019,Nebraska (31),Yes,35
+hepatitis_c,Hepatitis C,2019,Nebraska (31),No,24677
+hepatitis_c,Hepatitis C,2019,Nebraska (31),Unknown or Not Stated,43
+hepatitis_c,Hepatitis C,2019,Nevada (32),Yes,75
+hepatitis_c,Hepatitis C,2019,Nevada (32),No,34995
+hepatitis_c,Hepatitis C,2019,New Hampshire (33),Yes,203
+hepatitis_c,Hepatitis C,2019,New Hampshire (33),No,11612
+hepatitis_c,Hepatitis C,2019,New Hampshire (33),Unknown or Not Stated,24
+hepatitis_c,Hepatitis C,2019,New Jersey (34),Yes,507
+hepatitis_c,Hepatitis C,2019,New Jersey (34),No,99068
+hepatitis_c,Hepatitis C,2019,New Jersey (34),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2019,New Mexico (35),Yes,162
+hepatitis_c,Hepatitis C,2019,New Mexico (35),No,22690
+hepatitis_c,Hepatitis C,2019,New Mexico (35),Unknown or Not Stated,108
+hepatitis_c,Hepatitis C,2019,New York (36),Yes,732
+hepatitis_c,Hepatitis C,2019,New York (36),No,219519
+hepatitis_c,Hepatitis C,2019,New York (36),Unknown or Not Stated,1288
+hepatitis_c,Hepatitis C,2019,North Carolina (37),Yes,701
+hepatitis_c,Hepatitis C,2019,North Carolina (37),No,117413
+hepatitis_c,Hepatitis C,2019,North Carolina (37),Unknown or Not Stated,611
+hepatitis_c,Hepatitis C,2019,North Dakota (38),Yes,144
+hepatitis_c,Hepatitis C,2019,North Dakota (38),No,10310
+hepatitis_c,Hepatitis C,2019,Ohio (39),Yes,1932
+hepatitis_c,Hepatitis C,2019,Ohio (39),No,132476
+hepatitis_c,Hepatitis C,2019,Ohio (39),Unknown or Not Stated,53
+hepatitis_c,Hepatitis C,2019,Oklahoma (40),Yes,248
+hepatitis_c,Hepatitis C,2019,Oklahoma (40),No,48889
+hepatitis_c,Hepatitis C,2019,Oregon (41),Yes,167
+hepatitis_c,Hepatitis C,2019,Oregon (41),No,41688
+hepatitis_c,Hepatitis C,2019,Pennsylvania (42),Yes,1600
+hepatitis_c,Hepatitis C,2019,Pennsylvania (42),No,132582
+hepatitis_c,Hepatitis C,2019,Pennsylvania (42),Unknown or Not Stated,48
+hepatitis_c,Hepatitis C,2019,Rhode Island (44),Yes,41
+hepatitis_c,Hepatitis C,2019,Rhode Island (44),No,10133
+hepatitis_c,Hepatitis C,2019,South Carolina (45),Yes,263
+hepatitis_c,Hepatitis C,2019,South Carolina (45),No,56762
+hepatitis_c,Hepatitis C,2019,South Carolina (45),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2019,South Dakota (46),Yes,53
+hepatitis_c,Hepatitis C,2019,South Dakota (46),No,11391
+hepatitis_c,Hepatitis C,2019,Tennessee (47),Yes,1140
+hepatitis_c,Hepatitis C,2019,Tennessee (47),No,79299
+hepatitis_c,Hepatitis C,2019,Tennessee (47),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2019,Texas (48),Yes,413
+hepatitis_c,Hepatitis C,2019,Texas (48),No,376343
+hepatitis_c,Hepatitis C,2019,Texas (48),Unknown or Not Stated,843
+hepatitis_c,Hepatitis C,2019,Utah (49),Yes,131
+hepatitis_c,Hepatitis C,2019,Utah (49),No,46694
+hepatitis_c,Hepatitis C,2019,Vermont (50),Yes,75
+hepatitis_c,Hepatitis C,2019,Vermont (50),No,5285
+hepatitis_c,Hepatitis C,2019,Virginia (51),Yes,513
+hepatitis_c,Hepatitis C,2019,Virginia (51),No,96897
+hepatitis_c,Hepatitis C,2019,Virginia (51),Unknown or Not Stated,19
+hepatitis_c,Hepatitis C,2019,Washington (53),Yes,345
+hepatitis_c,Hepatitis C,2019,Washington (53),No,84519
+hepatitis_c,Hepatitis C,2019,Washington (53),Unknown or Not Stated,31
+hepatitis_c,Hepatitis C,2019,West Virginia (54),Yes,614
+hepatitis_c,Hepatitis C,2019,West Virginia (54),No,16936
+hepatitis_c,Hepatitis C,2019,West Virginia (54),Unknown or Not Stated,586
+hepatitis_c,Hepatitis C,2019,Wisconsin (55),Yes,236
+hepatitis_c,Hepatitis C,2019,Wisconsin (55),No,62231
+hepatitis_c,Hepatitis C,2019,Wisconsin (55),Unknown or Not Stated,803
+hepatitis_c,Hepatitis C,2019,Wyoming (56),Yes,28
+hepatitis_c,Hepatitis C,2019,Wyoming (56),No,6537
+hepatitis_c,Hepatitis C,2020,Alabama (01),Yes,208
+hepatitis_c,Hepatitis C,2020,Alabama (01),No,57434
+hepatitis_c,Hepatitis C,2020,Alaska (02),Yes,104
+hepatitis_c,Hepatitis C,2020,Alaska (02),No,9278
+hepatitis_c,Hepatitis C,2020,Alaska (02),Unknown or Not Stated,87
+hepatitis_c,Hepatitis C,2020,Arizona (04),Yes,205
+hepatitis_c,Hepatitis C,2020,Arizona (04),No,76738
+hepatitis_c,Hepatitis C,2020,Arkansas (05),Yes,144
+hepatitis_c,Hepatitis C,2020,Arkansas (05),No,35105
+hepatitis_c,Hepatitis C,2020,California (06),Yes,649
+hepatitis_c,Hepatitis C,2020,California (06),No,418194
+hepatitis_c,Hepatitis C,2020,California (06),Unknown or Not Stated,1416
+hepatitis_c,Hepatitis C,2020,Colorado (08),Yes,132
+hepatitis_c,Hepatitis C,2020,Colorado (08),No,61351
+hepatitis_c,Hepatitis C,2020,Colorado (08),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2020,Connecticut (09),Yes,113
+hepatitis_c,Hepatitis C,2020,Connecticut (09),No,33257
+hepatitis_c,Hepatitis C,2020,Connecticut (09),Unknown or Not Stated,90
+hepatitis_c,Hepatitis C,2020,Delaware (10),Yes,106
+hepatitis_c,Hepatitis C,2020,Delaware (10),No,10167
+hepatitis_c,Hepatitis C,2020,Delaware (10),Unknown or Not Stated,119
+hepatitis_c,Hepatitis C,2020,District of Columbia (11),No,8862
+hepatitis_c,Hepatitis C,2020,Florida (12),Yes,1173
+hepatitis_c,Hepatitis C,2020,Florida (12),No,207676
+hepatitis_c,Hepatitis C,2020,Florida (12),Unknown or Not Stated,822
+hepatitis_c,Hepatitis C,2020,Georgia (13),Yes,212
+hepatitis_c,Hepatitis C,2020,Georgia (13),No,121962
+hepatitis_c,Hepatitis C,2020,Georgia (13),Unknown or Not Stated,299
+hepatitis_c,Hepatitis C,2020,Hawaii (15),Yes,16
+hepatitis_c,Hepatitis C,2020,Hawaii (15),No,15768
+hepatitis_c,Hepatitis C,2020,Idaho (16),Yes,55
+hepatitis_c,Hepatitis C,2020,Idaho (16),No,21443
+hepatitis_c,Hepatitis C,2020,Idaho (16),Unknown or Not Stated,35
+hepatitis_c,Hepatitis C,2020,Illinois (17),Yes,260
+hepatitis_c,Hepatitis C,2020,Illinois (17),No,132815
+hepatitis_c,Hepatitis C,2020,Illinois (17),Unknown or Not Stated,223
+hepatitis_c,Hepatitis C,2020,Indiana (18),Yes,657
+hepatitis_c,Hepatitis C,2020,Indiana (18),No,77909
+hepatitis_c,Hepatitis C,2020,Indiana (18),Unknown or Not Stated,50
+hepatitis_c,Hepatitis C,2020,Iowa (19),Yes,75
+hepatitis_c,Hepatitis C,2020,Iowa (19),No,36036
+hepatitis_c,Hepatitis C,2020,Kansas (20),Yes,71
+hepatitis_c,Hepatitis C,2020,Kansas (20),No,34303
+hepatitis_c,Hepatitis C,2020,Kentucky (21),Yes,1289
+hepatitis_c,Hepatitis C,2020,Kentucky (21),No,49731
+hepatitis_c,Hepatitis C,2020,Kentucky (21),Unknown or Not Stated,648
+hepatitis_c,Hepatitis C,2020,Louisiana (22),Yes,256
+hepatitis_c,Hepatitis C,2020,Louisiana (22),No,57070
+hepatitis_c,Hepatitis C,2020,Maine (23),Yes,182
+hepatitis_c,Hepatitis C,2020,Maine (23),No,11194
+hepatitis_c,Hepatitis C,2020,Maine (23),Unknown or Not Stated,163
+hepatitis_c,Hepatitis C,2020,Maryland (24),Yes,312
+hepatitis_c,Hepatitis C,2020,Maryland (24),No,68215
+hepatitis_c,Hepatitis C,2020,Maryland (24),Unknown or Not Stated,27
+hepatitis_c,Hepatitis C,2020,Massachusetts (25),Yes,616
+hepatitis_c,Hepatitis C,2020,Massachusetts (25),No,65577
+hepatitis_c,Hepatitis C,2020,Massachusetts (25),Unknown or Not Stated,235
+hepatitis_c,Hepatitis C,2020,Michigan (26),Yes,404
+hepatitis_c,Hepatitis C,2020,Michigan (26),No,102292
+hepatitis_c,Hepatitis C,2020,Michigan (26),Unknown or Not Stated,1378
+hepatitis_c,Hepatitis C,2020,Minnesota (27),Yes,231
+hepatitis_c,Hepatitis C,2020,Minnesota (27),No,63034
+hepatitis_c,Hepatitis C,2020,Minnesota (27),Unknown or Not Stated,178
+hepatitis_c,Hepatitis C,2020,Mississippi (28),Yes,75
+hepatitis_c,Hepatitis C,2020,Mississippi (28),No,35390
+hepatitis_c,Hepatitis C,2020,Missouri (29),Yes,512
+hepatitis_c,Hepatitis C,2020,Missouri (29),No,68769
+hepatitis_c,Hepatitis C,2020,Montana (30),Yes,166
+hepatitis_c,Hepatitis C,2020,Montana (30),No,10624
+hepatitis_c,Hepatitis C,2020,Nebraska (31),Yes,34
+hepatitis_c,Hepatitis C,2020,Nebraska (31),No,24163
+hepatitis_c,Hepatitis C,2020,Nebraska (31),Unknown or Not Stated,94
+hepatitis_c,Hepatitis C,2020,Nevada (32),Yes,88
+hepatitis_c,Hepatitis C,2020,Nevada (32),No,33564
+hepatitis_c,Hepatitis C,2020,New Hampshire (33),Yes,209
+hepatitis_c,Hepatitis C,2020,New Hampshire (33),No,11549
+hepatitis_c,Hepatitis C,2020,New Hampshire (33),Unknown or Not Stated,33
+hepatitis_c,Hepatitis C,2020,New Jersey (34),Yes,452
+hepatitis_c,Hepatitis C,2020,New Jersey (34),No,97492
+hepatitis_c,Hepatitis C,2020,New Jersey (34),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2020,New Mexico (35),Yes,121
+hepatitis_c,Hepatitis C,2020,New Mexico (35),No,21629
+hepatitis_c,Hepatitis C,2020,New Mexico (35),Unknown or Not Stated,153
+hepatitis_c,Hepatitis C,2020,New York (36),Yes,729
+hepatitis_c,Hepatitis C,2020,New York (36),No,207421
+hepatitis_c,Hepatitis C,2020,New York (36),Unknown or Not Stated,1188
+hepatitis_c,Hepatitis C,2020,North Carolina (37),Yes,694
+hepatitis_c,Hepatitis C,2020,North Carolina (37),No,114570
+hepatitis_c,Hepatitis C,2020,North Carolina (37),Unknown or Not Stated,1466
+hepatitis_c,Hepatitis C,2020,North Dakota (38),Yes,113
+hepatitis_c,Hepatitis C,2020,North Dakota (38),No,9946
+hepatitis_c,Hepatitis C,2020,Ohio (39),Yes,1949
+hepatitis_c,Hepatitis C,2020,Ohio (39),No,127218
+hepatitis_c,Hepatitis C,2020,Ohio (39),Unknown or Not Stated,24
+hepatitis_c,Hepatitis C,2020,Oklahoma (40),Yes,227
+hepatitis_c,Hepatitis C,2020,Oklahoma (40),No,47394
+hepatitis_c,Hepatitis C,2020,Oregon (41),Yes,194
+hepatitis_c,Hepatitis C,2020,Oregon (41),No,39623
+hepatitis_c,Hepatitis C,2020,Pennsylvania (42),Yes,1513
+hepatitis_c,Hepatitis C,2020,Pennsylvania (42),No,129112
+hepatitis_c,Hepatitis C,2020,Pennsylvania (42),Unknown or Not Stated,68
+hepatitis_c,Hepatitis C,2020,Rhode Island (44),Yes,46
+hepatitis_c,Hepatitis C,2020,Rhode Island (44),No,10048
+hepatitis_c,Hepatitis C,2020,South Carolina (45),Yes,239
+hepatitis_c,Hepatitis C,2020,South Carolina (45),No,55445
+hepatitis_c,Hepatitis C,2020,South Carolina (45),Unknown or Not Stated,20
+hepatitis_c,Hepatitis C,2020,South Dakota (46),Yes,63
+hepatitis_c,Hepatitis C,2020,South Dakota (46),No,10890
+hepatitis_c,Hepatitis C,2020,Tennessee (47),Yes,1121
+hepatitis_c,Hepatitis C,2020,Tennessee (47),No,77563
+hepatitis_c,Hepatitis C,2020,Texas (48),Yes,320
+hepatitis_c,Hepatitis C,2020,Texas (48),No,367054
+hepatitis_c,Hepatitis C,2020,Texas (48),Unknown or Not Stated,816
+hepatitis_c,Hepatitis C,2020,Utah (49),Yes,119
+hepatitis_c,Hepatitis C,2020,Utah (49),No,45583
+hepatitis_c,Hepatitis C,2020,Vermont (50),Yes,85
+hepatitis_c,Hepatitis C,2020,Vermont (50),No,5046
+hepatitis_c,Hepatitis C,2020,Virginia (51),Yes,492
+hepatitis_c,Hepatitis C,2020,Virginia (51),No,94232
+hepatitis_c,Hepatitis C,2020,Virginia (51),Unknown or Not Stated,25
+hepatitis_c,Hepatitis C,2020,Washington (53),Yes,353
+hepatitis_c,Hepatitis C,2020,Washington (53),No,82202
+hepatitis_c,Hepatitis C,2020,Washington (53),Unknown or Not Stated,531
+hepatitis_c,Hepatitis C,2020,West Virginia (54),Yes,573
+hepatitis_c,Hepatitis C,2020,West Virginia (54),No,16307
+hepatitis_c,Hepatitis C,2020,West Virginia (54),Unknown or Not Stated,443
+hepatitis_c,Hepatitis C,2020,Wisconsin (55),Yes,263
+hepatitis_c,Hepatitis C,2020,Wisconsin (55),No,59619
+hepatitis_c,Hepatitis C,2020,Wisconsin (55),Unknown or Not Stated,712
+hepatitis_c,Hepatitis C,2020,Wyoming (56),Yes,19
+hepatitis_c,Hepatitis C,2020,Wyoming (56),No,6108
+hepatitis_c,Hepatitis C,2021,Alabama (01),Yes,204
+hepatitis_c,Hepatitis C,2021,Alabama (01),No,57842
+hepatitis_c,Hepatitis C,2021,Alaska (02),Yes,97
+hepatitis_c,Hepatitis C,2021,Alaska (02),No,9206
+hepatitis_c,Hepatitis C,2021,Alaska (02),Unknown or Not Stated,64
+hepatitis_c,Hepatitis C,2021,Arizona (04),Yes,212
+hepatitis_c,Hepatitis C,2021,Arizona (04),No,77698
+hepatitis_c,Hepatitis C,2021,Arkansas (05),Yes,164
+hepatitis_c,Hepatitis C,2021,Arkansas (05),No,35798
+hepatitis_c,Hepatitis C,2021,California (06),Yes,597
+hepatitis_c,Hepatitis C,2021,California (06),No,418190
+hepatitis_c,Hepatitis C,2021,California (06),Unknown or Not Stated,1821
+hepatitis_c,Hepatitis C,2021,Colorado (08),Yes,134
+hepatitis_c,Hepatitis C,2021,Colorado (08),No,62810
+hepatitis_c,Hepatitis C,2021,Connecticut (09),Yes,100
+hepatitis_c,Hepatitis C,2021,Connecticut (09),No,35540
+hepatitis_c,Hepatitis C,2021,Connecticut (09),Unknown or Not Stated,30
+hepatitis_c,Hepatitis C,2021,Delaware (10),Yes,71
+hepatitis_c,Hepatitis C,2021,Delaware (10),No,10322
+hepatitis_c,Hepatitis C,2021,Delaware (10),Unknown or Not Stated,89
+hepatitis_c,Hepatitis C,2021,District of Columbia (11),No,8548
+hepatitis_c,Hepatitis C,2021,District of Columbia (11),Unknown or Not Stated,106
+hepatitis_c,Hepatitis C,2021,Florida (12),Yes,1080
+hepatitis_c,Hepatitis C,2021,Florida (12),No,213902
+hepatitis_c,Hepatitis C,2021,Florida (12),Unknown or Not Stated,1278
+hepatitis_c,Hepatitis C,2021,Georgia (13),Yes,237
+hepatitis_c,Hepatitis C,2021,Georgia (13),No,123525
+hepatitis_c,Hepatitis C,2021,Georgia (13),Unknown or Not Stated,311
+hepatitis_c,Hepatitis C,2021,Hawaii (15),Yes,11
+hepatitis_c,Hepatitis C,2021,Hawaii (15),No,15609
+hepatitis_c,Hepatitis C,2021,Idaho (16),Yes,39
+hepatitis_c,Hepatitis C,2021,Idaho (16),No,22315
+hepatitis_c,Hepatitis C,2021,Idaho (16),Unknown or Not Stated,73
+hepatitis_c,Hepatitis C,2021,Illinois (17),Yes,254
+hepatitis_c,Hepatitis C,2021,Illinois (17),No,131784
+hepatitis_c,Hepatitis C,2021,Illinois (17),Unknown or Not Stated,151
+hepatitis_c,Hepatitis C,2021,Indiana (18),Yes,647
+hepatitis_c,Hepatitis C,2021,Indiana (18),No,76883
+hepatitis_c,Hepatitis C,2021,Indiana (18),Unknown or Not Stated,2416
+hepatitis_c,Hepatitis C,2021,Iowa (19),Yes,59
+hepatitis_c,Hepatitis C,2021,Iowa (19),No,36763
+hepatitis_c,Hepatitis C,2021,Iowa (19),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2021,Kansas (20),Yes,80
+hepatitis_c,Hepatitis C,2021,Kansas (20),No,34622
+hepatitis_c,Hepatitis C,2021,Kentucky (21),Yes,1159
+hepatitis_c,Hepatitis C,2021,Kentucky (21),No,50757
+hepatitis_c,Hepatitis C,2021,Kentucky (21),Unknown or Not Stated,298
+hepatitis_c,Hepatitis C,2021,Louisiana (22),Yes,229
+hepatitis_c,Hepatitis C,2021,Louisiana (22),No,57201
+hepatitis_c,Hepatitis C,2021,Maine (23),Yes,182
+hepatitis_c,Hepatitis C,2021,Maine (23),No,11777
+hepatitis_c,Hepatitis C,2021,Maine (23),Unknown or Not Stated,47
+hepatitis_c,Hepatitis C,2021,Maryland (24),Yes,293
+hepatitis_c,Hepatitis C,2021,Maryland (24),No,67973
+hepatitis_c,Hepatitis C,2021,Maryland (24),Unknown or Not Stated,19
+hepatitis_c,Hepatitis C,2021,Massachusetts (25),Yes,554
+hepatitis_c,Hepatitis C,2021,Massachusetts (25),No,67902
+hepatitis_c,Hepatitis C,2021,Massachusetts (25),Unknown or Not Stated,681
+hepatitis_c,Hepatitis C,2021,Michigan (26),Yes,422
+hepatitis_c,Hepatitis C,2021,Michigan (26),No,103317
+hepatitis_c,Hepatitis C,2021,Michigan (26),Unknown or Not Stated,1241
+hepatitis_c,Hepatitis C,2021,Minnesota (27),Yes,213
+hepatitis_c,Hepatitis C,2021,Minnesota (27),No,64039
+hepatitis_c,Hepatitis C,2021,Minnesota (27),Unknown or Not Stated,173
+hepatitis_c,Hepatitis C,2021,Mississippi (28),Yes,64
+hepatitis_c,Hepatitis C,2021,Mississippi (28),No,35082
+hepatitis_c,Hepatitis C,2021,Mississippi (28),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2021,Missouri (29),Yes,452
+hepatitis_c,Hepatitis C,2021,Missouri (29),No,69000
+hepatitis_c,Hepatitis C,2021,Montana (30),Yes,133
+hepatitis_c,Hepatitis C,2021,Montana (30),No,11097
+hepatitis_c,Hepatitis C,2021,Nebraska (31),Yes,36
+hepatitis_c,Hepatitis C,2021,Nebraska (31),No,24509
+hepatitis_c,Hepatitis C,2021,Nebraska (31),Unknown or Not Stated,64
+hepatitis_c,Hepatitis C,2021,Nevada (32),Yes,85
+hepatitis_c,Hepatitis C,2021,Nevada (32),No,33598
+hepatitis_c,Hepatitis C,2021,New Hampshire (33),Yes,179
+hepatitis_c,Hepatitis C,2021,New Hampshire (33),No,12413
+hepatitis_c,Hepatitis C,2021,New Hampshire (33),Unknown or Not Stated,33
+hepatitis_c,Hepatitis C,2021,New Jersey (34),Yes,385
+hepatitis_c,Hepatitis C,2021,New Jersey (34),No,100671
+hepatitis_c,Hepatitis C,2021,New Jersey (34),Unknown or Not Stated,441
+hepatitis_c,Hepatitis C,2021,New Mexico (35),Yes,116
+hepatitis_c,Hepatitis C,2021,New Mexico (35),No,21160
+hepatitis_c,Hepatitis C,2021,New Mexico (35),Unknown or Not Stated,115
+hepatitis_c,Hepatitis C,2021,New York (36),Yes,665
+hepatitis_c,Hepatitis C,2021,New York (36),No,208678
+hepatitis_c,Hepatitis C,2021,New York (36),Unknown or Not Stated,1399
+hepatitis_c,Hepatitis C,2021,North Carolina (37),Yes,646
+hepatitis_c,Hepatitis C,2021,North Carolina (37),No,119113
+hepatitis_c,Hepatitis C,2021,North Carolina (37),Unknown or Not Stated,707
+hepatitis_c,Hepatitis C,2021,North Dakota (38),Yes,118
+hepatitis_c,Hepatitis C,2021,North Dakota (38),No,9994
+hepatitis_c,Hepatitis C,2021,Ohio (39),Yes,1740
+hepatitis_c,Hepatitis C,2021,Ohio (39),No,127957
+hepatitis_c,Hepatitis C,2021,Ohio (39),Unknown or Not Stated,94
+hepatitis_c,Hepatitis C,2021,Oklahoma (40),Yes,224
+hepatitis_c,Hepatitis C,2021,Oklahoma (40),No,48175
+hepatitis_c,Hepatitis C,2021,Oklahoma (40),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2021,Oregon (41),Yes,209
+hepatitis_c,Hepatitis C,2021,Oregon (41),No,40705
+hepatitis_c,Hepatitis C,2021,Pennsylvania (42),Yes,1382
+hepatitis_c,Hepatitis C,2021,Pennsylvania (42),No,130848
+hepatitis_c,Hepatitis C,2021,Pennsylvania (42),Unknown or Not Stated,392
+hepatitis_c,Hepatitis C,2021,Rhode Island (44),Yes,32
+hepatitis_c,Hepatitis C,2021,Rhode Island (44),No,10429
+hepatitis_c,Hepatitis C,2021,South Carolina (45),Yes,250
+hepatitis_c,Hepatitis C,2021,South Carolina (45),No,56814
+hepatitis_c,Hepatitis C,2021,South Carolina (45),Unknown or Not Stated,121
+hepatitis_c,Hepatitis C,2021,South Dakota (46),Yes,92
+hepatitis_c,Hepatitis C,2021,South Dakota (46),No,11273
+hepatitis_c,Hepatitis C,2021,Tennessee (47),Yes,1060
+hepatitis_c,Hepatitis C,2021,Tennessee (47),No,80646
+hepatitis_c,Hepatitis C,2021,Tennessee (47),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2021,Texas (48),Yes,285
+hepatitis_c,Hepatitis C,2021,Texas (48),No,372480
+hepatitis_c,Hepatitis C,2021,Texas (48),Unknown or Not Stated,829
+hepatitis_c,Hepatitis C,2021,Utah (49),Yes,102
+hepatitis_c,Hepatitis C,2021,Utah (49),No,46610
+hepatitis_c,Hepatitis C,2021,Vermont (50),Yes,71
+hepatitis_c,Hepatitis C,2021,Vermont (50),No,5312
+hepatitis_c,Hepatitis C,2021,Virginia (51),Yes,471
+hepatitis_c,Hepatitis C,2021,Virginia (51),No,95332
+hepatitis_c,Hepatitis C,2021,Virginia (51),Unknown or Not Stated,22
+hepatitis_c,Hepatitis C,2021,Washington (53),Yes,332
+hepatitis_c,Hepatitis C,2021,Washington (53),No,82614
+hepatitis_c,Hepatitis C,2021,Washington (53),Unknown or Not Stated,965
+hepatitis_c,Hepatitis C,2021,West Virginia (54),Yes,495
+hepatitis_c,Hepatitis C,2021,West Virginia (54),No,16425
+hepatitis_c,Hepatitis C,2021,West Virginia (54),Unknown or Not Stated,278
+hepatitis_c,Hepatitis C,2021,Wisconsin (55),Yes,228
+hepatitis_c,Hepatitis C,2021,Wisconsin (55),No,61057
+hepatitis_c,Hepatitis C,2021,Wisconsin (55),Unknown or Not Stated,496
+hepatitis_c,Hepatitis C,2021,Wyoming (56),Yes,27
+hepatitis_c,Hepatitis C,2021,Wyoming (56),No,6208
+hepatitis_c,Hepatitis C,2022,Alabama (01),Yes,204
+hepatitis_c,Hepatitis C,2022,Alabama (01),No,57942
+hepatitis_c,Hepatitis C,2022,Alaska (02),Yes,86
+hepatitis_c,Hepatitis C,2022,Alaska (02),No,9207
+hepatitis_c,Hepatitis C,2022,Alaska (02),Unknown or Not Stated,66
+hepatitis_c,Hepatitis C,2022,Arizona (04),Yes,196
+hepatitis_c,Hepatitis C,2022,Arizona (04),No,78347
+hepatitis_c,Hepatitis C,2022,Arkansas (05),Yes,161
+hepatitis_c,Hepatitis C,2022,Arkansas (05),No,35306
+hepatitis_c,Hepatitis C,2022,California (06),Yes,546
+hepatitis_c,Hepatitis C,2022,California (06),No,416707
+hepatitis_c,Hepatitis C,2022,California (06),Unknown or Not Stated,1851
+hepatitis_c,Hepatitis C,2022,Colorado (08),Yes,148
+hepatitis_c,Hepatitis C,2022,Colorado (08),No,62222
+hepatitis_c,Hepatitis C,2022,Colorado (08),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2022,Connecticut (09),Yes,83
+hepatitis_c,Hepatitis C,2022,Connecticut (09),No,35212
+hepatitis_c,Hepatitis C,2022,Connecticut (09),Unknown or Not Stated,37
+hepatitis_c,Hepatitis C,2022,Delaware (10),Yes,61
+hepatitis_c,Hepatitis C,2022,Delaware (10),No,10668
+hepatitis_c,Hepatitis C,2022,Delaware (10),Unknown or Not Stated,87
+hepatitis_c,Hepatitis C,2022,District of Columbia (11),No,8053
+hepatitis_c,Hepatitis C,2022,District of Columbia (11),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2022,Florida (12),Yes,983
+hepatitis_c,Hepatitis C,2022,Florida (12),No,222017
+hepatitis_c,Hepatitis C,2022,Florida (12),Unknown or Not Stated,1433
+hepatitis_c,Hepatitis C,2022,Georgia (13),Yes,209
+hepatitis_c,Hepatitis C,2022,Georgia (13),No,125579
+hepatitis_c,Hepatitis C,2022,Georgia (13),Unknown or Not Stated,342
+hepatitis_c,Hepatitis C,2022,Hawaii (15),Yes,13
+hepatitis_c,Hepatitis C,2022,Hawaii (15),No,15522
+hepatitis_c,Hepatitis C,2022,Idaho (16),Yes,45
+hepatitis_c,Hepatitis C,2022,Idaho (16),No,22263
+hepatitis_c,Hepatitis C,2022,Idaho (16),Unknown or Not Stated,83
+hepatitis_c,Hepatitis C,2022,Illinois (17),Yes,235
+hepatitis_c,Hepatitis C,2022,Illinois (17),No,127940
+hepatitis_c,Hepatitis C,2022,Illinois (17),Unknown or Not Stated,175
+hepatitis_c,Hepatitis C,2022,Indiana (18),Yes,580
+hepatitis_c,Hepatitis C,2022,Indiana (18),No,77230
+hepatitis_c,Hepatitis C,2022,Indiana (18),Unknown or Not Stated,1839
+hepatitis_c,Hepatitis C,2022,Iowa (19),Yes,60
+hepatitis_c,Hepatitis C,2022,Iowa (19),No,36432
+hepatitis_c,Hepatitis C,2022,Iowa (19),Unknown or Not Stated,14
+hepatitis_c,Hepatitis C,2022,Kansas (20),Yes,69
+hepatitis_c,Hepatitis C,2022,Kansas (20),No,34332
+hepatitis_c,Hepatitis C,2022,Kentucky (21),Yes,1045
+hepatitis_c,Hepatitis C,2022,Kentucky (21),No,50759
+hepatitis_c,Hepatitis C,2022,Kentucky (21),Unknown or Not Stated,511
+hepatitis_c,Hepatitis C,2022,Louisiana (22),Yes,179
+hepatitis_c,Hepatitis C,2022,Louisiana (22),No,56300
+hepatitis_c,Hepatitis C,2022,Maine (23),Yes,138
+hepatitis_c,Hepatitis C,2022,Maine (23),No,11908
+hepatitis_c,Hepatitis C,2022,Maine (23),Unknown or Not Stated,47
+hepatitis_c,Hepatitis C,2022,Maryland (24),Yes,237
+hepatitis_c,Hepatitis C,2022,Maryland (24),No,68521
+hepatitis_c,Hepatitis C,2022,Maryland (24),Unknown or Not Stated,24
+hepatitis_c,Hepatitis C,2022,Massachusetts (25),Yes,490
+hepatitis_c,Hepatitis C,2022,Massachusetts (25),No,67922
+hepatitis_c,Hepatitis C,2022,Massachusetts (25),Unknown or Not Stated,172
+hepatitis_c,Hepatitis C,2022,Michigan (26),Yes,362
+hepatitis_c,Hepatitis C,2022,Michigan (26),No,100506
+hepatitis_c,Hepatitis C,2022,Michigan (26),Unknown or Not Stated,1453
+hepatitis_c,Hepatitis C,2022,Minnesota (27),Yes,236
+hepatitis_c,Hepatitis C,2022,Minnesota (27),No,63681
+hepatitis_c,Hepatitis C,2022,Minnesota (27),Unknown or Not Stated,98
+hepatitis_c,Hepatitis C,2022,Mississippi (28),Yes,72
+hepatitis_c,Hepatitis C,2022,Mississippi (28),No,34590
+hepatitis_c,Hepatitis C,2022,Mississippi (28),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2022,Missouri (29),Yes,407
+hepatitis_c,Hepatitis C,2022,Missouri (29),No,68576
+hepatitis_c,Hepatitis C,2022,Montana (30),Yes,128
+hepatitis_c,Hepatitis C,2022,Montana (30),No,11044
+hepatitis_c,Hepatitis C,2022,Nebraska (31),Yes,27
+hepatitis_c,Hepatitis C,2022,Nebraska (31),No,24260
+hepatitis_c,Hepatitis C,2022,Nebraska (31),Unknown or Not Stated,58
+hepatitis_c,Hepatitis C,2022,Nevada (32),Yes,178
+hepatitis_c,Hepatitis C,2022,Nevada (32),No,33012
+hepatitis_c,Hepatitis C,2022,New Hampshire (33),Yes,159
+hepatitis_c,Hepatitis C,2022,New Hampshire (33),No,11886
+hepatitis_c,Hepatitis C,2022,New Hampshire (33),Unknown or Not Stated,32
+hepatitis_c,Hepatitis C,2022,New Jersey (34),Yes,393
+hepatitis_c,Hepatitis C,2022,New Jersey (34),No,101526
+hepatitis_c,Hepatitis C,2022,New Jersey (34),Unknown or Not Stated,974
+hepatitis_c,Hepatitis C,2022,New Mexico (35),Yes,134
+hepatitis_c,Hepatitis C,2022,New Mexico (35),No,21354
+hepatitis_c,Hepatitis C,2022,New Mexico (35),Unknown or Not Stated,126
+hepatitis_c,Hepatitis C,2022,New York (36),Yes,567
+hepatitis_c,Hepatitis C,2022,New York (36),No,206060
+hepatitis_c,Hepatitis C,2022,New York (36),Unknown or Not Stated,1147
+hepatitis_c,Hepatitis C,2022,North Carolina (37),Yes,573
+hepatitis_c,Hepatitis C,2022,North Carolina (37),No,118812
+hepatitis_c,Hepatitis C,2022,North Carolina (37),Unknown or Not Stated,2177
+hepatitis_c,Hepatitis C,2022,North Dakota (38),Yes,117
+hepatitis_c,Hepatitis C,2022,North Dakota (38),No,9450
+hepatitis_c,Hepatitis C,2022,Ohio (39),Yes,1640
+hepatitis_c,Hepatitis C,2022,Ohio (39),No,126483
+hepatitis_c,Hepatitis C,2022,Ohio (39),Unknown or Not Stated,108
+hepatitis_c,Hepatitis C,2022,Oklahoma (40),Yes,233
+hepatitis_c,Hepatitis C,2022,Oklahoma (40),No,48088
+hepatitis_c,Hepatitis C,2022,Oklahoma (40),Unknown or Not Stated,11
+hepatitis_c,Hepatitis C,2022,Oregon (41),Yes,185
+hepatitis_c,Hepatitis C,2022,Oregon (41),No,39302
+hepatitis_c,Hepatitis C,2022,Pennsylvania (42),Yes,1168
+hepatitis_c,Hepatitis C,2022,Pennsylvania (42),No,127243
+hepatitis_c,Hepatitis C,2022,Pennsylvania (42),Unknown or Not Stated,1841
+hepatitis_c,Hepatitis C,2022,Rhode Island (44),Yes,33
+hepatitis_c,Hepatitis C,2022,Rhode Island (44),No,10133
+hepatitis_c,Hepatitis C,2022,Rhode Island (44),Unknown or Not Stated,103
+hepatitis_c,Hepatitis C,2022,South Carolina (45),Yes,212
+hepatitis_c,Hepatitis C,2022,South Carolina (45),No,57346
+hepatitis_c,Hepatitis C,2022,South Carolina (45),Unknown or Not Stated,262
+hepatitis_c,Hepatitis C,2022,South Dakota (46),Yes,89
+hepatitis_c,Hepatitis C,2022,South Dakota (46),No,11099
+hepatitis_c,Hepatitis C,2022,South Dakota (46),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2022,Tennessee (47),Yes,842
+hepatitis_c,Hepatitis C,2022,Tennessee (47),No,81417
+hepatitis_c,Hepatitis C,2022,Texas (48),Yes,322
+hepatitis_c,Hepatitis C,2022,Texas (48),No,387206
+hepatitis_c,Hepatitis C,2022,Texas (48),Unknown or Not Stated,2213
+hepatitis_c,Hepatitis C,2022,Utah (49),Yes,95
+hepatitis_c,Hepatitis C,2022,Utah (49),No,45673
+hepatitis_c,Hepatitis C,2022,Vermont (50),Yes,69
+hepatitis_c,Hepatitis C,2022,Vermont (50),No,5247
+hepatitis_c,Hepatitis C,2022,Virginia (51),Yes,479
+hepatitis_c,Hepatitis C,2022,Virginia (51),No,95119
+hepatitis_c,Hepatitis C,2022,Virginia (51),Unknown or Not Stated,32
+hepatitis_c,Hepatitis C,2022,Washington (53),Yes,288
+hepatitis_c,Hepatitis C,2022,Washington (53),No,82584
+hepatitis_c,Hepatitis C,2022,Washington (53),Unknown or Not Stated,461
+hepatitis_c,Hepatitis C,2022,West Virginia (54),Yes,488
+hepatitis_c,Hepatitis C,2022,West Virginia (54),No,16302
+hepatitis_c,Hepatitis C,2022,West Virginia (54),Unknown or Not Stated,139
+hepatitis_c,Hepatitis C,2022,Wisconsin (55),Yes,209
+hepatitis_c,Hepatitis C,2022,Wisconsin (55),No,59601
+hepatitis_c,Hepatitis C,2022,Wisconsin (55),Unknown or Not Stated,239
+hepatitis_c,Hepatitis C,2022,Wyoming (56),Yes,21
+hepatitis_c,Hepatitis C,2022,Wyoming (56),No,6025
+hepatitis_c,Hepatitis C,2023,Alabama (01),Yes,219
+hepatitis_c,Hepatitis C,2023,Alabama (01),No,57633
+hepatitis_c,Hepatitis C,2023,Alaska (02),Yes,86
+hepatitis_c,Hepatitis C,2023,Alaska (02),No,8839
+hepatitis_c,Hepatitis C,2023,Alaska (02),Unknown or Not Stated,90
+hepatitis_c,Hepatitis C,2023,Arizona (04),Yes,197
+hepatitis_c,Hepatitis C,2023,Arizona (04),No,77891
+hepatitis_c,Hepatitis C,2023,Arkansas (05),Yes,173
+hepatitis_c,Hepatitis C,2023,Arkansas (05),No,35088
+hepatitis_c,Hepatitis C,2023,California (06),Yes,513
+hepatitis_c,Hepatitis C,2023,California (06),No,397725
+hepatitis_c,Hepatitis C,2023,California (06),Unknown or Not Stated,1870
+hepatitis_c,Hepatitis C,2023,Colorado (08),Yes,144
+hepatitis_c,Hepatitis C,2023,Colorado (08),No,60793
+hepatitis_c,Hepatitis C,2023,Colorado (08),Unknown or Not Stated,557
+hepatitis_c,Hepatitis C,2023,Connecticut (09),Yes,85
+hepatitis_c,Hepatitis C,2023,Connecticut (09),No,34446
+hepatitis_c,Hepatitis C,2023,Connecticut (09),Unknown or Not Stated,28
+hepatitis_c,Hepatitis C,2023,Delaware (10),Yes,75
+hepatitis_c,Hepatitis C,2023,Delaware (10),No,10250
+hepatitis_c,Hepatitis C,2023,Delaware (10),Unknown or Not Stated,102
+hepatitis_c,Hepatitis C,2023,District of Columbia (11),No,7884
+hepatitis_c,Hepatitis C,2023,Florida (12),Yes,930
+hepatitis_c,Hepatitis C,2023,Florida (12),No,218194
+hepatitis_c,Hepatitis C,2023,Florida (12),Unknown or Not Stated,2286
+hepatitis_c,Hepatitis C,2023,Georgia (13),Yes,181
+hepatitis_c,Hepatitis C,2023,Georgia (13),No,124629
+hepatitis_c,Hepatitis C,2023,Georgia (13),Unknown or Not Stated,310
+hepatitis_c,Hepatitis C,2023,Hawaii (15),Yes,17
+hepatitis_c,Hepatitis C,2023,Hawaii (15),No,14791
+hepatitis_c,Hepatitis C,2023,Idaho (16),Yes,29
+hepatitis_c,Hepatitis C,2023,Idaho (16),No,22291
+hepatitis_c,Hepatitis C,2023,Idaho (16),Unknown or Not Stated,77
+hepatitis_c,Hepatitis C,2023,Illinois (17),Yes,228
+hepatitis_c,Hepatitis C,2023,Illinois (17),No,124439
+hepatitis_c,Hepatitis C,2023,Illinois (17),Unknown or Not Stated,153
+hepatitis_c,Hepatitis C,2023,Indiana (18),Yes,496
+hepatitis_c,Hepatitis C,2023,Indiana (18),No,77130
+hepatitis_c,Hepatitis C,2023,Indiana (18),Unknown or Not Stated,1374
+hepatitis_c,Hepatitis C,2023,Iowa (19),Yes,53
+hepatitis_c,Hepatitis C,2023,Iowa (19),No,35986
+hepatitis_c,Hepatitis C,2023,Iowa (19),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2023,Kansas (20),Yes,58
+hepatitis_c,Hepatitis C,2023,Kansas (20),No,34007
+hepatitis_c,Hepatitis C,2023,Kentucky (21),Yes,902
+hepatitis_c,Hepatitis C,2023,Kentucky (21),No,50622
+hepatitis_c,Hepatitis C,2023,Kentucky (21),Unknown or Not Stated,460
+hepatitis_c,Hepatitis C,2023,Louisiana (22),Yes,241
+hepatitis_c,Hepatitis C,2023,Louisiana (22),No,54683
+hepatitis_c,Hepatitis C,2023,Maine (23),Yes,161
+hepatitis_c,Hepatitis C,2023,Maine (23),No,11421
+hepatitis_c,Hepatitis C,2023,Maine (23),Unknown or Not Stated,45
+hepatitis_c,Hepatitis C,2023,Maryland (24),Yes,267
+hepatitis_c,Hepatitis C,2023,Maryland (24),No,65272
+hepatitis_c,Hepatitis C,2023,Maryland (24),Unknown or Not Stated,55
+hepatitis_c,Hepatitis C,2023,Massachusetts (25),Yes,388
+hepatitis_c,Hepatitis C,2023,Massachusetts (25),No,66487
+hepatitis_c,Hepatitis C,2023,Massachusetts (25),Unknown or Not Stated,218
+hepatitis_c,Hepatitis C,2023,Michigan (26),Yes,329
+hepatitis_c,Hepatitis C,2023,Michigan (26),No,97416
+hepatitis_c,Hepatitis C,2023,Michigan (26),Unknown or Not Stated,1379
+hepatitis_c,Hepatitis C,2023,Minnesota (27),Yes,219
+hepatitis_c,Hepatitis C,2023,Minnesota (27),No,61392
+hepatitis_c,Hepatitis C,2023,Minnesota (27),Unknown or Not Stated,104
+hepatitis_c,Hepatitis C,2023,Mississippi (28),Yes,66
+hepatitis_c,Hepatitis C,2023,Mississippi (28),No,34391
+hepatitis_c,Hepatitis C,2023,Missouri (29),Yes,426
+hepatitis_c,Hepatitis C,2023,Missouri (29),No,66691
+hepatitis_c,Hepatitis C,2023,Montana (30),Yes,118
+hepatitis_c,Hepatitis C,2023,Montana (30),No,10955
+hepatitis_c,Hepatitis C,2023,Nebraska (31),Yes,31
+hepatitis_c,Hepatitis C,2023,Nebraska (31),No,24036
+hepatitis_c,Hepatitis C,2023,Nebraska (31),Unknown or Not Stated,44
+hepatitis_c,Hepatitis C,2023,Nevada (32),Yes,160
+hepatitis_c,Hepatitis C,2023,Nevada (32),No,31631
+hepatitis_c,Hepatitis C,2023,New Hampshire (33),Yes,134
+hepatitis_c,Hepatitis C,2023,New Hampshire (33),No,11761
+hepatitis_c,Hepatitis C,2023,New Hampshire (33),Unknown or Not Stated,41
+hepatitis_c,Hepatitis C,2023,New Jersey (34),Yes,318
+hepatitis_c,Hepatitis C,2023,New Jersey (34),No,100094
+hepatitis_c,Hepatitis C,2023,New Jersey (34),Unknown or Not Stated,589
+hepatitis_c,Hepatitis C,2023,New Mexico (35),Yes,121
+hepatitis_c,Hepatitis C,2023,New Mexico (35),No,20761
+hepatitis_c,Hepatitis C,2023,New Mexico (35),Unknown or Not Stated,69
+hepatitis_c,Hepatitis C,2023,New York (36),Yes,417
+hepatitis_c,Hepatitis C,2023,New York (36),No,202221
+hepatitis_c,Hepatitis C,2023,New York (36),Unknown or Not Stated,974
+hepatitis_c,Hepatitis C,2023,North Carolina (37),Yes,570
+hepatitis_c,Hepatitis C,2023,North Carolina (37),No,117435
+hepatitis_c,Hepatitis C,2023,North Carolina (37),Unknown or Not Stated,2077
+hepatitis_c,Hepatitis C,2023,North Dakota (38),Yes,111
+hepatitis_c,Hepatitis C,2023,North Dakota (38),No,9535
+hepatitis_c,Hepatitis C,2023,Ohio (39),Yes,1446
+hepatitis_c,Hepatitis C,2023,Ohio (39),No,125383
+hepatitis_c,Hepatitis C,2023,Ohio (39),Unknown or Not Stated,67
+hepatitis_c,Hepatitis C,2023,Oklahoma (40),Yes,205
+hepatitis_c,Hepatitis C,2023,Oklahoma (40),No,47690
+hepatitis_c,Hepatitis C,2023,Oklahoma (40),Unknown or Not Stated,14
+hepatitis_c,Hepatitis C,2023,Oregon (41),Yes,176
+hepatitis_c,Hepatitis C,2023,Oregon (41),No,38117
+hepatitis_c,Hepatitis C,2023,Pennsylvania (42),Yes,1094
+hepatitis_c,Hepatitis C,2023,Pennsylvania (42),No,124279
+hepatitis_c,Hepatitis C,2023,Pennsylvania (42),Unknown or Not Stated,1578
+hepatitis_c,Hepatitis C,2023,Rhode Island (44),Yes,29
+hepatitis_c,Hepatitis C,2023,Rhode Island (44),No,9705
+hepatitis_c,Hepatitis C,2023,Rhode Island (44),Unknown or Not Stated,71
+hepatitis_c,Hepatitis C,2023,South Carolina (45),Yes,196
+hepatitis_c,Hepatitis C,2023,South Carolina (45),No,57264
+hepatitis_c,Hepatitis C,2023,South Carolina (45),Unknown or Not Stated,269
+hepatitis_c,Hepatitis C,2023,South Dakota (46),Yes,74
+hepatitis_c,Hepatitis C,2023,South Dakota (46),No,11115
+hepatitis_c,Hepatitis C,2023,South Dakota (46),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2023,Tennessee (47),Yes,774
+hepatitis_c,Hepatitis C,2023,Tennessee (47),No,82238
+hepatitis_c,Hepatitis C,2023,Texas (48),Yes,341
+hepatitis_c,Hepatitis C,2023,Texas (48),No,385652
+hepatitis_c,Hepatitis C,2023,Texas (48),Unknown or Not Stated,1952
+hepatitis_c,Hepatitis C,2023,Utah (49),Yes,84
+hepatitis_c,Hepatitis C,2023,Utah (49),No,44929
+hepatitis_c,Hepatitis C,2023,Vermont (50),Yes,57
+hepatitis_c,Hepatitis C,2023,Vermont (50),No,5008
+hepatitis_c,Hepatitis C,2023,Virginia (51),Yes,413
+hepatitis_c,Hepatitis C,2023,Virginia (51),No,92205
+hepatitis_c,Hepatitis C,2023,Virginia (51),Unknown or Not Stated,31
+hepatitis_c,Hepatitis C,2023,Washington (53),Yes,272
+hepatitis_c,Hepatitis C,2023,Washington (53),No,80427
+hepatitis_c,Hepatitis C,2023,Washington (53),Unknown or Not Stated,233
+hepatitis_c,Hepatitis C,2023,West Virginia (54),Yes,387
+hepatitis_c,Hepatitis C,2023,West Virginia (54),No,16131
+hepatitis_c,Hepatitis C,2023,West Virginia (54),Unknown or Not Stated,88
+hepatitis_c,Hepatitis C,2023,Wisconsin (55),Yes,175
+hepatitis_c,Hepatitis C,2023,Wisconsin (55),No,59323
+hepatitis_c,Hepatitis C,2023,Wisconsin (55),Unknown or Not Stated,256
+hepatitis_c,Hepatitis C,2023,Wyoming (56),Yes,20
+hepatitis_c,Hepatitis C,2023,Wyoming (56),No,5968
+hepatitis_c,Hepatitis C,2024,Alabama (01),Yes,204
+hepatitis_c,Hepatitis C,2024,Alabama (01),No,57720
+hepatitis_c,Hepatitis C,2024,Alabama (01),Unknown or Not Stated,10
+hepatitis_c,Hepatitis C,2024,Alaska (02),Yes,56
+hepatitis_c,Hepatitis C,2024,Alaska (02),No,8810
+hepatitis_c,Hepatitis C,2024,Alaska (02),Unknown or Not Stated,77
+hepatitis_c,Hepatitis C,2024,Arizona (04),Yes,149
+hepatitis_c,Hepatitis C,2024,Arizona (04),No,78557
+hepatitis_c,Hepatitis C,2024,Arkansas (05),Yes,164
+hepatitis_c,Hepatitis C,2024,Arkansas (05),No,35230
+hepatitis_c,Hepatitis C,2024,California (06),Yes,415
+hepatitis_c,Hepatitis C,2024,California (06),No,400349
+hepatitis_c,Hepatitis C,2024,California (06),Unknown or Not Stated,1311
+hepatitis_c,Hepatitis C,2024,Colorado (08),Yes,171
+hepatitis_c,Hepatitis C,2024,Colorado (08),No,64058
+hepatitis_c,Hepatitis C,2024,Colorado (08),Unknown or Not Stated,39
+hepatitis_c,Hepatitis C,2024,Connecticut (09),Yes,73
+hepatitis_c,Hepatitis C,2024,Connecticut (09),No,34495
+hepatitis_c,Hepatitis C,2024,Connecticut (09),Unknown or Not Stated,31
+hepatitis_c,Hepatitis C,2024,Delaware (10),Yes,83
+hepatitis_c,Hepatitis C,2024,Delaware (10),No,10335
+hepatitis_c,Hepatitis C,2024,Delaware (10),Unknown or Not Stated,132
+hepatitis_c,Hepatitis C,2024,District of Columbia (11),No,7610
+hepatitis_c,Hepatitis C,2024,Florida (12),Yes,758
+hepatitis_c,Hepatitis C,2024,Florida (12),No,223343
+hepatitis_c,Hepatitis C,2024,Florida (12),Unknown or Not Stated,288
+hepatitis_c,Hepatitis C,2024,Georgia (13),Yes,205
+hepatitis_c,Hepatitis C,2024,Georgia (13),No,125891
+hepatitis_c,Hepatitis C,2024,Georgia (13),Unknown or Not Stated,341
+hepatitis_c,Hepatitis C,2024,Hawaii (15),Yes,14
+hepatitis_c,Hepatitis C,2024,Hawaii (15),No,14903
+hepatitis_c,Hepatitis C,2024,Idaho (16),Yes,28
+hepatitis_c,Hepatitis C,2024,Idaho (16),No,23169
+hepatitis_c,Hepatitis C,2024,Idaho (16),Unknown or Not Stated,79
+hepatitis_c,Hepatitis C,2024,Illinois (17),Yes,211
+hepatitis_c,Hepatitis C,2024,Illinois (17),No,125342
+hepatitis_c,Hepatitis C,2024,Illinois (17),Unknown or Not Stated,178
+hepatitis_c,Hepatitis C,2024,Indiana (18),Yes,487
+hepatitis_c,Hepatitis C,2024,Indiana (18),No,78461
+hepatitis_c,Hepatitis C,2024,Indiana (18),Unknown or Not Stated,1309
+hepatitis_c,Hepatitis C,2024,Iowa (19),Yes,49
+hepatitis_c,Hepatitis C,2024,Iowa (19),No,36380
+hepatitis_c,Hepatitis C,2024,Kansas (20),Yes,65
+hepatitis_c,Hepatitis C,2024,Kansas (20),No,33918
+hepatitis_c,Hepatitis C,2024,Kentucky (21),Yes,833
+hepatitis_c,Hepatitis C,2024,Kentucky (21),No,51267
+hepatitis_c,Hepatitis C,2024,Kentucky (21),Unknown or Not Stated,813
+hepatitis_c,Hepatitis C,2024,Louisiana (22),Yes,214
+hepatitis_c,Hepatitis C,2024,Louisiana (22),No,53090
+hepatitis_c,Hepatitis C,2024,Maine (23),Yes,127
+hepatitis_c,Hepatitis C,2024,Maine (23),No,11432
+hepatitis_c,Hepatitis C,2024,Maine (23),Unknown or Not Stated,42
+hepatitis_c,Hepatitis C,2024,Maryland (24),Yes,233
+hepatitis_c,Hepatitis C,2024,Maryland (24),No,65455
+hepatitis_c,Hepatitis C,2024,Maryland (24),Unknown or Not Stated,109
+hepatitis_c,Hepatitis C,2024,Massachusetts (25),Yes,381
+hepatitis_c,Hepatitis C,2024,Massachusetts (25),No,67616
+hepatitis_c,Hepatitis C,2024,Massachusetts (25),Unknown or Not Stated,187
+hepatitis_c,Hepatitis C,2024,Michigan (26),Yes,341
+hepatitis_c,Hepatitis C,2024,Michigan (26),No,97662
+hepatitis_c,Hepatitis C,2024,Michigan (26),Unknown or Not Stated,1522
+hepatitis_c,Hepatitis C,2024,Minnesota (27),Yes,203
+hepatitis_c,Hepatitis C,2024,Minnesota (27),No,61807
+hepatitis_c,Hepatitis C,2024,Minnesota (27),Unknown or Not Stated,100
+hepatitis_c,Hepatitis C,2024,Mississippi (28),Yes,66
+hepatitis_c,Hepatitis C,2024,Mississippi (28),No,33399
+hepatitis_c,Hepatitis C,2024,Missouri (29),Yes,317
+hepatitis_c,Hepatitis C,2024,Missouri (29),No,67679
+hepatitis_c,Hepatitis C,2024,Montana (30),Yes,107
+hepatitis_c,Hepatitis C,2024,Montana (30),No,11217
+hepatitis_c,Hepatitis C,2024,Nebraska (31),Yes,23
+hepatitis_c,Hepatitis C,2024,Nebraska (31),No,24737
+hepatitis_c,Hepatitis C,2024,Nebraska (31),Unknown or Not Stated,25
+hepatitis_c,Hepatitis C,2024,Nevada (32),Yes,184
+hepatitis_c,Hepatitis C,2024,Nevada (32),No,32195
+hepatitis_c,Hepatitis C,2024,New Hampshire (33),Yes,139
+hepatitis_c,Hepatitis C,2024,New Hampshire (33),No,11601
+hepatitis_c,Hepatitis C,2024,New Hampshire (33),Unknown or Not Stated,30
+hepatitis_c,Hepatitis C,2024,New Jersey (34),Yes,305
+hepatitis_c,Hepatitis C,2024,New Jersey (34),No,100541
+hepatitis_c,Hepatitis C,2024,New Jersey (34),Unknown or Not Stated,526
+hepatitis_c,Hepatitis C,2024,New Mexico (35),Yes,82
+hepatitis_c,Hepatitis C,2024,New Mexico (35),No,21155
+hepatitis_c,Hepatitis C,2024,New Mexico (35),Unknown or Not Stated,91
+hepatitis_c,Hepatitis C,2024,New York (36),Yes,497
+hepatitis_c,Hepatitis C,2024,New York (36),No,203467
+hepatitis_c,Hepatitis C,2024,New York (36),Unknown or Not Stated,1525
+hepatitis_c,Hepatitis C,2024,North Carolina (37),Yes,548
+hepatitis_c,Hepatitis C,2024,North Carolina (37),No,122296
+hepatitis_c,Hepatitis C,2024,North Carolina (37),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2024,North Dakota (38),Yes,92
+hepatitis_c,Hepatitis C,2024,North Dakota (38),No,9542
+hepatitis_c,Hepatitis C,2024,Ohio (39),Yes,1415
+hepatitis_c,Hepatitis C,2024,Ohio (39),No,125288
+hepatitis_c,Hepatitis C,2024,Ohio (39),Unknown or Not Stated,92
+hepatitis_c,Hepatitis C,2024,Oklahoma (40),Yes,196
+hepatitis_c,Hepatitis C,2024,Oklahoma (40),No,47753
+hepatitis_c,Hepatitis C,2024,Oklahoma (40),Unknown or Not Stated,13
+hepatitis_c,Hepatitis C,2024,Oregon (41),Yes,146
+hepatitis_c,Hepatitis C,2024,Oregon (41),No,38817
+hepatitis_c,Hepatitis C,2024,Pennsylvania (42),Yes,902
+hepatitis_c,Hepatitis C,2024,Pennsylvania (42),No,124367
+hepatitis_c,Hepatitis C,2024,Pennsylvania (42),Unknown or Not Stated,2030
+hepatitis_c,Hepatitis C,2024,Rhode Island (44),Yes,23
+hepatitis_c,Hepatitis C,2024,Rhode Island (44),No,9974
+hepatitis_c,Hepatitis C,2024,Rhode Island (44),Unknown or Not Stated,12
+hepatitis_c,Hepatitis C,2024,South Carolina (45),Yes,235
+hepatitis_c,Hepatitis C,2024,South Carolina (45),No,58271
+hepatitis_c,Hepatitis C,2024,South Carolina (45),Unknown or Not Stated,262
+hepatitis_c,Hepatitis C,2024,South Dakota (46),Yes,77
+hepatitis_c,Hepatitis C,2024,South Dakota (46),No,11350
+hepatitis_c,Hepatitis C,2024,South Dakota (46),Unknown or Not Stated,24
+hepatitis_c,Hepatitis C,2024,Tennessee (47),Yes,746
+hepatitis_c,Hepatitis C,2024,Tennessee (47),No,83083
+hepatitis_c,Hepatitis C,2024,Texas (48),Yes,325
+hepatitis_c,Hepatitis C,2024,Texas (48),No,388123
+hepatitis_c,Hepatitis C,2024,Texas (48),Unknown or Not Stated,2380
+hepatitis_c,Hepatitis C,2024,Utah (49),Yes,86
+hepatitis_c,Hepatitis C,2024,Utah (49),No,46577
+hepatitis_c,Hepatitis C,2024,Vermont (50),Yes,41
+hepatitis_c,Hepatitis C,2024,Vermont (50),No,4982
+hepatitis_c,Hepatitis C,2024,Virginia (51),Yes,387
+hepatitis_c,Hepatitis C,2024,Virginia (51),No,93661
+hepatitis_c,Hepatitis C,2024,Washington (53),Yes,240
+hepatitis_c,Hepatitis C,2024,Washington (53),No,82635
+hepatitis_c,Hepatitis C,2024,Washington (53),Unknown or Not Stated,243
+hepatitis_c,Hepatitis C,2024,West Virginia (54),Yes,373
+hepatitis_c,Hepatitis C,2024,West Virginia (54),No,16644
+hepatitis_c,Hepatitis C,2024,Wisconsin (55),Yes,162
+hepatitis_c,Hepatitis C,2024,Wisconsin (55),No,59131
+hepatitis_c,Hepatitis C,2024,Wisconsin (55),Unknown or Not Stated,393
+hepatitis_c,Hepatitis C,2024,Wyoming (56),Yes,21
+hepatitis_c,Hepatitis C,2024,Wyoming (56),No,6066

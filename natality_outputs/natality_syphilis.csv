@@ -1,0 +1,1143 @@
+variable_label,variable_name,year,geo,category,births
+syphilis,Syphilis,2016,Alabama (01),Yes,41
+syphilis,Syphilis,2016,Alabama (01),No,59092
+syphilis,Syphilis,2016,Alabama (01),Unknown or Not Stated,18
+syphilis,Syphilis,2016,Alaska (02),No,11108
+syphilis,Syphilis,2016,Alaska (02),Unknown or Not Stated,98
+syphilis,Syphilis,2016,Arizona (04),Yes,68
+syphilis,Syphilis,2016,Arizona (04),No,84451
+syphilis,Syphilis,2016,Arkansas (05),Yes,44
+syphilis,Syphilis,2016,Arkansas (05),No,38228
+syphilis,Syphilis,2016,California (06),Yes,258
+syphilis,Syphilis,2016,California (06),No,488528
+syphilis,Syphilis,2016,California (06),Unknown or Not Stated,41
+syphilis,Syphilis,2016,Colorado (08),No,66594
+syphilis,Syphilis,2016,Colorado (08),Unknown or Not Stated,10
+syphilis,Syphilis,2016,Connecticut (09),Yes,17
+syphilis,Syphilis,2016,Connecticut (09),No,35384
+syphilis,Syphilis,2016,Connecticut (09),Unknown or Not Stated,614
+syphilis,Syphilis,2016,Delaware (10),No,10989
+syphilis,Syphilis,2016,District of Columbia (11),No,9833
+syphilis,Syphilis,2016,District of Columbia (11),Unknown or Not Stated,16
+syphilis,Syphilis,2016,Florida (12),Yes,238
+syphilis,Syphilis,2016,Florida (12),No,222302
+syphilis,Syphilis,2016,Florida (12),Unknown or Not Stated,2482
+syphilis,Syphilis,2016,Georgia (13),Yes,107
+syphilis,Syphilis,2016,Georgia (13),No,129404
+syphilis,Syphilis,2016,Georgia (13),Unknown or Not Stated,531
+syphilis,Syphilis,2016,Hawaii (15),Yes,14
+syphilis,Syphilis,2016,Hawaii (15),No,18045
+syphilis,Syphilis,2016,Idaho (16),Yes,11
+syphilis,Syphilis,2016,Idaho (16),No,22399
+syphilis,Syphilis,2016,Idaho (16),Unknown or Not Stated,72
+syphilis,Syphilis,2016,Illinois (17),Yes,160
+syphilis,Syphilis,2016,Illinois (17),No,153962
+syphilis,Syphilis,2016,Illinois (17),Unknown or Not Stated,323
+syphilis,Syphilis,2016,Indiana (18),Yes,54
+syphilis,Syphilis,2016,Indiana (18),No,83028
+syphilis,Syphilis,2016,Iowa (19),Yes,32
+syphilis,Syphilis,2016,Iowa (19),No,39370
+syphilis,Syphilis,2016,Kansas (20),Yes,22
+syphilis,Syphilis,2016,Kansas (20),No,38031
+syphilis,Syphilis,2016,Kentucky (21),Yes,47
+syphilis,Syphilis,2016,Kentucky (21),No,54882
+syphilis,Syphilis,2016,Kentucky (21),Unknown or Not Stated,520
+syphilis,Syphilis,2016,Louisiana (22),Yes,272
+syphilis,Syphilis,2016,Louisiana (22),No,62906
+syphilis,Syphilis,2016,Maine (23),No,12618
+syphilis,Syphilis,2016,Maine (23),Unknown or Not Stated,81
+syphilis,Syphilis,2016,Maryland (24),Yes,91
+syphilis,Syphilis,2016,Maryland (24),No,72952
+syphilis,Syphilis,2016,Maryland (24),Unknown or Not Stated,93
+syphilis,Syphilis,2016,Massachusetts (25),Yes,65
+syphilis,Syphilis,2016,Massachusetts (25),No,71146
+syphilis,Syphilis,2016,Massachusetts (25),Unknown or Not Stated,106
+syphilis,Syphilis,2016,Michigan (26),Yes,55
+syphilis,Syphilis,2016,Michigan (26),No,112235
+syphilis,Syphilis,2016,Michigan (26),Unknown or Not Stated,1025
+syphilis,Syphilis,2016,Minnesota (27),Yes,50
+syphilis,Syphilis,2016,Minnesota (27),No,69509
+syphilis,Syphilis,2016,Minnesota (27),Unknown or Not Stated,190
+syphilis,Syphilis,2016,Mississippi (28),Yes,41
+syphilis,Syphilis,2016,Mississippi (28),No,37869
+syphilis,Syphilis,2016,Mississippi (28),Unknown or Not Stated,18
+syphilis,Syphilis,2016,Missouri (29),Yes,48
+syphilis,Syphilis,2016,Missouri (29),No,74655
+syphilis,Syphilis,2016,Montana (30),No,12251
+syphilis,Syphilis,2016,Montana (30),Unknown or Not Stated,27
+syphilis,Syphilis,2016,Nebraska (31),Yes,17
+syphilis,Syphilis,2016,Nebraska (31),No,26507
+syphilis,Syphilis,2016,Nebraska (31),Unknown or Not Stated,65
+syphilis,Syphilis,2016,Nevada (32),Yes,37
+syphilis,Syphilis,2016,Nevada (32),No,36220
+syphilis,Syphilis,2016,New Hampshire (33),No,12153
+syphilis,Syphilis,2016,New Hampshire (33),Unknown or Not Stated,112
+syphilis,Syphilis,2016,New Jersey (34),Yes,122
+syphilis,Syphilis,2016,New Jersey (34),No,102520
+syphilis,Syphilis,2016,New Mexico (35),Yes,25
+syphilis,Syphilis,2016,New Mexico (35),No,24475
+syphilis,Syphilis,2016,New Mexico (35),Unknown or Not Stated,192
+syphilis,Syphilis,2016,New York (36),Yes,195
+syphilis,Syphilis,2016,New York (36),No,233054
+syphilis,Syphilis,2016,New York (36),Unknown or Not Stated,1034
+syphilis,Syphilis,2016,North Carolina (37),Yes,97
+syphilis,Syphilis,2016,North Carolina (37),No,120343
+syphilis,Syphilis,2016,North Carolina (37),Unknown or Not Stated,339
+syphilis,Syphilis,2016,North Dakota (38),No,11378
+syphilis,Syphilis,2016,Ohio (39),Yes,184
+syphilis,Syphilis,2016,Ohio (39),No,137847
+syphilis,Syphilis,2016,Ohio (39),Unknown or Not Stated,54
+syphilis,Syphilis,2016,Oklahoma (40),Yes,131
+syphilis,Syphilis,2016,Oklahoma (40),No,52460
+syphilis,Syphilis,2016,Oregon (41),Yes,41
+syphilis,Syphilis,2016,Oregon (41),No,45489
+syphilis,Syphilis,2016,Pennsylvania (42),Yes,84
+syphilis,Syphilis,2016,Pennsylvania (42),No,139279
+syphilis,Syphilis,2016,Pennsylvania (42),Unknown or Not Stated,46
+syphilis,Syphilis,2016,Rhode Island (44),No,10794
+syphilis,Syphilis,2016,South Carolina (45),Yes,59
+syphilis,Syphilis,2016,South Carolina (45),No,57266
+syphilis,Syphilis,2016,South Carolina (45),Unknown or Not Stated,17
+syphilis,Syphilis,2016,South Dakota (46),No,12267
+syphilis,Syphilis,2016,Tennessee (47),Yes,70
+syphilis,Syphilis,2016,Tennessee (47),No,80724
+syphilis,Syphilis,2016,Tennessee (47),Unknown or Not Stated,13
+syphilis,Syphilis,2016,Texas (48),Yes,445
+syphilis,Syphilis,2016,Texas (48),No,397596
+syphilis,Syphilis,2016,Utah (49),Yes,12
+syphilis,Syphilis,2016,Utah (49),No,50451
+syphilis,Syphilis,2016,Vermont (50),No,5756
+syphilis,Syphilis,2016,Virginia (51),Yes,46
+syphilis,Syphilis,2016,Virginia (51),No,102405
+syphilis,Syphilis,2016,Washington (53),Yes,43
+syphilis,Syphilis,2016,Washington (53),No,89984
+syphilis,Syphilis,2016,Washington (53),Unknown or Not Stated,478
+syphilis,Syphilis,2016,West Virginia (54),No,18796
+syphilis,Syphilis,2016,West Virginia (54),Unknown or Not Stated,275
+syphilis,Syphilis,2016,Wisconsin (55),Yes,28
+syphilis,Syphilis,2016,Wisconsin (55),No,65903
+syphilis,Syphilis,2016,Wisconsin (55),Unknown or Not Stated,684
+syphilis,Syphilis,2016,Wyoming (56),No,7382
+syphilis,Syphilis,2017,Alabama (01),Yes,70
+syphilis,Syphilis,2017,Alabama (01),No,58856
+syphilis,Syphilis,2017,Alabama (01),Unknown or Not Stated,15
+syphilis,Syphilis,2017,Alaska (02),No,10325
+syphilis,Syphilis,2017,Alaska (02),Unknown or Not Stated,119
+syphilis,Syphilis,2017,Arizona (04),Yes,104
+syphilis,Syphilis,2017,Arizona (04),No,81762
+syphilis,Syphilis,2017,Arkansas (05),Yes,43
+syphilis,Syphilis,2017,Arkansas (05),No,37473
+syphilis,Syphilis,2017,California (06),Yes,404
+syphilis,Syphilis,2017,California (06),No,471221
+syphilis,Syphilis,2017,California (06),Unknown or Not Stated,33
+syphilis,Syphilis,2017,Colorado (08),Yes,29
+syphilis,Syphilis,2017,Colorado (08),No,64342
+syphilis,Syphilis,2017,Colorado (08),Unknown or Not Stated,11
+syphilis,Syphilis,2017,Connecticut (09),Yes,23
+syphilis,Syphilis,2017,Connecticut (09),No,34951
+syphilis,Syphilis,2017,Connecticut (09),Unknown or Not Stated,247
+syphilis,Syphilis,2017,Delaware (10),No,10851
+syphilis,Syphilis,2017,District of Columbia (11),No,9550
+syphilis,Syphilis,2017,Florida (12),Yes,290
+syphilis,Syphilis,2017,Florida (12),No,220925
+syphilis,Syphilis,2017,Florida (12),Unknown or Not Stated,2415
+syphilis,Syphilis,2017,Georgia (13),Yes,117
+syphilis,Syphilis,2017,Georgia (13),No,128590
+syphilis,Syphilis,2017,Georgia (13),Unknown or Not Stated,536
+syphilis,Syphilis,2017,Hawaii (15),No,17512
+syphilis,Syphilis,2017,Idaho (16),Yes,10
+syphilis,Syphilis,2017,Idaho (16),No,22121
+syphilis,Syphilis,2017,Idaho (16),Unknown or Not Stated,50
+syphilis,Syphilis,2017,Illinois (17),Yes,166
+syphilis,Syphilis,2017,Illinois (17),No,148741
+syphilis,Syphilis,2017,Illinois (17),Unknown or Not Stated,483
+syphilis,Syphilis,2017,Indiana (18),Yes,76
+syphilis,Syphilis,2017,Indiana (18),No,82090
+syphilis,Syphilis,2017,Iowa (19),Yes,19
+syphilis,Syphilis,2017,Iowa (19),No,38405
+syphilis,Syphilis,2017,Kansas (20),Yes,20
+syphilis,Syphilis,2017,Kansas (20),No,36498
+syphilis,Syphilis,2017,Kentucky (21),Yes,50
+syphilis,Syphilis,2017,Kentucky (21),No,54472
+syphilis,Syphilis,2017,Kentucky (21),Unknown or Not Stated,230
+syphilis,Syphilis,2017,Louisiana (22),Yes,250
+syphilis,Syphilis,2017,Louisiana (22),No,60768
+syphilis,Syphilis,2017,Maine (23),No,12243
+syphilis,Syphilis,2017,Maine (23),Unknown or Not Stated,51
+syphilis,Syphilis,2017,Maryland (24),Yes,64
+syphilis,Syphilis,2017,Maryland (24),No,71535
+syphilis,Syphilis,2017,Maryland (24),Unknown or Not Stated,42
+syphilis,Syphilis,2017,Massachusetts (25),Yes,63
+syphilis,Syphilis,2017,Massachusetts (25),No,70563
+syphilis,Syphilis,2017,Massachusetts (25),Unknown or Not Stated,76
+syphilis,Syphilis,2017,Michigan (26),Yes,62
+syphilis,Syphilis,2017,Michigan (26),No,109913
+syphilis,Syphilis,2017,Michigan (26),Unknown or Not Stated,1451
+syphilis,Syphilis,2017,Minnesota (27),Yes,69
+syphilis,Syphilis,2017,Minnesota (27),No,68291
+syphilis,Syphilis,2017,Minnesota (27),Unknown or Not Stated,235
+syphilis,Syphilis,2017,Mississippi (28),Yes,48
+syphilis,Syphilis,2017,Mississippi (28),No,37297
+syphilis,Syphilis,2017,Mississippi (28),Unknown or Not Stated,12
+syphilis,Syphilis,2017,Missouri (29),Yes,68
+syphilis,Syphilis,2017,Missouri (29),No,72965
+syphilis,Syphilis,2017,Montana (30),No,11778
+syphilis,Syphilis,2017,Montana (30),Unknown or Not Stated,19
+syphilis,Syphilis,2017,Nebraska (31),Yes,29
+syphilis,Syphilis,2017,Nebraska (31),No,25758
+syphilis,Syphilis,2017,Nebraska (31),Unknown or Not Stated,34
+syphilis,Syphilis,2017,Nevada (32),Yes,47
+syphilis,Syphilis,2017,Nevada (32),No,35707
+syphilis,Syphilis,2017,New Hampshire (33),No,12086
+syphilis,Syphilis,2017,New Hampshire (33),Unknown or Not Stated,25
+syphilis,Syphilis,2017,New Jersey (34),Yes,109
+syphilis,Syphilis,2017,New Jersey (34),No,101138
+syphilis,Syphilis,2017,New Mexico (35),Yes,25
+syphilis,Syphilis,2017,New Mexico (35),No,23528
+syphilis,Syphilis,2017,New Mexico (35),Unknown or Not Stated,214
+syphilis,Syphilis,2017,New York (36),Yes,188
+syphilis,Syphilis,2017,New York (36),No,228420
+syphilis,Syphilis,2017,New York (36),Unknown or Not Stated,1129
+syphilis,Syphilis,2017,North Carolina (37),Yes,90
+syphilis,Syphilis,2017,North Carolina (37),No,119590
+syphilis,Syphilis,2017,North Carolina (37),Unknown or Not Stated,445
+syphilis,Syphilis,2017,North Dakota (38),Yes,10
+syphilis,Syphilis,2017,North Dakota (38),No,10724
+syphilis,Syphilis,2017,Ohio (39),Yes,211
+syphilis,Syphilis,2017,Ohio (39),No,136578
+syphilis,Syphilis,2017,Ohio (39),Unknown or Not Stated,43
+syphilis,Syphilis,2017,Oklahoma (40),Yes,56
+syphilis,Syphilis,2017,Oklahoma (40),No,50156
+syphilis,Syphilis,2017,Oregon (41),Yes,36
+syphilis,Syphilis,2017,Oregon (41),No,43594
+syphilis,Syphilis,2017,Pennsylvania (42),Yes,88
+syphilis,Syphilis,2017,Pennsylvania (42),No,137605
+syphilis,Syphilis,2017,Pennsylvania (42),Unknown or Not Stated,52
+syphilis,Syphilis,2017,Rhode Island (44),No,10635
+syphilis,Syphilis,2017,South Carolina (45),Yes,63
+syphilis,Syphilis,2017,South Carolina (45),No,56952
+syphilis,Syphilis,2017,South Carolina (45),Unknown or Not Stated,14
+syphilis,Syphilis,2017,South Dakota (46),Yes,15
+syphilis,Syphilis,2017,South Dakota (46),No,12110
+syphilis,Syphilis,2017,Tennessee (47),Yes,88
+syphilis,Syphilis,2017,Tennessee (47),No,80855
+syphilis,Syphilis,2017,Tennessee (47),Unknown or Not Stated,73
+syphilis,Syphilis,2017,Texas (48),Yes,547
+syphilis,Syphilis,2017,Texas (48),No,381499
+syphilis,Syphilis,2017,Utah (49),Yes,12
+syphilis,Syphilis,2017,Utah (49),No,48573
+syphilis,Syphilis,2017,Vermont (50),No,5654
+syphilis,Syphilis,2017,Virginia (51),Yes,67
+syphilis,Syphilis,2017,Virginia (51),No,100315
+syphilis,Syphilis,2017,Washington (53),Yes,66
+syphilis,Syphilis,2017,Washington (53),No,87073
+syphilis,Syphilis,2017,Washington (53),Unknown or Not Stated,423
+syphilis,Syphilis,2017,West Virginia (54),Yes,21
+syphilis,Syphilis,2017,West Virginia (54),No,18369
+syphilis,Syphilis,2017,West Virginia (54),Unknown or Not Stated,285
+syphilis,Syphilis,2017,Wisconsin (55),Yes,48
+syphilis,Syphilis,2017,Wisconsin (55),No,63774
+syphilis,Syphilis,2017,Wisconsin (55),Unknown or Not Stated,1153
+syphilis,Syphilis,2017,Wyoming (56),No,6898
+syphilis,Syphilis,2018,Alabama (01),Yes,63
+syphilis,Syphilis,2018,Alabama (01),No,57686
+syphilis,Syphilis,2018,Alabama (01),Unknown or Not Stated,12
+syphilis,Syphilis,2018,Alaska (02),No,9950
+syphilis,Syphilis,2018,Alaska (02),Unknown or Not Stated,131
+syphilis,Syphilis,2018,Arizona (04),Yes,150
+syphilis,Syphilis,2018,Arizona (04),No,80570
+syphilis,Syphilis,2018,Arkansas (05),Yes,87
+syphilis,Syphilis,2018,Arkansas (05),No,36928
+syphilis,Syphilis,2018,California (06),Yes,548
+syphilis,Syphilis,2018,California (06),No,454317
+syphilis,Syphilis,2018,California (06),Unknown or Not Stated,55
+syphilis,Syphilis,2018,Colorado (08),Yes,29
+syphilis,Syphilis,2018,Colorado (08),No,62849
+syphilis,Syphilis,2018,Connecticut (09),Yes,18
+syphilis,Syphilis,2018,Connecticut (09),No,34619
+syphilis,Syphilis,2018,Connecticut (09),Unknown or Not Stated,88
+syphilis,Syphilis,2018,Delaware (10),No,10614
+syphilis,Syphilis,2018,District of Columbia (11),No,9200
+syphilis,Syphilis,2018,Florida (12),Yes,340
+syphilis,Syphilis,2018,Florida (12),No,218812
+syphilis,Syphilis,2018,Florida (12),Unknown or Not Stated,2390
+syphilis,Syphilis,2018,Georgia (13),Yes,135
+syphilis,Syphilis,2018,Georgia (13),No,125534
+syphilis,Syphilis,2018,Georgia (13),Unknown or Not Stated,503
+syphilis,Syphilis,2018,Hawaii (15),No,16968
+syphilis,Syphilis,2018,Idaho (16),Yes,21
+syphilis,Syphilis,2018,Idaho (16),No,21343
+syphilis,Syphilis,2018,Idaho (16),Unknown or Not Stated,39
+syphilis,Syphilis,2018,Illinois (17),Yes,155
+syphilis,Syphilis,2018,Illinois (17),No,144275
+syphilis,Syphilis,2018,Illinois (17),Unknown or Not Stated,385
+syphilis,Syphilis,2018,Indiana (18),Yes,66
+syphilis,Syphilis,2018,Indiana (18),No,81578
+syphilis,Syphilis,2018,Iowa (19),Yes,25
+syphilis,Syphilis,2018,Iowa (19),No,37759
+syphilis,Syphilis,2018,Kansas (20),Yes,24
+syphilis,Syphilis,2018,Kansas (20),No,36236
+syphilis,Syphilis,2018,Kentucky (21),Yes,68
+syphilis,Syphilis,2018,Kentucky (21),No,53703
+syphilis,Syphilis,2018,Kentucky (21),Unknown or Not Stated,151
+syphilis,Syphilis,2018,Louisiana (22),Yes,267
+syphilis,Syphilis,2018,Louisiana (22),No,59348
+syphilis,Syphilis,2018,Maine (23),No,12259
+syphilis,Syphilis,2018,Maine (23),Unknown or Not Stated,48
+syphilis,Syphilis,2018,Maryland (24),Yes,102
+syphilis,Syphilis,2018,Maryland (24),No,70909
+syphilis,Syphilis,2018,Maryland (24),Unknown or Not Stated,69
+syphilis,Syphilis,2018,Massachusetts (25),Yes,83
+syphilis,Syphilis,2018,Massachusetts (25),No,68952
+syphilis,Syphilis,2018,Massachusetts (25),Unknown or Not Stated,74
+syphilis,Syphilis,2018,Michigan (26),Yes,66
+syphilis,Syphilis,2018,Michigan (26),No,108922
+syphilis,Syphilis,2018,Michigan (26),Unknown or Not Stated,1044
+syphilis,Syphilis,2018,Minnesota (27),Yes,63
+syphilis,Syphilis,2018,Minnesota (27),No,67119
+syphilis,Syphilis,2018,Minnesota (27),Unknown or Not Stated,162
+syphilis,Syphilis,2018,Mississippi (28),Yes,85
+syphilis,Syphilis,2018,Mississippi (28),No,36892
+syphilis,Syphilis,2018,Mississippi (28),Unknown or Not Stated,23
+syphilis,Syphilis,2018,Missouri (29),Yes,79
+syphilis,Syphilis,2018,Missouri (29),No,73189
+syphilis,Syphilis,2018,Montana (30),No,11499
+syphilis,Syphilis,2018,Montana (30),Unknown or Not Stated,11
+syphilis,Syphilis,2018,Nebraska (31),Yes,18
+syphilis,Syphilis,2018,Nebraska (31),No,25428
+syphilis,Syphilis,2018,Nebraska (31),Unknown or Not Stated,42
+syphilis,Syphilis,2018,Nevada (32),Yes,63
+syphilis,Syphilis,2018,Nevada (32),No,35618
+syphilis,Syphilis,2018,New Hampshire (33),No,11971
+syphilis,Syphilis,2018,New Hampshire (33),Unknown or Not Stated,20
+syphilis,Syphilis,2018,New Jersey (34),Yes,110
+syphilis,Syphilis,2018,New Jersey (34),No,101103
+syphilis,Syphilis,2018,New Jersey (34),Unknown or Not Stated,10
+syphilis,Syphilis,2018,New Mexico (35),Yes,24
+syphilis,Syphilis,2018,New Mexico (35),No,22879
+syphilis,Syphilis,2018,New Mexico (35),Unknown or Not Stated,136
+syphilis,Syphilis,2018,New York (36),Yes,204
+syphilis,Syphilis,2018,New York (36),No,224864
+syphilis,Syphilis,2018,New York (36),Unknown or Not Stated,1170
+syphilis,Syphilis,2018,North Carolina (37),Yes,102
+syphilis,Syphilis,2018,North Carolina (37),No,118406
+syphilis,Syphilis,2018,North Carolina (37),Unknown or Not Stated,446
+syphilis,Syphilis,2018,North Dakota (38),No,10628
+syphilis,Syphilis,2018,Ohio (39),Yes,205
+syphilis,Syphilis,2018,Ohio (39),No,134906
+syphilis,Syphilis,2018,Ohio (39),Unknown or Not Stated,23
+syphilis,Syphilis,2018,Oklahoma (40),Yes,68
+syphilis,Syphilis,2018,Oklahoma (40),No,49732
+syphilis,Syphilis,2018,Oregon (41),Yes,50
+syphilis,Syphilis,2018,Oregon (41),No,42136
+syphilis,Syphilis,2018,Pennsylvania (42),Yes,119
+syphilis,Syphilis,2018,Pennsylvania (42),No,135508
+syphilis,Syphilis,2018,Pennsylvania (42),Unknown or Not Stated,46
+syphilis,Syphilis,2018,Rhode Island (44),No,10498
+syphilis,Syphilis,2018,South Carolina (45),Yes,86
+syphilis,Syphilis,2018,South Carolina (45),No,56571
+syphilis,Syphilis,2018,South Carolina (45),Unknown or Not Stated,12
+syphilis,Syphilis,2018,South Dakota (46),No,11866
+syphilis,Syphilis,2018,South Dakota (46),Unknown or Not Stated,18
+syphilis,Syphilis,2018,Tennessee (47),Yes,96
+syphilis,Syphilis,2018,Tennessee (47),No,80608
+syphilis,Syphilis,2018,Tennessee (47),Unknown or Not Stated,47
+syphilis,Syphilis,2018,Texas (48),Yes,551
+syphilis,Syphilis,2018,Texas (48),No,378039
+syphilis,Syphilis,2018,Texas (48),Unknown or Not Stated,34
+syphilis,Syphilis,2018,Utah (49),Yes,12
+syphilis,Syphilis,2018,Utah (49),No,47196
+syphilis,Syphilis,2018,Vermont (50),No,5429
+syphilis,Syphilis,2018,Virginia (51),Yes,66
+syphilis,Syphilis,2018,Virginia (51),No,99775
+syphilis,Syphilis,2018,Washington (53),Yes,68
+syphilis,Syphilis,2018,Washington (53),No,86015
+syphilis,Syphilis,2018,West Virginia (54),No,17973
+syphilis,Syphilis,2018,West Virginia (54),Unknown or Not Stated,267
+syphilis,Syphilis,2018,Wisconsin (55),Yes,34
+syphilis,Syphilis,2018,Wisconsin (55),No,63095
+syphilis,Syphilis,2018,Wisconsin (55),Unknown or Not Stated,969
+syphilis,Syphilis,2018,Wyoming (56),No,6562
+syphilis,Syphilis,2019,Alabama (01),Yes,73
+syphilis,Syphilis,2019,Alabama (01),No,58532
+syphilis,Syphilis,2019,Alabama (01),Unknown or Not Stated,10
+syphilis,Syphilis,2019,Alaska (02),No,9706
+syphilis,Syphilis,2019,Alaska (02),Unknown or Not Stated,109
+syphilis,Syphilis,2019,Arizona (04),Yes,176
+syphilis,Syphilis,2019,Arizona (04),No,79195
+syphilis,Syphilis,2019,Arkansas (05),Yes,98
+syphilis,Syphilis,2019,Arkansas (05),No,36464
+syphilis,Syphilis,2019,California (06),Yes,920
+syphilis,Syphilis,2019,California (06),No,444626
+syphilis,Syphilis,2019,California (06),Unknown or Not Stated,933
+syphilis,Syphilis,2019,Colorado (08),Yes,23
+syphilis,Syphilis,2019,Colorado (08),No,62838
+syphilis,Syphilis,2019,Connecticut (09),Yes,36
+syphilis,Syphilis,2019,Connecticut (09),No,34138
+syphilis,Syphilis,2019,Connecticut (09),Unknown or Not Stated,84
+syphilis,Syphilis,2019,Delaware (10),Yes,12
+syphilis,Syphilis,2019,Delaware (10),No,10504
+syphilis,Syphilis,2019,Delaware (10),Unknown or Not Stated,46
+syphilis,Syphilis,2019,District of Columbia (11),Yes,15
+syphilis,Syphilis,2019,District of Columbia (11),No,9058
+syphilis,Syphilis,2019,Florida (12),Yes,441
+syphilis,Syphilis,2019,Florida (12),No,218491
+syphilis,Syphilis,2019,Florida (12),Unknown or Not Stated,1070
+syphilis,Syphilis,2019,Georgia (13),Yes,181
+syphilis,Syphilis,2019,Georgia (13),No,125887
+syphilis,Syphilis,2019,Georgia (13),Unknown or Not Stated,303
+syphilis,Syphilis,2019,Hawaii (15),Yes,13
+syphilis,Syphilis,2019,Hawaii (15),No,16784
+syphilis,Syphilis,2019,Idaho (16),Yes,20
+syphilis,Syphilis,2019,Idaho (16),No,21991
+syphilis,Syphilis,2019,Idaho (16),Unknown or Not Stated,52
+syphilis,Syphilis,2019,Illinois (17),Yes,169
+syphilis,Syphilis,2019,Illinois (17),No,139808
+syphilis,Syphilis,2019,Illinois (17),Unknown or Not Stated,151
+syphilis,Syphilis,2019,Indiana (18),Yes,66
+syphilis,Syphilis,2019,Indiana (18),No,80788
+syphilis,Syphilis,2019,Iowa (19),Yes,34
+syphilis,Syphilis,2019,Iowa (19),No,37611
+syphilis,Syphilis,2019,Kansas (20),Yes,33
+syphilis,Syphilis,2019,Kansas (20),No,35362
+syphilis,Syphilis,2019,Kentucky (21),Yes,76
+syphilis,Syphilis,2019,Kentucky (21),No,52782
+syphilis,Syphilis,2019,Kentucky (21),Unknown or Not Stated,211
+syphilis,Syphilis,2019,Louisiana (22),Yes,350
+syphilis,Syphilis,2019,Louisiana (22),No,58589
+syphilis,Syphilis,2019,Maine (23),No,11711
+syphilis,Syphilis,2019,Maine (23),Unknown or Not Stated,67
+syphilis,Syphilis,2019,Maryland (24),Yes,93
+syphilis,Syphilis,2019,Maryland (24),No,70054
+syphilis,Syphilis,2019,Maryland (24),Unknown or Not Stated,31
+syphilis,Syphilis,2019,Massachusetts (25),Yes,103
+syphilis,Syphilis,2019,Massachusetts (25),No,68873
+syphilis,Syphilis,2019,Massachusetts (25),Unknown or Not Stated,141
+syphilis,Syphilis,2019,Michigan (26),Yes,92
+syphilis,Syphilis,2019,Michigan (26),No,106315
+syphilis,Syphilis,2019,Michigan (26),Unknown or Not Stated,1479
+syphilis,Syphilis,2019,Minnesota (27),Yes,93
+syphilis,Syphilis,2019,Minnesota (27),No,65721
+syphilis,Syphilis,2019,Minnesota (27),Unknown or Not Stated,213
+syphilis,Syphilis,2019,Mississippi (28),Yes,127
+syphilis,Syphilis,2019,Mississippi (28),No,36488
+syphilis,Syphilis,2019,Mississippi (28),Unknown or Not Stated,21
+syphilis,Syphilis,2019,Missouri (29),Yes,121
+syphilis,Syphilis,2019,Missouri (29),No,72002
+syphilis,Syphilis,2019,Montana (30),Yes,11
+syphilis,Syphilis,2019,Montana (30),No,11063
+syphilis,Syphilis,2019,Nebraska (31),Yes,28
+syphilis,Syphilis,2019,Nebraska (31),No,24684
+syphilis,Syphilis,2019,Nebraska (31),Unknown or Not Stated,43
+syphilis,Syphilis,2019,Nevada (32),Yes,77
+syphilis,Syphilis,2019,Nevada (32),No,34993
+syphilis,Syphilis,2019,New Hampshire (33),No,11808
+syphilis,Syphilis,2019,New Hampshire (33),Unknown or Not Stated,24
+syphilis,Syphilis,2019,New Jersey (34),Yes,121
+syphilis,Syphilis,2019,New Jersey (34),No,99454
+syphilis,Syphilis,2019,New Jersey (34),Unknown or Not Stated,10
+syphilis,Syphilis,2019,New Mexico (35),Yes,47
+syphilis,Syphilis,2019,New Mexico (35),No,22805
+syphilis,Syphilis,2019,New Mexico (35),Unknown or Not Stated,108
+syphilis,Syphilis,2019,New York (36),Yes,216
+syphilis,Syphilis,2019,New York (36),No,220035
+syphilis,Syphilis,2019,New York (36),Unknown or Not Stated,1288
+syphilis,Syphilis,2019,North Carolina (37),Yes,137
+syphilis,Syphilis,2019,North Carolina (37),No,117977
+syphilis,Syphilis,2019,North Carolina (37),Unknown or Not Stated,611
+syphilis,Syphilis,2019,North Dakota (38),Yes,17
+syphilis,Syphilis,2019,North Dakota (38),No,10437
+syphilis,Syphilis,2019,Ohio (39),Yes,215
+syphilis,Syphilis,2019,Ohio (39),No,134193
+syphilis,Syphilis,2019,Ohio (39),Unknown or Not Stated,53
+syphilis,Syphilis,2019,Oklahoma (40),Yes,79
+syphilis,Syphilis,2019,Oklahoma (40),No,49058
+syphilis,Syphilis,2019,Oregon (41),Yes,55
+syphilis,Syphilis,2019,Oregon (41),No,41800
+syphilis,Syphilis,2019,Pennsylvania (42),Yes,128
+syphilis,Syphilis,2019,Pennsylvania (42),No,134054
+syphilis,Syphilis,2019,Pennsylvania (42),Unknown or Not Stated,48
+syphilis,Syphilis,2019,Rhode Island (44),Yes,10
+syphilis,Syphilis,2019,Rhode Island (44),No,10164
+syphilis,Syphilis,2019,South Carolina (45),Yes,92
+syphilis,Syphilis,2019,South Carolina (45),No,56933
+syphilis,Syphilis,2019,South Carolina (45),Unknown or Not Stated,13
+syphilis,Syphilis,2019,South Dakota (46),Yes,11
+syphilis,Syphilis,2019,South Dakota (46),No,11433
+syphilis,Syphilis,2019,Tennessee (47),Yes,103
+syphilis,Syphilis,2019,Tennessee (47),No,80336
+syphilis,Syphilis,2019,Tennessee (47),Unknown or Not Stated,11
+syphilis,Syphilis,2019,Texas (48),Yes,661
+syphilis,Syphilis,2019,Texas (48),No,376095
+syphilis,Syphilis,2019,Texas (48),Unknown or Not Stated,843
+syphilis,Syphilis,2019,Utah (49),Yes,23
+syphilis,Syphilis,2019,Utah (49),No,46802
+syphilis,Syphilis,2019,Vermont (50),No,5359
+syphilis,Syphilis,2019,Virginia (51),Yes,76
+syphilis,Syphilis,2019,Virginia (51),No,97334
+syphilis,Syphilis,2019,Virginia (51),Unknown or Not Stated,19
+syphilis,Syphilis,2019,Washington (53),Yes,85
+syphilis,Syphilis,2019,Washington (53),No,84779
+syphilis,Syphilis,2019,Washington (53),Unknown or Not Stated,31
+syphilis,Syphilis,2019,West Virginia (54),Yes,22
+syphilis,Syphilis,2019,West Virginia (54),No,17528
+syphilis,Syphilis,2019,West Virginia (54),Unknown or Not Stated,586
+syphilis,Syphilis,2019,Wisconsin (55),Yes,47
+syphilis,Syphilis,2019,Wisconsin (55),No,62420
+syphilis,Syphilis,2019,Wisconsin (55),Unknown or Not Stated,803
+syphilis,Syphilis,2019,Wyoming (56),No,6563
+syphilis,Syphilis,2020,Alabama (01),Yes,69
+syphilis,Syphilis,2020,Alabama (01),No,57573
+syphilis,Syphilis,2020,Alaska (02),Yes,29
+syphilis,Syphilis,2020,Alaska (02),No,9353
+syphilis,Syphilis,2020,Alaska (02),Unknown or Not Stated,87
+syphilis,Syphilis,2020,Arizona (04),Yes,219
+syphilis,Syphilis,2020,Arizona (04),No,76724
+syphilis,Syphilis,2020,Arkansas (05),Yes,96
+syphilis,Syphilis,2020,Arkansas (05),No,35153
+syphilis,Syphilis,2020,California (06),Yes,973
+syphilis,Syphilis,2020,California (06),No,417870
+syphilis,Syphilis,2020,California (06),Unknown or Not Stated,1416
+syphilis,Syphilis,2020,Colorado (08),Yes,56
+syphilis,Syphilis,2020,Colorado (08),No,61427
+syphilis,Syphilis,2020,Colorado (08),Unknown or Not Stated,11
+syphilis,Syphilis,2020,Connecticut (09),Yes,49
+syphilis,Syphilis,2020,Connecticut (09),No,33321
+syphilis,Syphilis,2020,Connecticut (09),Unknown or Not Stated,90
+syphilis,Syphilis,2020,Delaware (10),Yes,15
+syphilis,Syphilis,2020,Delaware (10),No,10258
+syphilis,Syphilis,2020,Delaware (10),Unknown or Not Stated,119
+syphilis,Syphilis,2020,District of Columbia (11),Yes,27
+syphilis,Syphilis,2020,District of Columbia (11),No,8842
+syphilis,Syphilis,2020,Florida (12),Yes,415
+syphilis,Syphilis,2020,Florida (12),No,208434
+syphilis,Syphilis,2020,Florida (12),Unknown or Not Stated,822
+syphilis,Syphilis,2020,Georgia (13),Yes,183
+syphilis,Syphilis,2020,Georgia (13),No,121991
+syphilis,Syphilis,2020,Georgia (13),Unknown or Not Stated,299
+syphilis,Syphilis,2020,Hawaii (15),No,15777
+syphilis,Syphilis,2020,Idaho (16),Yes,23
+syphilis,Syphilis,2020,Idaho (16),No,21475
+syphilis,Syphilis,2020,Idaho (16),Unknown or Not Stated,35
+syphilis,Syphilis,2020,Illinois (17),Yes,213
+syphilis,Syphilis,2020,Illinois (17),No,132862
+syphilis,Syphilis,2020,Illinois (17),Unknown or Not Stated,223
+syphilis,Syphilis,2020,Indiana (18),Yes,72
+syphilis,Syphilis,2020,Indiana (18),No,78494
+syphilis,Syphilis,2020,Indiana (18),Unknown or Not Stated,50
+syphilis,Syphilis,2020,Iowa (19),Yes,36
+syphilis,Syphilis,2020,Iowa (19),No,36075
+syphilis,Syphilis,2020,Kansas (20),Yes,32
+syphilis,Syphilis,2020,Kansas (20),No,34342
+syphilis,Syphilis,2020,Kentucky (21),Yes,113
+syphilis,Syphilis,2020,Kentucky (21),No,50907
+syphilis,Syphilis,2020,Kentucky (21),Unknown or Not Stated,648
+syphilis,Syphilis,2020,Louisiana (22),Yes,334
+syphilis,Syphilis,2020,Louisiana (22),No,56992
+syphilis,Syphilis,2020,Maine (23),No,11369
+syphilis,Syphilis,2020,Maine (23),Unknown or Not Stated,163
+syphilis,Syphilis,2020,Maryland (24),Yes,141
+syphilis,Syphilis,2020,Maryland (24),No,68386
+syphilis,Syphilis,2020,Maryland (24),Unknown or Not Stated,27
+syphilis,Syphilis,2020,Massachusetts (25),Yes,101
+syphilis,Syphilis,2020,Massachusetts (25),No,66092
+syphilis,Syphilis,2020,Massachusetts (25),Unknown or Not Stated,235
+syphilis,Syphilis,2020,Michigan (26),Yes,120
+syphilis,Syphilis,2020,Michigan (26),No,102576
+syphilis,Syphilis,2020,Michigan (26),Unknown or Not Stated,1378
+syphilis,Syphilis,2020,Minnesota (27),Yes,85
+syphilis,Syphilis,2020,Minnesota (27),No,63180
+syphilis,Syphilis,2020,Minnesota (27),Unknown or Not Stated,178
+syphilis,Syphilis,2020,Mississippi (28),Yes,180
+syphilis,Syphilis,2020,Mississippi (28),No,35285
+syphilis,Syphilis,2020,Missouri (29),Yes,154
+syphilis,Syphilis,2020,Missouri (29),No,69127
+syphilis,Syphilis,2020,Montana (30),Yes,13
+syphilis,Syphilis,2020,Montana (30),No,10777
+syphilis,Syphilis,2020,Nebraska (31),Yes,33
+syphilis,Syphilis,2020,Nebraska (31),No,24164
+syphilis,Syphilis,2020,Nebraska (31),Unknown or Not Stated,94
+syphilis,Syphilis,2020,Nevada (32),Yes,84
+syphilis,Syphilis,2020,Nevada (32),No,33568
+syphilis,Syphilis,2020,New Hampshire (33),No,11755
+syphilis,Syphilis,2020,New Hampshire (33),Unknown or Not Stated,33
+syphilis,Syphilis,2020,New Jersey (34),Yes,161
+syphilis,Syphilis,2020,New Jersey (34),No,97783
+syphilis,Syphilis,2020,New Jersey (34),Unknown or Not Stated,10
+syphilis,Syphilis,2020,New Mexico (35),Yes,63
+syphilis,Syphilis,2020,New Mexico (35),No,21687
+syphilis,Syphilis,2020,New Mexico (35),Unknown or Not Stated,153
+syphilis,Syphilis,2020,New York (36),Yes,263
+syphilis,Syphilis,2020,New York (36),No,207887
+syphilis,Syphilis,2020,New York (36),Unknown or Not Stated,1188
+syphilis,Syphilis,2020,North Carolina (37),Yes,175
+syphilis,Syphilis,2020,North Carolina (37),No,115089
+syphilis,Syphilis,2020,North Carolina (37),Unknown or Not Stated,1466
+syphilis,Syphilis,2020,North Dakota (38),Yes,16
+syphilis,Syphilis,2020,North Dakota (38),No,10043
+syphilis,Syphilis,2020,Ohio (39),Yes,247
+syphilis,Syphilis,2020,Ohio (39),No,128920
+syphilis,Syphilis,2020,Ohio (39),Unknown or Not Stated,24
+syphilis,Syphilis,2020,Oklahoma (40),Yes,121
+syphilis,Syphilis,2020,Oklahoma (40),No,47500
+syphilis,Syphilis,2020,Oregon (41),Yes,81
+syphilis,Syphilis,2020,Oregon (41),No,39736
+syphilis,Syphilis,2020,Pennsylvania (42),Yes,163
+syphilis,Syphilis,2020,Pennsylvania (42),No,130462
+syphilis,Syphilis,2020,Pennsylvania (42),Unknown or Not Stated,68
+syphilis,Syphilis,2020,Rhode Island (44),No,10087
+syphilis,Syphilis,2020,South Carolina (45),Yes,138
+syphilis,Syphilis,2020,South Carolina (45),No,55546
+syphilis,Syphilis,2020,South Carolina (45),Unknown or Not Stated,20
+syphilis,Syphilis,2020,South Dakota (46),Yes,19
+syphilis,Syphilis,2020,South Dakota (46),No,10934
+syphilis,Syphilis,2020,Tennessee (47),Yes,122
+syphilis,Syphilis,2020,Tennessee (47),No,78562
+syphilis,Syphilis,2020,Texas (48),Yes,715
+syphilis,Syphilis,2020,Texas (48),No,366659
+syphilis,Syphilis,2020,Texas (48),Unknown or Not Stated,816
+syphilis,Syphilis,2020,Utah (49),Yes,15
+syphilis,Syphilis,2020,Utah (49),No,45687
+syphilis,Syphilis,2020,Vermont (50),No,5128
+syphilis,Syphilis,2020,Virginia (51),Yes,96
+syphilis,Syphilis,2020,Virginia (51),No,94628
+syphilis,Syphilis,2020,Virginia (51),Unknown or Not Stated,25
+syphilis,Syphilis,2020,Washington (53),Yes,104
+syphilis,Syphilis,2020,Washington (53),No,82451
+syphilis,Syphilis,2020,Washington (53),Unknown or Not Stated,531
+syphilis,Syphilis,2020,West Virginia (54),Yes,21
+syphilis,Syphilis,2020,West Virginia (54),No,16859
+syphilis,Syphilis,2020,West Virginia (54),Unknown or Not Stated,443
+syphilis,Syphilis,2020,Wisconsin (55),Yes,41
+syphilis,Syphilis,2020,Wisconsin (55),No,59841
+syphilis,Syphilis,2020,Wisconsin (55),Unknown or Not Stated,712
+syphilis,Syphilis,2020,Wyoming (56),No,6122
+syphilis,Syphilis,2021,Alabama (01),Yes,131
+syphilis,Syphilis,2021,Alabama (01),No,57915
+syphilis,Syphilis,2021,Alaska (02),Yes,15
+syphilis,Syphilis,2021,Alaska (02),No,9288
+syphilis,Syphilis,2021,Alaska (02),Unknown or Not Stated,64
+syphilis,Syphilis,2021,Arizona (04),Yes,304
+syphilis,Syphilis,2021,Arizona (04),No,77606
+syphilis,Syphilis,2021,Arkansas (05),Yes,152
+syphilis,Syphilis,2021,Arkansas (05),No,35810
+syphilis,Syphilis,2021,California (06),Yes,1022
+syphilis,Syphilis,2021,California (06),No,417765
+syphilis,Syphilis,2021,California (06),Unknown or Not Stated,1821
+syphilis,Syphilis,2021,Colorado (08),Yes,68
+syphilis,Syphilis,2021,Colorado (08),No,62876
+syphilis,Syphilis,2021,Connecticut (09),Yes,41
+syphilis,Syphilis,2021,Connecticut (09),No,35599
+syphilis,Syphilis,2021,Connecticut (09),Unknown or Not Stated,30
+syphilis,Syphilis,2021,Delaware (10),No,10385
+syphilis,Syphilis,2021,Delaware (10),Unknown or Not Stated,89
+syphilis,Syphilis,2021,District of Columbia (11),Yes,23
+syphilis,Syphilis,2021,District of Columbia (11),No,8531
+syphilis,Syphilis,2021,District of Columbia (11),Unknown or Not Stated,106
+syphilis,Syphilis,2021,Florida (12),Yes,522
+syphilis,Syphilis,2021,Florida (12),No,214460
+syphilis,Syphilis,2021,Florida (12),Unknown or Not Stated,1278
+syphilis,Syphilis,2021,Georgia (13),Yes,274
+syphilis,Syphilis,2021,Georgia (13),No,123488
+syphilis,Syphilis,2021,Georgia (13),Unknown or Not Stated,311
+syphilis,Syphilis,2021,Hawaii (15),Yes,16
+syphilis,Syphilis,2021,Hawaii (15),No,15604
+syphilis,Syphilis,2021,Idaho (16),Yes,24
+syphilis,Syphilis,2021,Idaho (16),No,22330
+syphilis,Syphilis,2021,Idaho (16),Unknown or Not Stated,73
+syphilis,Syphilis,2021,Illinois (17),Yes,250
+syphilis,Syphilis,2021,Illinois (17),No,131788
+syphilis,Syphilis,2021,Illinois (17),Unknown or Not Stated,151
+syphilis,Syphilis,2021,Indiana (18),Yes,117
+syphilis,Syphilis,2021,Indiana (18),No,77413
+syphilis,Syphilis,2021,Indiana (18),Unknown or Not Stated,2416
+syphilis,Syphilis,2021,Iowa (19),Yes,63
+syphilis,Syphilis,2021,Iowa (19),No,36759
+syphilis,Syphilis,2021,Iowa (19),Unknown or Not Stated,13
+syphilis,Syphilis,2021,Kansas (20),Yes,36
+syphilis,Syphilis,2021,Kansas (20),No,34666
+syphilis,Syphilis,2021,Kentucky (21),Yes,163
+syphilis,Syphilis,2021,Kentucky (21),No,51753
+syphilis,Syphilis,2021,Kentucky (21),Unknown or Not Stated,298
+syphilis,Syphilis,2021,Louisiana (22),Yes,349
+syphilis,Syphilis,2021,Louisiana (22),No,57081
+syphilis,Syphilis,2021,Maine (23),No,11957
+syphilis,Syphilis,2021,Maine (23),Unknown or Not Stated,47
+syphilis,Syphilis,2021,Maryland (24),Yes,137
+syphilis,Syphilis,2021,Maryland (24),No,68129
+syphilis,Syphilis,2021,Maryland (24),Unknown or Not Stated,19
+syphilis,Syphilis,2021,Massachusetts (25),Yes,114
+syphilis,Syphilis,2021,Massachusetts (25),No,68342
+syphilis,Syphilis,2021,Massachusetts (25),Unknown or Not Stated,681
+syphilis,Syphilis,2021,Michigan (26),Yes,126
+syphilis,Syphilis,2021,Michigan (26),No,103613
+syphilis,Syphilis,2021,Michigan (26),Unknown or Not Stated,1241
+syphilis,Syphilis,2021,Minnesota (27),Yes,106
+syphilis,Syphilis,2021,Minnesota (27),No,64146
+syphilis,Syphilis,2021,Minnesota (27),Unknown or Not Stated,173
+syphilis,Syphilis,2021,Mississippi (28),Yes,217
+syphilis,Syphilis,2021,Mississippi (28),No,34929
+syphilis,Syphilis,2021,Mississippi (28),Unknown or Not Stated,10
+syphilis,Syphilis,2021,Missouri (29),Yes,186
+syphilis,Syphilis,2021,Missouri (29),No,69266
+syphilis,Syphilis,2021,Montana (30),Yes,16
+syphilis,Syphilis,2021,Montana (30),No,11214
+syphilis,Syphilis,2021,Nebraska (31),Yes,38
+syphilis,Syphilis,2021,Nebraska (31),No,24507
+syphilis,Syphilis,2021,Nebraska (31),Unknown or Not Stated,64
+syphilis,Syphilis,2021,Nevada (32),Yes,98
+syphilis,Syphilis,2021,Nevada (32),No,33585
+syphilis,Syphilis,2021,New Hampshire (33),No,12585
+syphilis,Syphilis,2021,New Hampshire (33),Unknown or Not Stated,33
+syphilis,Syphilis,2021,New Jersey (34),Yes,162
+syphilis,Syphilis,2021,New Jersey (34),No,100894
+syphilis,Syphilis,2021,New Jersey (34),Unknown or Not Stated,441
+syphilis,Syphilis,2021,New Mexico (35),Yes,85
+syphilis,Syphilis,2021,New Mexico (35),No,21191
+syphilis,Syphilis,2021,New Mexico (35),Unknown or Not Stated,115
+syphilis,Syphilis,2021,New York (36),Yes,269
+syphilis,Syphilis,2021,New York (36),No,209074
+syphilis,Syphilis,2021,New York (36),Unknown or Not Stated,1399
+syphilis,Syphilis,2021,North Carolina (37),Yes,199
+syphilis,Syphilis,2021,North Carolina (37),No,119560
+syphilis,Syphilis,2021,North Carolina (37),Unknown or Not Stated,707
+syphilis,Syphilis,2021,North Dakota (38),Yes,18
+syphilis,Syphilis,2021,North Dakota (38),No,10094
+syphilis,Syphilis,2021,Ohio (39),Yes,258
+syphilis,Syphilis,2021,Ohio (39),No,129439
+syphilis,Syphilis,2021,Ohio (39),Unknown or Not Stated,94
+syphilis,Syphilis,2021,Oklahoma (40),Yes,206
+syphilis,Syphilis,2021,Oklahoma (40),No,48193
+syphilis,Syphilis,2021,Oklahoma (40),Unknown or Not Stated,11
+syphilis,Syphilis,2021,Oregon (41),Yes,121
+syphilis,Syphilis,2021,Oregon (41),No,40793
+syphilis,Syphilis,2021,Pennsylvania (42),Yes,183
+syphilis,Syphilis,2021,Pennsylvania (42),No,132047
+syphilis,Syphilis,2021,Pennsylvania (42),Unknown or Not Stated,392
+syphilis,Syphilis,2021,Rhode Island (44),No,10453
+syphilis,Syphilis,2021,South Carolina (45),Yes,154
+syphilis,Syphilis,2021,South Carolina (45),No,56910
+syphilis,Syphilis,2021,South Carolina (45),Unknown or Not Stated,121
+syphilis,Syphilis,2021,South Dakota (46),Yes,48
+syphilis,Syphilis,2021,South Dakota (46),No,11317
+syphilis,Syphilis,2021,Tennessee (47),Yes,156
+syphilis,Syphilis,2021,Tennessee (47),No,81550
+syphilis,Syphilis,2021,Tennessee (47),Unknown or Not Stated,11
+syphilis,Syphilis,2021,Texas (48),Yes,910
+syphilis,Syphilis,2021,Texas (48),No,371855
+syphilis,Syphilis,2021,Texas (48),Unknown or Not Stated,829
+syphilis,Syphilis,2021,Utah (49),Yes,13
+syphilis,Syphilis,2021,Utah (49),No,46699
+syphilis,Syphilis,2021,Vermont (50),No,5380
+syphilis,Syphilis,2021,Virginia (51),Yes,96
+syphilis,Syphilis,2021,Virginia (51),No,95707
+syphilis,Syphilis,2021,Virginia (51),Unknown or Not Stated,22
+syphilis,Syphilis,2021,Washington (53),Yes,130
+syphilis,Syphilis,2021,Washington (53),No,82816
+syphilis,Syphilis,2021,Washington (53),Unknown or Not Stated,965
+syphilis,Syphilis,2021,West Virginia (54),Yes,33
+syphilis,Syphilis,2021,West Virginia (54),No,16887
+syphilis,Syphilis,2021,West Virginia (54),Unknown or Not Stated,278
+syphilis,Syphilis,2021,Wisconsin (55),Yes,79
+syphilis,Syphilis,2021,Wisconsin (55),No,61206
+syphilis,Syphilis,2021,Wisconsin (55),Unknown or Not Stated,496
+syphilis,Syphilis,2021,Wyoming (56),No,6233
+syphilis,Syphilis,2022,Alabama (01),Yes,154
+syphilis,Syphilis,2022,Alabama (01),No,57992
+syphilis,Syphilis,2022,Alaska (02),Yes,34
+syphilis,Syphilis,2022,Alaska (02),No,9259
+syphilis,Syphilis,2022,Alaska (02),Unknown or Not Stated,66
+syphilis,Syphilis,2022,Arizona (04),Yes,356
+syphilis,Syphilis,2022,Arizona (04),No,78187
+syphilis,Syphilis,2022,Arkansas (05),Yes,246
+syphilis,Syphilis,2022,Arkansas (05),No,35221
+syphilis,Syphilis,2022,California (06),Yes,1150
+syphilis,Syphilis,2022,California (06),No,416103
+syphilis,Syphilis,2022,California (06),Unknown or Not Stated,1851
+syphilis,Syphilis,2022,Colorado (08),Yes,128
+syphilis,Syphilis,2022,Colorado (08),No,62242
+syphilis,Syphilis,2022,Colorado (08),Unknown or Not Stated,13
+syphilis,Syphilis,2022,Connecticut (09),Yes,45
+syphilis,Syphilis,2022,Connecticut (09),No,35250
+syphilis,Syphilis,2022,Connecticut (09),Unknown or Not Stated,37
+syphilis,Syphilis,2022,Delaware (10),Yes,18
+syphilis,Syphilis,2022,Delaware (10),No,10711
+syphilis,Syphilis,2022,Delaware (10),Unknown or Not Stated,87
+syphilis,Syphilis,2022,District of Columbia (11),Yes,21
+syphilis,Syphilis,2022,District of Columbia (11),No,8041
+syphilis,Syphilis,2022,District of Columbia (11),Unknown or Not Stated,13
+syphilis,Syphilis,2022,Florida (12),Yes,704
+syphilis,Syphilis,2022,Florida (12),No,222296
+syphilis,Syphilis,2022,Florida (12),Unknown or Not Stated,1433
+syphilis,Syphilis,2022,Georgia (13),Yes,351
+syphilis,Syphilis,2022,Georgia (13),No,125437
+syphilis,Syphilis,2022,Georgia (13),Unknown or Not Stated,342
+syphilis,Syphilis,2022,Hawaii (15),Yes,23
+syphilis,Syphilis,2022,Hawaii (15),No,15512
+syphilis,Syphilis,2022,Idaho (16),Yes,16
+syphilis,Syphilis,2022,Idaho (16),No,22292
+syphilis,Syphilis,2022,Idaho (16),Unknown or Not Stated,83
+syphilis,Syphilis,2022,Illinois (17),Yes,357
+syphilis,Syphilis,2022,Illinois (17),No,127818
+syphilis,Syphilis,2022,Illinois (17),Unknown or Not Stated,175
+syphilis,Syphilis,2022,Indiana (18),Yes,158
+syphilis,Syphilis,2022,Indiana (18),No,77652
+syphilis,Syphilis,2022,Indiana (18),Unknown or Not Stated,1839
+syphilis,Syphilis,2022,Iowa (19),Yes,79
+syphilis,Syphilis,2022,Iowa (19),No,36413
+syphilis,Syphilis,2022,Iowa (19),Unknown or Not Stated,14
+syphilis,Syphilis,2022,Kansas (20),Yes,51
+syphilis,Syphilis,2022,Kansas (20),No,34350
+syphilis,Syphilis,2022,Kentucky (21),Yes,181
+syphilis,Syphilis,2022,Kentucky (21),No,51623
+syphilis,Syphilis,2022,Kentucky (21),Unknown or Not Stated,511
+syphilis,Syphilis,2022,Louisiana (22),Yes,377
+syphilis,Syphilis,2022,Louisiana (22),No,56102
+syphilis,Syphilis,2022,Maine (23),No,12037
+syphilis,Syphilis,2022,Maine (23),Unknown or Not Stated,47
+syphilis,Syphilis,2022,Maryland (24),Yes,189
+syphilis,Syphilis,2022,Maryland (24),No,68569
+syphilis,Syphilis,2022,Maryland (24),Unknown or Not Stated,24
+syphilis,Syphilis,2022,Massachusetts (25),Yes,152
+syphilis,Syphilis,2022,Massachusetts (25),No,68260
+syphilis,Syphilis,2022,Massachusetts (25),Unknown or Not Stated,172
+syphilis,Syphilis,2022,Michigan (26),Yes,149
+syphilis,Syphilis,2022,Michigan (26),No,100719
+syphilis,Syphilis,2022,Michigan (26),Unknown or Not Stated,1453
+syphilis,Syphilis,2022,Minnesota (27),Yes,127
+syphilis,Syphilis,2022,Minnesota (27),No,63790
+syphilis,Syphilis,2022,Minnesota (27),Unknown or Not Stated,98
+syphilis,Syphilis,2022,Mississippi (28),Yes,283
+syphilis,Syphilis,2022,Mississippi (28),No,34379
+syphilis,Syphilis,2022,Mississippi (28),Unknown or Not Stated,13
+syphilis,Syphilis,2022,Missouri (29),Yes,286
+syphilis,Syphilis,2022,Missouri (29),No,68697
+syphilis,Syphilis,2022,Montana (30),Yes,36
+syphilis,Syphilis,2022,Montana (30),No,11136
+syphilis,Syphilis,2022,Nebraska (31),Yes,55
+syphilis,Syphilis,2022,Nebraska (31),No,24232
+syphilis,Syphilis,2022,Nebraska (31),Unknown or Not Stated,58
+syphilis,Syphilis,2022,Nevada (32),Yes,135
+syphilis,Syphilis,2022,Nevada (32),No,33055
+syphilis,Syphilis,2022,New Hampshire (33),Yes,11
+syphilis,Syphilis,2022,New Hampshire (33),No,12034
+syphilis,Syphilis,2022,New Hampshire (33),Unknown or Not Stated,32
+syphilis,Syphilis,2022,New Jersey (34),Yes,244
+syphilis,Syphilis,2022,New Jersey (34),No,101675
+syphilis,Syphilis,2022,New Jersey (34),Unknown or Not Stated,974
+syphilis,Syphilis,2022,New Mexico (35),Yes,138
+syphilis,Syphilis,2022,New Mexico (35),No,21350
+syphilis,Syphilis,2022,New Mexico (35),Unknown or Not Stated,126
+syphilis,Syphilis,2022,New York (36),Yes,349
+syphilis,Syphilis,2022,New York (36),No,206278
+syphilis,Syphilis,2022,New York (36),Unknown or Not Stated,1147
+syphilis,Syphilis,2022,North Carolina (37),Yes,228
+syphilis,Syphilis,2022,North Carolina (37),No,119157
+syphilis,Syphilis,2022,North Carolina (37),Unknown or Not Stated,2177
+syphilis,Syphilis,2022,North Dakota (38),Yes,26
+syphilis,Syphilis,2022,North Dakota (38),No,9541
+syphilis,Syphilis,2022,Ohio (39),Yes,408
+syphilis,Syphilis,2022,Ohio (39),No,127715
+syphilis,Syphilis,2022,Ohio (39),Unknown or Not Stated,108
+syphilis,Syphilis,2022,Oklahoma (40),Yes,249
+syphilis,Syphilis,2022,Oklahoma (40),No,48072
+syphilis,Syphilis,2022,Oklahoma (40),Unknown or Not Stated,11
+syphilis,Syphilis,2022,Oregon (41),Yes,135
+syphilis,Syphilis,2022,Oregon (41),No,39352
+syphilis,Syphilis,2022,Pennsylvania (42),Yes,232
+syphilis,Syphilis,2022,Pennsylvania (42),No,128179
+syphilis,Syphilis,2022,Pennsylvania (42),Unknown or Not Stated,1841
+syphilis,Syphilis,2022,Rhode Island (44),No,10157
+syphilis,Syphilis,2022,Rhode Island (44),Unknown or Not Stated,103
+syphilis,Syphilis,2022,South Carolina (45),Yes,172
+syphilis,Syphilis,2022,South Carolina (45),No,57386
+syphilis,Syphilis,2022,South Carolina (45),Unknown or Not Stated,262
+syphilis,Syphilis,2022,South Dakota (46),Yes,124
+syphilis,Syphilis,2022,South Dakota (46),No,11064
+syphilis,Syphilis,2022,South Dakota (46),Unknown or Not Stated,13
+syphilis,Syphilis,2022,Tennessee (47),Yes,231
+syphilis,Syphilis,2022,Tennessee (47),No,82028
+syphilis,Syphilis,2022,Texas (48),Yes,1358
+syphilis,Syphilis,2022,Texas (48),No,386170
+syphilis,Syphilis,2022,Texas (48),Unknown or Not Stated,2213
+syphilis,Syphilis,2022,Utah (49),Yes,30
+syphilis,Syphilis,2022,Utah (49),No,45738
+syphilis,Syphilis,2022,Vermont (50),No,5314
+syphilis,Syphilis,2022,Virginia (51),Yes,105
+syphilis,Syphilis,2022,Virginia (51),No,95493
+syphilis,Syphilis,2022,Virginia (51),Unknown or Not Stated,32
+syphilis,Syphilis,2022,Washington (53),Yes,168
+syphilis,Syphilis,2022,Washington (53),No,82704
+syphilis,Syphilis,2022,Washington (53),Unknown or Not Stated,461
+syphilis,Syphilis,2022,West Virginia (54),Yes,31
+syphilis,Syphilis,2022,West Virginia (54),No,16759
+syphilis,Syphilis,2022,West Virginia (54),Unknown or Not Stated,139
+syphilis,Syphilis,2022,Wisconsin (55),Yes,108
+syphilis,Syphilis,2022,Wisconsin (55),No,59702
+syphilis,Syphilis,2022,Wisconsin (55),Unknown or Not Stated,239
+syphilis,Syphilis,2022,Wyoming (56),No,6042
+syphilis,Syphilis,2023,Alabama (01),Yes,188
+syphilis,Syphilis,2023,Alabama (01),No,57664
+syphilis,Syphilis,2023,Alaska (02),Yes,31
+syphilis,Syphilis,2023,Alaska (02),No,8894
+syphilis,Syphilis,2023,Alaska (02),Unknown or Not Stated,90
+syphilis,Syphilis,2023,Arizona (04),Yes,468
+syphilis,Syphilis,2023,Arizona (04),No,77620
+syphilis,Syphilis,2023,Arkansas (05),Yes,340
+syphilis,Syphilis,2023,Arkansas (05),No,34921
+syphilis,Syphilis,2023,California (06),Yes,1092
+syphilis,Syphilis,2023,California (06),No,397146
+syphilis,Syphilis,2023,California (06),Unknown or Not Stated,1870
+syphilis,Syphilis,2023,Colorado (08),Yes,163
+syphilis,Syphilis,2023,Colorado (08),No,60774
+syphilis,Syphilis,2023,Colorado (08),Unknown or Not Stated,557
+syphilis,Syphilis,2023,Connecticut (09),Yes,54
+syphilis,Syphilis,2023,Connecticut (09),No,34477
+syphilis,Syphilis,2023,Connecticut (09),Unknown or Not Stated,28
+syphilis,Syphilis,2023,Delaware (10),Yes,20
+syphilis,Syphilis,2023,Delaware (10),No,10305
+syphilis,Syphilis,2023,Delaware (10),Unknown or Not Stated,102
+syphilis,Syphilis,2023,District of Columbia (11),Yes,26
+syphilis,Syphilis,2023,District of Columbia (11),No,7867
+syphilis,Syphilis,2023,Florida (12),Yes,778
+syphilis,Syphilis,2023,Florida (12),No,218346
+syphilis,Syphilis,2023,Florida (12),Unknown or Not Stated,2286
+syphilis,Syphilis,2023,Georgia (13),Yes,346
+syphilis,Syphilis,2023,Georgia (13),No,124464
+syphilis,Syphilis,2023,Georgia (13),Unknown or Not Stated,310
+syphilis,Syphilis,2023,Hawaii (15),Yes,23
+syphilis,Syphilis,2023,Hawaii (15),No,14785
+syphilis,Syphilis,2023,Idaho (16),Yes,32
+syphilis,Syphilis,2023,Idaho (16),No,22288
+syphilis,Syphilis,2023,Idaho (16),Unknown or Not Stated,77
+syphilis,Syphilis,2023,Illinois (17),Yes,412
+syphilis,Syphilis,2023,Illinois (17),No,124255
+syphilis,Syphilis,2023,Illinois (17),Unknown or Not Stated,153
+syphilis,Syphilis,2023,Indiana (18),Yes,188
+syphilis,Syphilis,2023,Indiana (18),No,77438
+syphilis,Syphilis,2023,Indiana (18),Unknown or Not Stated,1374
+syphilis,Syphilis,2023,Iowa (19),Yes,89
+syphilis,Syphilis,2023,Iowa (19),No,35950
+syphilis,Syphilis,2023,Iowa (19),Unknown or Not Stated,13
+syphilis,Syphilis,2023,Kansas (20),Yes,74
+syphilis,Syphilis,2023,Kansas (20),No,33991
+syphilis,Syphilis,2023,Kentucky (21),Yes,230
+syphilis,Syphilis,2023,Kentucky (21),No,51294
+syphilis,Syphilis,2023,Kentucky (21),Unknown or Not Stated,460
+syphilis,Syphilis,2023,Louisiana (22),Yes,392
+syphilis,Syphilis,2023,Louisiana (22),No,54532
+syphilis,Syphilis,2023,Maine (23),Yes,14
+syphilis,Syphilis,2023,Maine (23),No,11568
+syphilis,Syphilis,2023,Maine (23),Unknown or Not Stated,45
+syphilis,Syphilis,2023,Maryland (24),Yes,193
+syphilis,Syphilis,2023,Maryland (24),No,65346
+syphilis,Syphilis,2023,Maryland (24),Unknown or Not Stated,55
+syphilis,Syphilis,2023,Massachusetts (25),Yes,162
+syphilis,Syphilis,2023,Massachusetts (25),No,66713
+syphilis,Syphilis,2023,Massachusetts (25),Unknown or Not Stated,218
+syphilis,Syphilis,2023,Michigan (26),Yes,172
+syphilis,Syphilis,2023,Michigan (26),No,97573
+syphilis,Syphilis,2023,Michigan (26),Unknown or Not Stated,1379
+syphilis,Syphilis,2023,Minnesota (27),Yes,133
+syphilis,Syphilis,2023,Minnesota (27),No,61478
+syphilis,Syphilis,2023,Minnesota (27),Unknown or Not Stated,104
+syphilis,Syphilis,2023,Mississippi (28),Yes,350
+syphilis,Syphilis,2023,Mississippi (28),No,34107
+syphilis,Syphilis,2023,Missouri (29),Yes,378
+syphilis,Syphilis,2023,Missouri (29),No,66739
+syphilis,Syphilis,2023,Montana (30),Yes,59
+syphilis,Syphilis,2023,Montana (30),No,11014
+syphilis,Syphilis,2023,Nebraska (31),Yes,69
+syphilis,Syphilis,2023,Nebraska (31),No,23998
+syphilis,Syphilis,2023,Nebraska (31),Unknown or Not Stated,44
+syphilis,Syphilis,2023,Nevada (32),Yes,163
+syphilis,Syphilis,2023,Nevada (32),No,31628
+syphilis,Syphilis,2023,New Hampshire (33),No,11887
+syphilis,Syphilis,2023,New Hampshire (33),Unknown or Not Stated,41
+syphilis,Syphilis,2023,New Jersey (34),Yes,233
+syphilis,Syphilis,2023,New Jersey (34),No,100179
+syphilis,Syphilis,2023,New Jersey (34),Unknown or Not Stated,589
+syphilis,Syphilis,2023,New Mexico (35),Yes,124
+syphilis,Syphilis,2023,New Mexico (35),No,20758
+syphilis,Syphilis,2023,New Mexico (35),Unknown or Not Stated,69
+syphilis,Syphilis,2023,New York (36),Yes,366
+syphilis,Syphilis,2023,New York (36),No,202272
+syphilis,Syphilis,2023,New York (36),Unknown or Not Stated,974
+syphilis,Syphilis,2023,North Carolina (37),Yes,281
+syphilis,Syphilis,2023,North Carolina (37),No,117724
+syphilis,Syphilis,2023,North Carolina (37),Unknown or Not Stated,2077
+syphilis,Syphilis,2023,North Dakota (38),Yes,25
+syphilis,Syphilis,2023,North Dakota (38),No,9621
+syphilis,Syphilis,2023,Ohio (39),Yes,402
+syphilis,Syphilis,2023,Ohio (39),No,126427
+syphilis,Syphilis,2023,Ohio (39),Unknown or Not Stated,67
+syphilis,Syphilis,2023,Oklahoma (40),Yes,318
+syphilis,Syphilis,2023,Oklahoma (40),No,47577
+syphilis,Syphilis,2023,Oklahoma (40),Unknown or Not Stated,14
+syphilis,Syphilis,2023,Oregon (41),Yes,142
+syphilis,Syphilis,2023,Oregon (41),No,38151
+syphilis,Syphilis,2023,Pennsylvania (42),Yes,258
+syphilis,Syphilis,2023,Pennsylvania (42),No,125115
+syphilis,Syphilis,2023,Pennsylvania (42),Unknown or Not Stated,1578
+syphilis,Syphilis,2023,Rhode Island (44),Yes,11
+syphilis,Syphilis,2023,Rhode Island (44),No,9723
+syphilis,Syphilis,2023,Rhode Island (44),Unknown or Not Stated,71
+syphilis,Syphilis,2023,South Carolina (45),Yes,179
+syphilis,Syphilis,2023,South Carolina (45),No,57281
+syphilis,Syphilis,2023,South Carolina (45),Unknown or Not Stated,269
+syphilis,Syphilis,2023,South Dakota (46),Yes,175
+syphilis,Syphilis,2023,South Dakota (46),No,11014
+syphilis,Syphilis,2023,South Dakota (46),Unknown or Not Stated,12
+syphilis,Syphilis,2023,Tennessee (47),Yes,247
+syphilis,Syphilis,2023,Tennessee (47),No,82765
+syphilis,Syphilis,2023,Texas (48),Yes,1665
+syphilis,Syphilis,2023,Texas (48),No,384328
+syphilis,Syphilis,2023,Texas (48),Unknown or Not Stated,1952
+syphilis,Syphilis,2023,Utah (49),Yes,35
+syphilis,Syphilis,2023,Utah (49),No,44978
+syphilis,Syphilis,2023,Vermont (50),No,5057
+syphilis,Syphilis,2023,Virginia (51),Yes,108
+syphilis,Syphilis,2023,Virginia (51),No,92510
+syphilis,Syphilis,2023,Virginia (51),Unknown or Not Stated,31
+syphilis,Syphilis,2023,Washington (53),Yes,211
+syphilis,Syphilis,2023,Washington (53),No,80488
+syphilis,Syphilis,2023,Washington (53),Unknown or Not Stated,233
+syphilis,Syphilis,2023,West Virginia (54),Yes,49
+syphilis,Syphilis,2023,West Virginia (54),No,16469
+syphilis,Syphilis,2023,West Virginia (54),Unknown or Not Stated,88
+syphilis,Syphilis,2023,Wisconsin (55),Yes,117
+syphilis,Syphilis,2023,Wisconsin (55),No,59381
+syphilis,Syphilis,2023,Wisconsin (55),Unknown or Not Stated,256
+syphilis,Syphilis,2023,Wyoming (56),Yes,14
+syphilis,Syphilis,2023,Wyoming (56),No,5974
+syphilis,Syphilis,2024,Alabama (01),Yes,256
+syphilis,Syphilis,2024,Alabama (01),No,57668
+syphilis,Syphilis,2024,Alabama (01),Unknown or Not Stated,10
+syphilis,Syphilis,2024,Alaska (02),Yes,24
+syphilis,Syphilis,2024,Alaska (02),No,8842
+syphilis,Syphilis,2024,Alaska (02),Unknown or Not Stated,77
+syphilis,Syphilis,2024,Arizona (04),Yes,487
+syphilis,Syphilis,2024,Arizona (04),No,78219
+syphilis,Syphilis,2024,Arkansas (05),Yes,279
+syphilis,Syphilis,2024,Arkansas (05),No,35115
+syphilis,Syphilis,2024,California (06),Yes,1038
+syphilis,Syphilis,2024,California (06),No,399726
+syphilis,Syphilis,2024,California (06),Unknown or Not Stated,1311
+syphilis,Syphilis,2024,Colorado (08),Yes,260
+syphilis,Syphilis,2024,Colorado (08),No,63969
+syphilis,Syphilis,2024,Colorado (08),Unknown or Not Stated,39
+syphilis,Syphilis,2024,Connecticut (09),Yes,52
+syphilis,Syphilis,2024,Connecticut (09),No,34516
+syphilis,Syphilis,2024,Connecticut (09),Unknown or Not Stated,31
+syphilis,Syphilis,2024,Delaware (10),Yes,23
+syphilis,Syphilis,2024,Delaware (10),No,10395
+syphilis,Syphilis,2024,Delaware (10),Unknown or Not Stated,132
+syphilis,Syphilis,2024,District of Columbia (11),Yes,21
+syphilis,Syphilis,2024,District of Columbia (11),No,7592
+syphilis,Syphilis,2024,Florida (12),Yes,834
+syphilis,Syphilis,2024,Florida (12),No,223267
+syphilis,Syphilis,2024,Florida (12),Unknown or Not Stated,288
+syphilis,Syphilis,2024,Georgia (13),Yes,423
+syphilis,Syphilis,2024,Georgia (13),No,125673
+syphilis,Syphilis,2024,Georgia (13),Unknown or Not Stated,341
+syphilis,Syphilis,2024,Hawaii (15),Yes,23
+syphilis,Syphilis,2024,Hawaii (15),No,14894
+syphilis,Syphilis,2024,Idaho (16),Yes,29
+syphilis,Syphilis,2024,Idaho (16),No,23168
+syphilis,Syphilis,2024,Idaho (16),Unknown or Not Stated,79
+syphilis,Syphilis,2024,Illinois (17),Yes,483
+syphilis,Syphilis,2024,Illinois (17),No,125070
+syphilis,Syphilis,2024,Illinois (17),Unknown or Not Stated,178
+syphilis,Syphilis,2024,Indiana (18),Yes,191
+syphilis,Syphilis,2024,Indiana (18),No,78757
+syphilis,Syphilis,2024,Indiana (18),Unknown or Not Stated,1309
+syphilis,Syphilis,2024,Iowa (19),Yes,120
+syphilis,Syphilis,2024,Iowa (19),No,36309
+syphilis,Syphilis,2024,Kansas (20),Yes,105
+syphilis,Syphilis,2024,Kansas (20),No,33878
+syphilis,Syphilis,2024,Kentucky (21),Yes,249
+syphilis,Syphilis,2024,Kentucky (21),No,51851
+syphilis,Syphilis,2024,Kentucky (21),Unknown or Not Stated,813
+syphilis,Syphilis,2024,Louisiana (22),Yes,484
+syphilis,Syphilis,2024,Louisiana (22),No,52820
+syphilis,Syphilis,2024,Maine (23),Yes,14
+syphilis,Syphilis,2024,Maine (23),No,11545
+syphilis,Syphilis,2024,Maine (23),Unknown or Not Stated,42
+syphilis,Syphilis,2024,Maryland (24),Yes,219
+syphilis,Syphilis,2024,Maryland (24),No,65469
+syphilis,Syphilis,2024,Maryland (24),Unknown or Not Stated,109
+syphilis,Syphilis,2024,Massachusetts (25),Yes,202
+syphilis,Syphilis,2024,Massachusetts (25),No,67795
+syphilis,Syphilis,2024,Massachusetts (25),Unknown or Not Stated,187
+syphilis,Syphilis,2024,Michigan (26),Yes,202
+syphilis,Syphilis,2024,Michigan (26),No,97801
+syphilis,Syphilis,2024,Michigan (26),Unknown or Not Stated,1522
+syphilis,Syphilis,2024,Minnesota (27),Yes,151
+syphilis,Syphilis,2024,Minnesota (27),No,61859
+syphilis,Syphilis,2024,Minnesota (27),Unknown or Not Stated,100
+syphilis,Syphilis,2024,Mississippi (28),Yes,403
+syphilis,Syphilis,2024,Mississippi (28),No,33062
+syphilis,Syphilis,2024,Missouri (29),Yes,372
+syphilis,Syphilis,2024,Missouri (29),No,67624
+syphilis,Syphilis,2024,Montana (30),Yes,55
+syphilis,Syphilis,2024,Montana (30),No,11269
+syphilis,Syphilis,2024,Nebraska (31),Yes,96
+syphilis,Syphilis,2024,Nebraska (31),No,24664
+syphilis,Syphilis,2024,Nebraska (31),Unknown or Not Stated,25
+syphilis,Syphilis,2024,Nevada (32),Yes,162
+syphilis,Syphilis,2024,Nevada (32),No,32217
+syphilis,Syphilis,2024,New Hampshire (33),No,11733
+syphilis,Syphilis,2024,New Hampshire (33),Unknown or Not Stated,30
+syphilis,Syphilis,2024,New Jersey (34),Yes,281
+syphilis,Syphilis,2024,New Jersey (34),No,100565
+syphilis,Syphilis,2024,New Jersey (34),Unknown or Not Stated,526
+syphilis,Syphilis,2024,New Mexico (35),Yes,157
+syphilis,Syphilis,2024,New Mexico (35),No,21080
+syphilis,Syphilis,2024,New Mexico (35),Unknown or Not Stated,91
+syphilis,Syphilis,2024,New York (36),Yes,470
+syphilis,Syphilis,2024,New York (36),No,203494
+syphilis,Syphilis,2024,New York (36),Unknown or Not Stated,1525
+syphilis,Syphilis,2024,North Carolina (37),Yes,358
+syphilis,Syphilis,2024,North Carolina (37),No,122486
+syphilis,Syphilis,2024,North Carolina (37),Unknown or Not Stated,12
+syphilis,Syphilis,2024,North Dakota (38),Yes,26
+syphilis,Syphilis,2024,North Dakota (38),No,9608
+syphilis,Syphilis,2024,Ohio (39),Yes,453
+syphilis,Syphilis,2024,Ohio (39),No,126250
+syphilis,Syphilis,2024,Ohio (39),Unknown or Not Stated,92
+syphilis,Syphilis,2024,Oklahoma (40),Yes,375
+syphilis,Syphilis,2024,Oklahoma (40),No,47574
+syphilis,Syphilis,2024,Oklahoma (40),Unknown or Not Stated,13
+syphilis,Syphilis,2024,Oregon (41),Yes,170
+syphilis,Syphilis,2024,Oregon (41),No,38793
+syphilis,Syphilis,2024,Pennsylvania (42),Yes,267
+syphilis,Syphilis,2024,Pennsylvania (42),No,125002
+syphilis,Syphilis,2024,Pennsylvania (42),Unknown or Not Stated,2030
+syphilis,Syphilis,2024,Rhode Island (44),Yes,21
+syphilis,Syphilis,2024,Rhode Island (44),No,9976
+syphilis,Syphilis,2024,Rhode Island (44),Unknown or Not Stated,12
+syphilis,Syphilis,2024,South Carolina (45),Yes,245
+syphilis,Syphilis,2024,South Carolina (45),No,58261
+syphilis,Syphilis,2024,South Carolina (45),Unknown or Not Stated,262
+syphilis,Syphilis,2024,South Dakota (46),Yes,195
+syphilis,Syphilis,2024,South Dakota (46),No,11232
+syphilis,Syphilis,2024,South Dakota (46),Unknown or Not Stated,24
+syphilis,Syphilis,2024,Tennessee (47),Yes,294
+syphilis,Syphilis,2024,Tennessee (47),No,83535
+syphilis,Syphilis,2024,Texas (48),Yes,1674
+syphilis,Syphilis,2024,Texas (48),No,386774
+syphilis,Syphilis,2024,Texas (48),Unknown or Not Stated,2380
+syphilis,Syphilis,2024,Utah (49),Yes,57
+syphilis,Syphilis,2024,Utah (49),No,46606
+syphilis,Syphilis,2024,Vermont (50),No,5018
+syphilis,Syphilis,2024,Virginia (51),Yes,154
+syphilis,Syphilis,2024,Virginia (51),No,93894
+syphilis,Syphilis,2024,Washington (53),Yes,295
+syphilis,Syphilis,2024,Washington (53),No,82580
+syphilis,Syphilis,2024,Washington (53),Unknown or Not Stated,243
+syphilis,Syphilis,2024,West Virginia (54),Yes,56
+syphilis,Syphilis,2024,West Virginia (54),No,16961
+syphilis,Syphilis,2024,Wisconsin (55),Yes,111
+syphilis,Syphilis,2024,Wisconsin (55),No,59182
+syphilis,Syphilis,2024,Wisconsin (55),Unknown or Not Stated,393
+syphilis,Syphilis,2024,Wyoming (56),No,6078

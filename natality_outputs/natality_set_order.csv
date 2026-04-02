@@ -1,0 +1,28 @@
+variable_label,variable_name,year,category,births
+set_order,Set Order,2016,Yes,235693
+set_order,Set Order,2016,No,3706401
+set_order,Set Order,2016,Unknown or Not Stated,3781
+set_order,Set Order,2017,Yes,248282
+set_order,Set Order,2017,No,3603507
+set_order,Set Order,2017,Unknown or Not Stated,3711
+set_order,Set Order,2018,Yes,271596
+set_order,Set Order,2018,No,3517234
+set_order,Set Order,2018,Unknown or Not Stated,2882
+set_order,Set Order,2019,Yes,291626
+set_order,Set Order,2019,No,3452630
+set_order,Set Order,2019,Unknown or Not Stated,3284
+set_order,Set Order,2020,Yes,304293
+set_order,Set Order,2020,No,3305291
+set_order,Set Order,2020,Unknown or Not Stated,4063
+set_order,Set Order,2021,Yes,333633
+set_order,Set Order,2021,No,3325454
+set_order,Set Order,2021,Unknown or Not Stated,5205
+set_order,Set Order,2022,Yes,348420
+set_order,Set Order,2022,No,3312733
+set_order,Set Order,2022,Unknown or Not Stated,6605
+set_order,Set Order,2023,Yes,361780
+set_order,Set Order,2023,No,3228485
+set_order,Set Order,2023,Unknown or Not Stated,5752
+set_order,Set Order,2024,Yes,377267
+set_order,Set Order,2024,No,3244366
+set_order,Set Order,2024,Unknown or Not Stated,7301

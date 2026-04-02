@@ -1,0 +1,28 @@
+variable_label,variable_name,year,category,births
+birth_weight_100g,Birth Weight (100g increments),2016,Yes,68378
+birth_weight_100g,Birth Weight (100g increments),2016,No,3873716
+birth_weight_100g,Birth Weight (100g increments),2016,Unknown or Not Stated,3781
+birth_weight_100g,Birth Weight (100g increments),2017,Yes,73032
+birth_weight_100g,Birth Weight (100g increments),2017,No,3778757
+birth_weight_100g,Birth Weight (100g increments),2017,Unknown or Not Stated,3711
+birth_weight_100g,Birth Weight (100g increments),2018,Yes,78310
+birth_weight_100g,Birth Weight (100g increments),2018,No,3710520
+birth_weight_100g,Birth Weight (100g increments),2018,Unknown or Not Stated,2882
+birth_weight_100g,Birth Weight (100g increments),2019,Yes,83132
+birth_weight_100g,Birth Weight (100g increments),2019,No,3661124
+birth_weight_100g,Birth Weight (100g increments),2019,Unknown or Not Stated,3284
+birth_weight_100g,Birth Weight (100g increments),2020,Yes,91528
+birth_weight_100g,Birth Weight (100g increments),2020,No,3518056
+birth_weight_100g,Birth Weight (100g increments),2020,Unknown or Not Stated,4063
+birth_weight_100g,Birth Weight (100g increments),2021,Yes,99573
+birth_weight_100g,Birth Weight (100g increments),2021,No,3559514
+birth_weight_100g,Birth Weight (100g increments),2021,Unknown or Not Stated,5205
+birth_weight_100g,Birth Weight (100g increments),2022,Yes,106772
+birth_weight_100g,Birth Weight (100g increments),2022,No,3554381
+birth_weight_100g,Birth Weight (100g increments),2022,Unknown or Not Stated,6605
+birth_weight_100g,Birth Weight (100g increments),2023,Yes,113272
+birth_weight_100g,Birth Weight (100g increments),2023,No,3476993
+birth_weight_100g,Birth Weight (100g increments),2023,Unknown or Not Stated,5752
+birth_weight_100g,Birth Weight (100g increments),2024,Yes,121339
+birth_weight_100g,Birth Weight (100g increments),2024,No,3500294
+birth_weight_100g,Birth Weight (100g increments),2024,Unknown or Not Stated,7301

@@ -1,0 +1,5 @@
+variable_label,variable_name,year,category,births
+prepreg_diabetes,Pre-pregnancy Diabetes,2016,Confirmed,583
+prepreg_diabetes,Pre-pregnancy Diabetes,2016,Pending,1114
+prepreg_diabetes,Pre-pregnancy Diabetes,2016,No,3937387
+prepreg_diabetes,Pre-pregnancy Diabetes,2016,Unknown or Not Stated,6791

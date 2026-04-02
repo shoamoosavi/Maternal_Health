@@ -1,0 +1,82 @@
+variable_label,variable_name,year,category,births
+mothers_education,Mother's Education,2016,8th grade or less,132090
+mothers_education,Mother's Education,2016,9th through 12th grade with no diploma,406561
+mothers_education,Mother's Education,2016,High school graduate or GED completed,979820
+mothers_education,Mother's Education,2016,"Some college credit, but not a degree",807772
+mothers_education,Mother's Education,2016,"Associate degree (AA, AS)",321856
+mothers_education,Mother's Education,2016,"Bachelor's degree (BA, AB, BS)",785190
+mothers_education,Mother's Education,2016,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",358728
+mothers_education,Mother's Education,2016,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",102359
+mothers_education,Mother's Education,2016,Unknown or Not Stated,51499
+mothers_education,Mother's Education,2017,8th grade or less,124613
+mothers_education,Mother's Education,2017,9th through 12th grade with no diploma,381013
+mothers_education,Mother's Education,2017,High school graduate or GED completed,973025
+mothers_education,Mother's Education,2017,"Some college credit, but not a degree",780284
+mothers_education,Mother's Education,2017,"Associate degree (AA, AS)",316065
+mothers_education,Mother's Education,2017,"Bachelor's degree (BA, AB, BS)",773944
+mothers_education,Mother's Education,2017,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",354601
+mothers_education,Mother's Education,2017,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",102396
+mothers_education,Mother's Education,2017,Unknown or Not Stated,49559
+mothers_education,Mother's Education,2018,8th grade or less,117820
+mothers_education,Mother's Education,2018,9th through 12th grade with no diploma,357769
+mothers_education,Mother's Education,2018,High school graduate or GED completed,966898
+mothers_education,Mother's Education,2018,"Some college credit, but not a degree",751020
+mothers_education,Mother's Education,2018,"Associate degree (AA, AS)",313569
+mothers_education,Mother's Education,2018,"Bachelor's degree (BA, AB, BS)",773821
+mothers_education,Mother's Education,2018,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",357744
+mothers_education,Mother's Education,2018,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",104084
+mothers_education,Mother's Education,2018,Unknown or Not Stated,48987
+mothers_education,Mother's Education,2019,8th grade or less,115785
+mothers_education,Mother's Education,2019,9th through 12th grade with no diploma,337490
+mothers_education,Mother's Education,2019,High school graduate or GED completed,965810
+mothers_education,Mother's Education,2019,"Some college credit, but not a degree",728950
+mothers_education,Mother's Education,2019,"Associate degree (AA, AS)",309300
+mothers_education,Mother's Education,2019,"Bachelor's degree (BA, AB, BS)",771905
+mothers_education,Mother's Education,2019,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",359811
+mothers_education,Mother's Education,2019,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",104362
+mothers_education,Mother's Education,2019,Unknown or Not Stated,54127
+mothers_education,Mother's Education,2020,8th grade or less,110404
+mothers_education,Mother's Education,2020,9th through 12th grade with no diploma,312305
+mothers_education,Mother's Education,2020,High school graduate or GED completed,944755
+mothers_education,Mother's Education,2020,"Some college credit, but not a degree",685522
+mothers_education,Mother's Education,2020,"Associate degree (AA, AS)",299243
+mothers_education,Mother's Education,2020,"Bachelor's degree (BA, AB, BS)",753630
+mothers_education,Mother's Education,2020,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",352814
+mothers_education,Mother's Education,2020,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",103241
+mothers_education,Mother's Education,2020,Unknown or Not Stated,51733
+mothers_education,Mother's Education,2021,8th grade or less,108138
+mothers_education,Mother's Education,2021,9th through 12th grade with no diploma,291244
+mothers_education,Mother's Education,2021,High school graduate or GED completed,945610
+mothers_education,Mother's Education,2021,"Some college credit, but not a degree",671721
+mothers_education,Mother's Education,2021,"Associate degree (AA, AS)",307667
+mothers_education,Mother's Education,2021,"Bachelor's degree (BA, AB, BS)",794694
+mothers_education,Mother's Education,2021,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",377348
+mothers_education,Mother's Education,2021,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",111263
+mothers_education,Mother's Education,2021,Unknown or Not Stated,56607
+mothers_education,Mother's Education,2022,8th grade or less,118110
+mothers_education,Mother's Education,2022,9th through 12th grade with no diploma,285501
+mothers_education,Mother's Education,2022,High school graduate or GED completed,957695
+mothers_education,Mother's Education,2022,"Some college credit, but not a degree",649967
+mothers_education,Mother's Education,2022,"Associate degree (AA, AS)",306847
+mothers_education,Mother's Education,2022,"Bachelor's degree (BA, AB, BS)",796235
+mothers_education,Mother's Education,2022,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",380005
+mothers_education,Mother's Education,2022,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",112163
+mothers_education,Mother's Education,2022,Unknown or Not Stated,61235
+mothers_education,Mother's Education,2023,8th grade or less,117939
+mothers_education,Mother's Education,2023,9th through 12th grade with no diploma,280048
+mothers_education,Mother's Education,2023,High school graduate or GED completed,953116
+mothers_education,Mother's Education,2023,"Some college credit, but not a degree",610807
+mothers_education,Mother's Education,2023,"Associate degree (AA, AS)",293838
+mothers_education,Mother's Education,2023,"Bachelor's degree (BA, AB, BS)",789377
+mothers_education,Mother's Education,2023,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",374830
+mothers_education,Mother's Education,2023,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",111608
+mothers_education,Mother's Education,2023,Unknown or Not Stated,64454
+mothers_education,Mother's Education,2024,8th grade or less,120905
+mothers_education,Mother's Education,2024,9th through 12th grade with no diploma,283252
+mothers_education,Mother's Education,2024,High school graduate or GED completed,964543
+mothers_education,Mother's Education,2024,"Some college credit, but not a degree",593450
+mothers_education,Mother's Education,2024,"Associate degree (AA, AS)",290026
+mothers_education,Mother's Education,2024,"Bachelor's degree (BA, AB, BS)",805680
+mothers_education,Mother's Education,2024,"Master's degree (MA, MS, MEng, MEd, MSW, MBA)",385602
+mothers_education,Mother's Education,2024,"Doctorate (PhD, EdD) or Professional Degree (MD, DDS, DVM, LLB, JD)",116571
+mothers_education,Mother's Education,2024,Unknown or Not Stated,68905

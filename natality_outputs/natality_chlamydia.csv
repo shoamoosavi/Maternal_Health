@@ -1,0 +1,1205 @@
+variable_label,variable_name,year,geo,category,births
+chlamydia,Chlamydia,2016,Alabama (01),Yes,1292
+chlamydia,Chlamydia,2016,Alabama (01),No,57841
+chlamydia,Chlamydia,2016,Alabama (01),Unknown or Not Stated,18
+chlamydia,Chlamydia,2016,Alaska (02),Yes,339
+chlamydia,Chlamydia,2016,Alaska (02),No,10772
+chlamydia,Chlamydia,2016,Alaska (02),Unknown or Not Stated,98
+chlamydia,Chlamydia,2016,Arizona (04),Yes,2143
+chlamydia,Chlamydia,2016,Arizona (04),No,82376
+chlamydia,Chlamydia,2016,Arkansas (05),Yes,1008
+chlamydia,Chlamydia,2016,Arkansas (05),No,37264
+chlamydia,Chlamydia,2016,California (06),Yes,2984
+chlamydia,Chlamydia,2016,California (06),No,485802
+chlamydia,Chlamydia,2016,California (06),Unknown or Not Stated,41
+chlamydia,Chlamydia,2016,Colorado (08),Yes,1214
+chlamydia,Chlamydia,2016,Colorado (08),No,65389
+chlamydia,Chlamydia,2016,Colorado (08),Unknown or Not Stated,10
+chlamydia,Chlamydia,2016,Connecticut (09),Yes,336
+chlamydia,Chlamydia,2016,Connecticut (09),No,35065
+chlamydia,Chlamydia,2016,Connecticut (09),Unknown or Not Stated,614
+chlamydia,Chlamydia,2016,Delaware (10),Yes,222
+chlamydia,Chlamydia,2016,Delaware (10),No,10770
+chlamydia,Chlamydia,2016,District of Columbia (11),Yes,145
+chlamydia,Chlamydia,2016,District of Columbia (11),No,9697
+chlamydia,Chlamydia,2016,District of Columbia (11),Unknown or Not Stated,16
+chlamydia,Chlamydia,2016,Florida (12),Yes,3736
+chlamydia,Chlamydia,2016,Florida (12),No,218804
+chlamydia,Chlamydia,2016,Florida (12),Unknown or Not Stated,2482
+chlamydia,Chlamydia,2016,Georgia (13),Yes,3151
+chlamydia,Chlamydia,2016,Georgia (13),No,126360
+chlamydia,Chlamydia,2016,Georgia (13),Unknown or Not Stated,531
+chlamydia,Chlamydia,2016,Hawaii (15),Yes,237
+chlamydia,Chlamydia,2016,Hawaii (15),No,17822
+chlamydia,Chlamydia,2016,Idaho (16),Yes,309
+chlamydia,Chlamydia,2016,Idaho (16),No,22101
+chlamydia,Chlamydia,2016,Idaho (16),Unknown or Not Stated,72
+chlamydia,Chlamydia,2016,Illinois (17),Yes,3127
+chlamydia,Chlamydia,2016,Illinois (17),No,150995
+chlamydia,Chlamydia,2016,Illinois (17),Unknown or Not Stated,323
+chlamydia,Chlamydia,2016,Indiana (18),Yes,1940
+chlamydia,Chlamydia,2016,Indiana (18),No,81142
+chlamydia,Chlamydia,2016,Iowa (19),Yes,712
+chlamydia,Chlamydia,2016,Iowa (19),No,38690
+chlamydia,Chlamydia,2016,Kansas (20),Yes,548
+chlamydia,Chlamydia,2016,Kansas (20),No,37505
+chlamydia,Chlamydia,2016,Kentucky (21),Yes,1229
+chlamydia,Chlamydia,2016,Kentucky (21),No,53700
+chlamydia,Chlamydia,2016,Kentucky (21),Unknown or Not Stated,520
+chlamydia,Chlamydia,2016,Louisiana (22),Yes,2213
+chlamydia,Chlamydia,2016,Louisiana (22),No,60965
+chlamydia,Chlamydia,2016,Maine (23),Yes,186
+chlamydia,Chlamydia,2016,Maine (23),No,12438
+chlamydia,Chlamydia,2016,Maine (23),Unknown or Not Stated,81
+chlamydia,Chlamydia,2016,Maryland (24),Yes,1155
+chlamydia,Chlamydia,2016,Maryland (24),No,71888
+chlamydia,Chlamydia,2016,Maryland (24),Unknown or Not Stated,93
+chlamydia,Chlamydia,2016,Massachusetts (25),Yes,851
+chlamydia,Chlamydia,2016,Massachusetts (25),No,70360
+chlamydia,Chlamydia,2016,Massachusetts (25),Unknown or Not Stated,106
+chlamydia,Chlamydia,2016,Michigan (26),Yes,1657
+chlamydia,Chlamydia,2016,Michigan (26),No,110633
+chlamydia,Chlamydia,2016,Michigan (26),Unknown or Not Stated,1025
+chlamydia,Chlamydia,2016,Minnesota (27),Yes,908
+chlamydia,Chlamydia,2016,Minnesota (27),No,68651
+chlamydia,Chlamydia,2016,Minnesota (27),Unknown or Not Stated,190
+chlamydia,Chlamydia,2016,Mississippi (28),Yes,1090
+chlamydia,Chlamydia,2016,Mississippi (28),No,36820
+chlamydia,Chlamydia,2016,Mississippi (28),Unknown or Not Stated,18
+chlamydia,Chlamydia,2016,Missouri (29),Yes,1704
+chlamydia,Chlamydia,2016,Missouri (29),No,72999
+chlamydia,Chlamydia,2016,Montana (30),Yes,221
+chlamydia,Chlamydia,2016,Montana (30),No,12034
+chlamydia,Chlamydia,2016,Montana (30),Unknown or Not Stated,27
+chlamydia,Chlamydia,2016,Nebraska (31),Yes,555
+chlamydia,Chlamydia,2016,Nebraska (31),No,25969
+chlamydia,Chlamydia,2016,Nebraska (31),Unknown or Not Stated,65
+chlamydia,Chlamydia,2016,Nevada (32),Yes,585
+chlamydia,Chlamydia,2016,Nevada (32),No,35672
+chlamydia,Chlamydia,2016,New Hampshire (33),Yes,156
+chlamydia,Chlamydia,2016,New Hampshire (33),No,11999
+chlamydia,Chlamydia,2016,New Hampshire (33),Unknown or Not Stated,112
+chlamydia,Chlamydia,2016,New Jersey (34),Yes,2100
+chlamydia,Chlamydia,2016,New Jersey (34),No,100542
+chlamydia,Chlamydia,2016,New Mexico (35),Yes,478
+chlamydia,Chlamydia,2016,New Mexico (35),No,24022
+chlamydia,Chlamydia,2016,New Mexico (35),Unknown or Not Stated,192
+chlamydia,Chlamydia,2016,New York (36),Yes,3292
+chlamydia,Chlamydia,2016,New York (36),No,229957
+chlamydia,Chlamydia,2016,New York (36),Unknown or Not Stated,1034
+chlamydia,Chlamydia,2016,North Carolina (37),Yes,2462
+chlamydia,Chlamydia,2016,North Carolina (37),No,117978
+chlamydia,Chlamydia,2016,North Carolina (37),Unknown or Not Stated,339
+chlamydia,Chlamydia,2016,North Dakota (38),Yes,127
+chlamydia,Chlamydia,2016,North Dakota (38),No,11254
+chlamydia,Chlamydia,2016,Ohio (39),Yes,4097
+chlamydia,Chlamydia,2016,Ohio (39),No,133934
+chlamydia,Chlamydia,2016,Ohio (39),Unknown or Not Stated,54
+chlamydia,Chlamydia,2016,Oklahoma (40),Yes,1242
+chlamydia,Chlamydia,2016,Oklahoma (40),No,51349
+chlamydia,Chlamydia,2016,Oregon (41),Yes,814
+chlamydia,Chlamydia,2016,Oregon (41),No,44716
+chlamydia,Chlamydia,2016,Pennsylvania (42),Yes,2631
+chlamydia,Chlamydia,2016,Pennsylvania (42),No,136732
+chlamydia,Chlamydia,2016,Pennsylvania (42),Unknown or Not Stated,46
+chlamydia,Chlamydia,2016,Rhode Island (44),Yes,108
+chlamydia,Chlamydia,2016,Rhode Island (44),No,10689
+chlamydia,Chlamydia,2016,South Carolina (45),Yes,2089
+chlamydia,Chlamydia,2016,South Carolina (45),No,55236
+chlamydia,Chlamydia,2016,South Carolina (45),Unknown or Not Stated,17
+chlamydia,Chlamydia,2016,South Dakota (46),Yes,312
+chlamydia,Chlamydia,2016,South Dakota (46),No,11961
+chlamydia,Chlamydia,2016,Tennessee (47),Yes,1818
+chlamydia,Chlamydia,2016,Tennessee (47),No,78976
+chlamydia,Chlamydia,2016,Tennessee (47),Unknown or Not Stated,13
+chlamydia,Chlamydia,2016,Texas (48),Yes,8938
+chlamydia,Chlamydia,2016,Texas (48),No,389103
+chlamydia,Chlamydia,2016,Utah (49),Yes,538
+chlamydia,Chlamydia,2016,Utah (49),No,49925
+chlamydia,Chlamydia,2016,Vermont (50),Yes,75
+chlamydia,Chlamydia,2016,Vermont (50),No,5681
+chlamydia,Chlamydia,2016,Virginia (51),Yes,1473
+chlamydia,Chlamydia,2016,Virginia (51),No,100978
+chlamydia,Chlamydia,2016,Washington (53),Yes,1155
+chlamydia,Chlamydia,2016,Washington (53),No,88872
+chlamydia,Chlamydia,2016,Washington (53),Unknown or Not Stated,478
+chlamydia,Chlamydia,2016,West Virginia (54),Yes,254
+chlamydia,Chlamydia,2016,West Virginia (54),No,18550
+chlamydia,Chlamydia,2016,West Virginia (54),Unknown or Not Stated,275
+chlamydia,Chlamydia,2016,Wisconsin (55),Yes,1436
+chlamydia,Chlamydia,2016,Wisconsin (55),No,64495
+chlamydia,Chlamydia,2016,Wisconsin (55),Unknown or Not Stated,684
+chlamydia,Chlamydia,2016,Wyoming (56),Yes,88
+chlamydia,Chlamydia,2016,Wyoming (56),No,7298
+chlamydia,Chlamydia,2017,Alabama (01),Yes,1269
+chlamydia,Chlamydia,2017,Alabama (01),No,57657
+chlamydia,Chlamydia,2017,Alabama (01),Unknown or Not Stated,15
+chlamydia,Chlamydia,2017,Alaska (02),Yes,220
+chlamydia,Chlamydia,2017,Alaska (02),No,10106
+chlamydia,Chlamydia,2017,Alaska (02),Unknown or Not Stated,119
+chlamydia,Chlamydia,2017,Arizona (04),Yes,2211
+chlamydia,Chlamydia,2017,Arizona (04),No,79655
+chlamydia,Chlamydia,2017,Arkansas (05),Yes,1042
+chlamydia,Chlamydia,2017,Arkansas (05),No,36474
+chlamydia,Chlamydia,2017,California (06),Yes,2966
+chlamydia,Chlamydia,2017,California (06),No,468659
+chlamydia,Chlamydia,2017,California (06),Unknown or Not Stated,33
+chlamydia,Chlamydia,2017,Colorado (08),Yes,1110
+chlamydia,Chlamydia,2017,Colorado (08),No,63261
+chlamydia,Chlamydia,2017,Colorado (08),Unknown or Not Stated,11
+chlamydia,Chlamydia,2017,Connecticut (09),Yes,276
+chlamydia,Chlamydia,2017,Connecticut (09),No,34698
+chlamydia,Chlamydia,2017,Connecticut (09),Unknown or Not Stated,247
+chlamydia,Chlamydia,2017,Delaware (10),Yes,268
+chlamydia,Chlamydia,2017,Delaware (10),No,10586
+chlamydia,Chlamydia,2017,District of Columbia (11),Yes,148
+chlamydia,Chlamydia,2017,District of Columbia (11),No,9409
+chlamydia,Chlamydia,2017,Florida (12),Yes,3857
+chlamydia,Chlamydia,2017,Florida (12),No,217358
+chlamydia,Chlamydia,2017,Florida (12),Unknown or Not Stated,2415
+chlamydia,Chlamydia,2017,Georgia (13),Yes,3183
+chlamydia,Chlamydia,2017,Georgia (13),No,125524
+chlamydia,Chlamydia,2017,Georgia (13),Unknown or Not Stated,536
+chlamydia,Chlamydia,2017,Hawaii (15),Yes,223
+chlamydia,Chlamydia,2017,Hawaii (15),No,17294
+chlamydia,Chlamydia,2017,Idaho (16),Yes,299
+chlamydia,Chlamydia,2017,Idaho (16),No,21832
+chlamydia,Chlamydia,2017,Idaho (16),Unknown or Not Stated,50
+chlamydia,Chlamydia,2017,Illinois (17),Yes,3045
+chlamydia,Chlamydia,2017,Illinois (17),No,145862
+chlamydia,Chlamydia,2017,Illinois (17),Unknown or Not Stated,483
+chlamydia,Chlamydia,2017,Indiana (18),Yes,1998
+chlamydia,Chlamydia,2017,Indiana (18),No,80168
+chlamydia,Chlamydia,2017,Iowa (19),Yes,740
+chlamydia,Chlamydia,2017,Iowa (19),No,37684
+chlamydia,Chlamydia,2017,Kansas (20),Yes,610
+chlamydia,Chlamydia,2017,Kansas (20),No,35908
+chlamydia,Chlamydia,2017,Kentucky (21),Yes,1138
+chlamydia,Chlamydia,2017,Kentucky (21),No,53384
+chlamydia,Chlamydia,2017,Kentucky (21),Unknown or Not Stated,230
+chlamydia,Chlamydia,2017,Louisiana (22),Yes,2126
+chlamydia,Chlamydia,2017,Louisiana (22),No,58892
+chlamydia,Chlamydia,2017,Maine (23),Yes,176
+chlamydia,Chlamydia,2017,Maine (23),No,12071
+chlamydia,Chlamydia,2017,Maine (23),Unknown or Not Stated,51
+chlamydia,Chlamydia,2017,Maryland (24),Yes,1190
+chlamydia,Chlamydia,2017,Maryland (24),No,70409
+chlamydia,Chlamydia,2017,Maryland (24),Unknown or Not Stated,42
+chlamydia,Chlamydia,2017,Massachusetts (25),Yes,879
+chlamydia,Chlamydia,2017,Massachusetts (25),No,69747
+chlamydia,Chlamydia,2017,Massachusetts (25),Unknown or Not Stated,76
+chlamydia,Chlamydia,2017,Michigan (26),Yes,1538
+chlamydia,Chlamydia,2017,Michigan (26),No,108437
+chlamydia,Chlamydia,2017,Michigan (26),Unknown or Not Stated,1451
+chlamydia,Chlamydia,2017,Minnesota (27),Yes,851
+chlamydia,Chlamydia,2017,Minnesota (27),No,67509
+chlamydia,Chlamydia,2017,Minnesota (27),Unknown or Not Stated,235
+chlamydia,Chlamydia,2017,Mississippi (28),Yes,1202
+chlamydia,Chlamydia,2017,Mississippi (28),No,36143
+chlamydia,Chlamydia,2017,Mississippi (28),Unknown or Not Stated,12
+chlamydia,Chlamydia,2017,Missouri (29),Yes,1660
+chlamydia,Chlamydia,2017,Missouri (29),No,71373
+chlamydia,Chlamydia,2017,Montana (30),Yes,200
+chlamydia,Chlamydia,2017,Montana (30),No,11580
+chlamydia,Chlamydia,2017,Montana (30),Unknown or Not Stated,19
+chlamydia,Chlamydia,2017,Nebraska (31),Yes,541
+chlamydia,Chlamydia,2017,Nebraska (31),No,25246
+chlamydia,Chlamydia,2017,Nebraska (31),Unknown or Not Stated,34
+chlamydia,Chlamydia,2017,Nevada (32),Yes,569
+chlamydia,Chlamydia,2017,Nevada (32),No,35185
+chlamydia,Chlamydia,2017,New Hampshire (33),Yes,143
+chlamydia,Chlamydia,2017,New Hampshire (33),No,11948
+chlamydia,Chlamydia,2017,New Hampshire (33),Unknown or Not Stated,25
+chlamydia,Chlamydia,2017,New Jersey (34),Yes,2084
+chlamydia,Chlamydia,2017,New Jersey (34),No,99163
+chlamydia,Chlamydia,2017,New Mexico (35),Yes,519
+chlamydia,Chlamydia,2017,New Mexico (35),No,23034
+chlamydia,Chlamydia,2017,New Mexico (35),Unknown or Not Stated,214
+chlamydia,Chlamydia,2017,New York (36),Yes,3053
+chlamydia,Chlamydia,2017,New York (36),No,225555
+chlamydia,Chlamydia,2017,New York (36),Unknown or Not Stated,1129
+chlamydia,Chlamydia,2017,North Carolina (37),Yes,2517
+chlamydia,Chlamydia,2017,North Carolina (37),No,117163
+chlamydia,Chlamydia,2017,North Carolina (37),Unknown or Not Stated,445
+chlamydia,Chlamydia,2017,North Dakota (38),Yes,117
+chlamydia,Chlamydia,2017,North Dakota (38),No,10617
+chlamydia,Chlamydia,2017,Ohio (39),Yes,4185
+chlamydia,Chlamydia,2017,Ohio (39),No,132604
+chlamydia,Chlamydia,2017,Ohio (39),Unknown or Not Stated,43
+chlamydia,Chlamydia,2017,Oklahoma (40),Yes,1163
+chlamydia,Chlamydia,2017,Oklahoma (40),No,49049
+chlamydia,Chlamydia,2017,Oregon (41),Yes,779
+chlamydia,Chlamydia,2017,Oregon (41),No,42851
+chlamydia,Chlamydia,2017,Pennsylvania (42),Yes,2876
+chlamydia,Chlamydia,2017,Pennsylvania (42),No,134817
+chlamydia,Chlamydia,2017,Pennsylvania (42),Unknown or Not Stated,52
+chlamydia,Chlamydia,2017,Rhode Island (44),Yes,108
+chlamydia,Chlamydia,2017,Rhode Island (44),No,10530
+chlamydia,Chlamydia,2017,South Carolina (45),Yes,1869
+chlamydia,Chlamydia,2017,South Carolina (45),No,55146
+chlamydia,Chlamydia,2017,South Carolina (45),Unknown or Not Stated,14
+chlamydia,Chlamydia,2017,South Dakota (46),Yes,306
+chlamydia,Chlamydia,2017,South Dakota (46),No,11819
+chlamydia,Chlamydia,2017,Tennessee (47),Yes,1889
+chlamydia,Chlamydia,2017,Tennessee (47),No,79054
+chlamydia,Chlamydia,2017,Tennessee (47),Unknown or Not Stated,73
+chlamydia,Chlamydia,2017,Texas (48),Yes,8224
+chlamydia,Chlamydia,2017,Texas (48),No,373822
+chlamydia,Chlamydia,2017,Utah (49),Yes,484
+chlamydia,Chlamydia,2017,Utah (49),No,48101
+chlamydia,Chlamydia,2017,Vermont (50),Yes,60
+chlamydia,Chlamydia,2017,Vermont (50),No,5595
+chlamydia,Chlamydia,2017,Virginia (51),Yes,1557
+chlamydia,Chlamydia,2017,Virginia (51),No,98825
+chlamydia,Chlamydia,2017,Washington (53),Yes,1214
+chlamydia,Chlamydia,2017,Washington (53),No,85925
+chlamydia,Chlamydia,2017,Washington (53),Unknown or Not Stated,423
+chlamydia,Chlamydia,2017,West Virginia (54),Yes,294
+chlamydia,Chlamydia,2017,West Virginia (54),No,18096
+chlamydia,Chlamydia,2017,West Virginia (54),Unknown or Not Stated,285
+chlamydia,Chlamydia,2017,Wisconsin (55),Yes,1408
+chlamydia,Chlamydia,2017,Wisconsin (55),No,62414
+chlamydia,Chlamydia,2017,Wisconsin (55),Unknown or Not Stated,1153
+chlamydia,Chlamydia,2017,Wyoming (56),Yes,95
+chlamydia,Chlamydia,2017,Wyoming (56),No,6806
+chlamydia,Chlamydia,2018,Alabama (01),Yes,1168
+chlamydia,Chlamydia,2018,Alabama (01),No,56581
+chlamydia,Chlamydia,2018,Alabama (01),Unknown or Not Stated,12
+chlamydia,Chlamydia,2018,Alaska (02),Yes,248
+chlamydia,Chlamydia,2018,Alaska (02),No,9707
+chlamydia,Chlamydia,2018,Alaska (02),Unknown or Not Stated,131
+chlamydia,Chlamydia,2018,Arizona (04),Yes,2264
+chlamydia,Chlamydia,2018,Arizona (04),No,78456
+chlamydia,Chlamydia,2018,Arkansas (05),Yes,1153
+chlamydia,Chlamydia,2018,Arkansas (05),No,35862
+chlamydia,Chlamydia,2018,California (06),Yes,3291
+chlamydia,Chlamydia,2018,California (06),No,451574
+chlamydia,Chlamydia,2018,California (06),Unknown or Not Stated,55
+chlamydia,Chlamydia,2018,Colorado (08),Yes,1190
+chlamydia,Chlamydia,2018,Colorado (08),No,61688
+chlamydia,Chlamydia,2018,Connecticut (09),Yes,322
+chlamydia,Chlamydia,2018,Connecticut (09),No,34315
+chlamydia,Chlamydia,2018,Connecticut (09),Unknown or Not Stated,88
+chlamydia,Chlamydia,2018,Delaware (10),Yes,254
+chlamydia,Chlamydia,2018,Delaware (10),No,10363
+chlamydia,Chlamydia,2018,District of Columbia (11),Yes,161
+chlamydia,Chlamydia,2018,District of Columbia (11),No,9048
+chlamydia,Chlamydia,2018,Florida (12),Yes,3953
+chlamydia,Chlamydia,2018,Florida (12),No,215199
+chlamydia,Chlamydia,2018,Florida (12),Unknown or Not Stated,2390
+chlamydia,Chlamydia,2018,Georgia (13),Yes,2816
+chlamydia,Chlamydia,2018,Georgia (13),No,122853
+chlamydia,Chlamydia,2018,Georgia (13),Unknown or Not Stated,503
+chlamydia,Chlamydia,2018,Hawaii (15),Yes,159
+chlamydia,Chlamydia,2018,Hawaii (15),No,16813
+chlamydia,Chlamydia,2018,Idaho (16),Yes,295
+chlamydia,Chlamydia,2018,Idaho (16),No,21069
+chlamydia,Chlamydia,2018,Idaho (16),Unknown or Not Stated,39
+chlamydia,Chlamydia,2018,Illinois (17),Yes,2652
+chlamydia,Chlamydia,2018,Illinois (17),No,141778
+chlamydia,Chlamydia,2018,Illinois (17),Unknown or Not Stated,385
+chlamydia,Chlamydia,2018,Indiana (18),Yes,1947
+chlamydia,Chlamydia,2018,Indiana (18),No,79697
+chlamydia,Chlamydia,2018,Iowa (19),Yes,769
+chlamydia,Chlamydia,2018,Iowa (19),No,37015
+chlamydia,Chlamydia,2018,Kansas (20),Yes,657
+chlamydia,Chlamydia,2018,Kansas (20),No,35603
+chlamydia,Chlamydia,2018,Kentucky (21),Yes,1218
+chlamydia,Chlamydia,2018,Kentucky (21),No,52553
+chlamydia,Chlamydia,2018,Kentucky (21),Unknown or Not Stated,151
+chlamydia,Chlamydia,2018,Louisiana (22),Yes,2015
+chlamydia,Chlamydia,2018,Louisiana (22),No,57600
+chlamydia,Chlamydia,2018,Maine (23),Yes,165
+chlamydia,Chlamydia,2018,Maine (23),No,12098
+chlamydia,Chlamydia,2018,Maine (23),Unknown or Not Stated,48
+chlamydia,Chlamydia,2018,Maryland (24),Yes,1189
+chlamydia,Chlamydia,2018,Maryland (24),No,69822
+chlamydia,Chlamydia,2018,Maryland (24),Unknown or Not Stated,69
+chlamydia,Chlamydia,2018,Massachusetts (25),Yes,936
+chlamydia,Chlamydia,2018,Massachusetts (25),No,68099
+chlamydia,Chlamydia,2018,Massachusetts (25),Unknown or Not Stated,74
+chlamydia,Chlamydia,2018,Michigan (26),Yes,1581
+chlamydia,Chlamydia,2018,Michigan (26),No,107407
+chlamydia,Chlamydia,2018,Michigan (26),Unknown or Not Stated,1044
+chlamydia,Chlamydia,2018,Minnesota (27),Yes,815
+chlamydia,Chlamydia,2018,Minnesota (27),No,66367
+chlamydia,Chlamydia,2018,Minnesota (27),Unknown or Not Stated,162
+chlamydia,Chlamydia,2018,Mississippi (28),Yes,1332
+chlamydia,Chlamydia,2018,Mississippi (28),No,35645
+chlamydia,Chlamydia,2018,Mississippi (28),Unknown or Not Stated,23
+chlamydia,Chlamydia,2018,Missouri (29),Yes,1771
+chlamydia,Chlamydia,2018,Missouri (29),No,71497
+chlamydia,Chlamydia,2018,Montana (30),Yes,186
+chlamydia,Chlamydia,2018,Montana (30),No,11316
+chlamydia,Chlamydia,2018,Montana (30),Unknown or Not Stated,11
+chlamydia,Chlamydia,2018,Nebraska (31),Yes,491
+chlamydia,Chlamydia,2018,Nebraska (31),No,24955
+chlamydia,Chlamydia,2018,Nebraska (31),Unknown or Not Stated,42
+chlamydia,Chlamydia,2018,Nevada (32),Yes,470
+chlamydia,Chlamydia,2018,Nevada (32),No,35211
+chlamydia,Chlamydia,2018,New Hampshire (33),Yes,120
+chlamydia,Chlamydia,2018,New Hampshire (33),No,11855
+chlamydia,Chlamydia,2018,New Hampshire (33),Unknown or Not Stated,20
+chlamydia,Chlamydia,2018,New Jersey (34),Yes,1865
+chlamydia,Chlamydia,2018,New Jersey (34),No,99348
+chlamydia,Chlamydia,2018,New Jersey (34),Unknown or Not Stated,10
+chlamydia,Chlamydia,2018,New Mexico (35),Yes,423
+chlamydia,Chlamydia,2018,New Mexico (35),No,22480
+chlamydia,Chlamydia,2018,New Mexico (35),Unknown or Not Stated,136
+chlamydia,Chlamydia,2018,New York (36),Yes,2818
+chlamydia,Chlamydia,2018,New York (36),No,222250
+chlamydia,Chlamydia,2018,New York (36),Unknown or Not Stated,1170
+chlamydia,Chlamydia,2018,North Carolina (37),Yes,2502
+chlamydia,Chlamydia,2018,North Carolina (37),No,116006
+chlamydia,Chlamydia,2018,North Carolina (37),Unknown or Not Stated,446
+chlamydia,Chlamydia,2018,North Dakota (38),Yes,143
+chlamydia,Chlamydia,2018,North Dakota (38),No,10492
+chlamydia,Chlamydia,2018,Ohio (39),Yes,3984
+chlamydia,Chlamydia,2018,Ohio (39),No,131127
+chlamydia,Chlamydia,2018,Ohio (39),Unknown or Not Stated,23
+chlamydia,Chlamydia,2018,Oklahoma (40),Yes,1117
+chlamydia,Chlamydia,2018,Oklahoma (40),No,48683
+chlamydia,Chlamydia,2018,Oregon (41),Yes,646
+chlamydia,Chlamydia,2018,Oregon (41),No,41540
+chlamydia,Chlamydia,2018,Pennsylvania (42),Yes,3101
+chlamydia,Chlamydia,2018,Pennsylvania (42),No,132526
+chlamydia,Chlamydia,2018,Pennsylvania (42),Unknown or Not Stated,46
+chlamydia,Chlamydia,2018,Rhode Island (44),Yes,103
+chlamydia,Chlamydia,2018,Rhode Island (44),No,10403
+chlamydia,Chlamydia,2018,South Carolina (45),Yes,1860
+chlamydia,Chlamydia,2018,South Carolina (45),No,54797
+chlamydia,Chlamydia,2018,South Carolina (45),Unknown or Not Stated,12
+chlamydia,Chlamydia,2018,South Dakota (46),Yes,267
+chlamydia,Chlamydia,2018,South Dakota (46),No,11608
+chlamydia,Chlamydia,2018,South Dakota (46),Unknown or Not Stated,18
+chlamydia,Chlamydia,2018,Tennessee (47),Yes,2170
+chlamydia,Chlamydia,2018,Tennessee (47),No,78534
+chlamydia,Chlamydia,2018,Tennessee (47),Unknown or Not Stated,47
+chlamydia,Chlamydia,2018,Texas (48),Yes,8194
+chlamydia,Chlamydia,2018,Texas (48),No,370396
+chlamydia,Chlamydia,2018,Texas (48),Unknown or Not Stated,34
+chlamydia,Chlamydia,2018,Utah (49),Yes,386
+chlamydia,Chlamydia,2018,Utah (49),No,46822
+chlamydia,Chlamydia,2018,Vermont (50),Yes,65
+chlamydia,Chlamydia,2018,Vermont (50),No,5366
+chlamydia,Chlamydia,2018,Virginia (51),Yes,1704
+chlamydia,Chlamydia,2018,Virginia (51),No,98137
+chlamydia,Chlamydia,2018,Washington (53),Yes,1099
+chlamydia,Chlamydia,2018,Washington (53),No,84984
+chlamydia,Chlamydia,2018,West Virginia (54),Yes,313
+chlamydia,Chlamydia,2018,West Virginia (54),No,17668
+chlamydia,Chlamydia,2018,West Virginia (54),Unknown or Not Stated,267
+chlamydia,Chlamydia,2018,Wisconsin (55),Yes,1332
+chlamydia,Chlamydia,2018,Wisconsin (55),No,61797
+chlamydia,Chlamydia,2018,Wisconsin (55),Unknown or Not Stated,969
+chlamydia,Chlamydia,2018,Wyoming (56),Yes,78
+chlamydia,Chlamydia,2018,Wyoming (56),No,6484
+chlamydia,Chlamydia,2019,Alabama (01),Yes,1308
+chlamydia,Chlamydia,2019,Alabama (01),No,57297
+chlamydia,Chlamydia,2019,Alabama (01),Unknown or Not Stated,10
+chlamydia,Chlamydia,2019,Alaska (02),Yes,263
+chlamydia,Chlamydia,2019,Alaska (02),No,9450
+chlamydia,Chlamydia,2019,Alaska (02),Unknown or Not Stated,109
+chlamydia,Chlamydia,2019,Arizona (04),Yes,2105
+chlamydia,Chlamydia,2019,Arizona (04),No,77266
+chlamydia,Chlamydia,2019,Arkansas (05),Yes,1212
+chlamydia,Chlamydia,2019,Arkansas (05),No,35350
+chlamydia,Chlamydia,2019,California (06),Yes,3761
+chlamydia,Chlamydia,2019,California (06),No,441785
+chlamydia,Chlamydia,2019,California (06),Unknown or Not Stated,933
+chlamydia,Chlamydia,2019,Colorado (08),Yes,1002
+chlamydia,Chlamydia,2019,Colorado (08),No,61859
+chlamydia,Chlamydia,2019,Connecticut (09),Yes,279
+chlamydia,Chlamydia,2019,Connecticut (09),No,33895
+chlamydia,Chlamydia,2019,Connecticut (09),Unknown or Not Stated,84
+chlamydia,Chlamydia,2019,Delaware (10),Yes,289
+chlamydia,Chlamydia,2019,Delaware (10),No,10227
+chlamydia,Chlamydia,2019,Delaware (10),Unknown or Not Stated,46
+chlamydia,Chlamydia,2019,District of Columbia (11),Yes,161
+chlamydia,Chlamydia,2019,District of Columbia (11),No,8912
+chlamydia,Chlamydia,2019,Florida (12),Yes,3973
+chlamydia,Chlamydia,2019,Florida (12),No,214959
+chlamydia,Chlamydia,2019,Florida (12),Unknown or Not Stated,1070
+chlamydia,Chlamydia,2019,Georgia (13),Yes,2853
+chlamydia,Chlamydia,2019,Georgia (13),No,123215
+chlamydia,Chlamydia,2019,Georgia (13),Unknown or Not Stated,303
+chlamydia,Chlamydia,2019,Hawaii (15),Yes,130
+chlamydia,Chlamydia,2019,Hawaii (15),No,16667
+chlamydia,Chlamydia,2019,Idaho (16),Yes,283
+chlamydia,Chlamydia,2019,Idaho (16),No,21728
+chlamydia,Chlamydia,2019,Idaho (16),Unknown or Not Stated,52
+chlamydia,Chlamydia,2019,Illinois (17),Yes,2741
+chlamydia,Chlamydia,2019,Illinois (17),No,137236
+chlamydia,Chlamydia,2019,Illinois (17),Unknown or Not Stated,151
+chlamydia,Chlamydia,2019,Indiana (18),Yes,1940
+chlamydia,Chlamydia,2019,Indiana (18),No,78914
+chlamydia,Chlamydia,2019,Iowa (19),Yes,731
+chlamydia,Chlamydia,2019,Iowa (19),No,36914
+chlamydia,Chlamydia,2019,Kansas (20),Yes,649
+chlamydia,Chlamydia,2019,Kansas (20),No,34746
+chlamydia,Chlamydia,2019,Kentucky (21),Yes,1129
+chlamydia,Chlamydia,2019,Kentucky (21),No,51729
+chlamydia,Chlamydia,2019,Kentucky (21),Unknown or Not Stated,211
+chlamydia,Chlamydia,2019,Louisiana (22),Yes,2124
+chlamydia,Chlamydia,2019,Louisiana (22),No,56815
+chlamydia,Chlamydia,2019,Maine (23),Yes,150
+chlamydia,Chlamydia,2019,Maine (23),No,11562
+chlamydia,Chlamydia,2019,Maine (23),Unknown or Not Stated,67
+chlamydia,Chlamydia,2019,Maryland (24),Yes,1118
+chlamydia,Chlamydia,2019,Maryland (24),No,69029
+chlamydia,Chlamydia,2019,Maryland (24),Unknown or Not Stated,31
+chlamydia,Chlamydia,2019,Massachusetts (25),Yes,983
+chlamydia,Chlamydia,2019,Massachusetts (25),No,67993
+chlamydia,Chlamydia,2019,Massachusetts (25),Unknown or Not Stated,141
+chlamydia,Chlamydia,2019,Michigan (26),Yes,1695
+chlamydia,Chlamydia,2019,Michigan (26),No,104712
+chlamydia,Chlamydia,2019,Michigan (26),Unknown or Not Stated,1479
+chlamydia,Chlamydia,2019,Minnesota (27),Yes,835
+chlamydia,Chlamydia,2019,Minnesota (27),No,64979
+chlamydia,Chlamydia,2019,Minnesota (27),Unknown or Not Stated,213
+chlamydia,Chlamydia,2019,Mississippi (28),Yes,1383
+chlamydia,Chlamydia,2019,Mississippi (28),No,35232
+chlamydia,Chlamydia,2019,Mississippi (28),Unknown or Not Stated,21
+chlamydia,Chlamydia,2019,Missouri (29),Yes,1672
+chlamydia,Chlamydia,2019,Missouri (29),No,70451
+chlamydia,Chlamydia,2019,Montana (30),Yes,212
+chlamydia,Chlamydia,2019,Montana (30),No,10862
+chlamydia,Chlamydia,2019,Nebraska (31),Yes,455
+chlamydia,Chlamydia,2019,Nebraska (31),No,24257
+chlamydia,Chlamydia,2019,Nebraska (31),Unknown or Not Stated,43
+chlamydia,Chlamydia,2019,Nevada (32),Yes,446
+chlamydia,Chlamydia,2019,Nevada (32),No,34624
+chlamydia,Chlamydia,2019,New Hampshire (33),Yes,118
+chlamydia,Chlamydia,2019,New Hampshire (33),No,11697
+chlamydia,Chlamydia,2019,New Hampshire (33),Unknown or Not Stated,24
+chlamydia,Chlamydia,2019,New Jersey (34),Yes,1722
+chlamydia,Chlamydia,2019,New Jersey (34),No,97853
+chlamydia,Chlamydia,2019,New Jersey (34),Unknown or Not Stated,10
+chlamydia,Chlamydia,2019,New Mexico (35),Yes,462
+chlamydia,Chlamydia,2019,New Mexico (35),No,22390
+chlamydia,Chlamydia,2019,New Mexico (35),Unknown or Not Stated,108
+chlamydia,Chlamydia,2019,New York (36),Yes,2992
+chlamydia,Chlamydia,2019,New York (36),No,217259
+chlamydia,Chlamydia,2019,New York (36),Unknown or Not Stated,1288
+chlamydia,Chlamydia,2019,North Carolina (37),Yes,2516
+chlamydia,Chlamydia,2019,North Carolina (37),No,115598
+chlamydia,Chlamydia,2019,North Carolina (37),Unknown or Not Stated,611
+chlamydia,Chlamydia,2019,North Dakota (38),Yes,123
+chlamydia,Chlamydia,2019,North Dakota (38),No,10331
+chlamydia,Chlamydia,2019,Ohio (39),Yes,4023
+chlamydia,Chlamydia,2019,Ohio (39),No,130385
+chlamydia,Chlamydia,2019,Ohio (39),Unknown or Not Stated,53
+chlamydia,Chlamydia,2019,Oklahoma (40),Yes,1071
+chlamydia,Chlamydia,2019,Oklahoma (40),No,48066
+chlamydia,Chlamydia,2019,Oregon (41),Yes,652
+chlamydia,Chlamydia,2019,Oregon (41),No,41203
+chlamydia,Chlamydia,2019,Pennsylvania (42),Yes,2888
+chlamydia,Chlamydia,2019,Pennsylvania (42),No,131294
+chlamydia,Chlamydia,2019,Pennsylvania (42),Unknown or Not Stated,48
+chlamydia,Chlamydia,2019,Rhode Island (44),Yes,103
+chlamydia,Chlamydia,2019,Rhode Island (44),No,10071
+chlamydia,Chlamydia,2019,South Carolina (45),Yes,1670
+chlamydia,Chlamydia,2019,South Carolina (45),No,55355
+chlamydia,Chlamydia,2019,South Carolina (45),Unknown or Not Stated,13
+chlamydia,Chlamydia,2019,South Dakota (46),Yes,280
+chlamydia,Chlamydia,2019,South Dakota (46),No,11164
+chlamydia,Chlamydia,2019,Tennessee (47),Yes,2129
+chlamydia,Chlamydia,2019,Tennessee (47),No,78310
+chlamydia,Chlamydia,2019,Tennessee (47),Unknown or Not Stated,11
+chlamydia,Chlamydia,2019,Texas (48),Yes,8248
+chlamydia,Chlamydia,2019,Texas (48),No,368508
+chlamydia,Chlamydia,2019,Texas (48),Unknown or Not Stated,843
+chlamydia,Chlamydia,2019,Utah (49),Yes,399
+chlamydia,Chlamydia,2019,Utah (49),No,46426
+chlamydia,Chlamydia,2019,Vermont (50),Yes,52
+chlamydia,Chlamydia,2019,Vermont (50),No,5308
+chlamydia,Chlamydia,2019,Virginia (51),Yes,1728
+chlamydia,Chlamydia,2019,Virginia (51),No,95682
+chlamydia,Chlamydia,2019,Virginia (51),Unknown or Not Stated,19
+chlamydia,Chlamydia,2019,Washington (53),Yes,1211
+chlamydia,Chlamydia,2019,Washington (53),No,83653
+chlamydia,Chlamydia,2019,Washington (53),Unknown or Not Stated,31
+chlamydia,Chlamydia,2019,West Virginia (54),Yes,300
+chlamydia,Chlamydia,2019,West Virginia (54),No,17250
+chlamydia,Chlamydia,2019,West Virginia (54),Unknown or Not Stated,586
+chlamydia,Chlamydia,2019,Wisconsin (55),Yes,1273
+chlamydia,Chlamydia,2019,Wisconsin (55),No,61194
+chlamydia,Chlamydia,2019,Wisconsin (55),Unknown or Not Stated,803
+chlamydia,Chlamydia,2019,Wyoming (56),Yes,77
+chlamydia,Chlamydia,2019,Wyoming (56),No,6488
+chlamydia,Chlamydia,2020,Alabama (01),Yes,1381
+chlamydia,Chlamydia,2020,Alabama (01),No,56261
+chlamydia,Chlamydia,2020,Alaska (02),Yes,210
+chlamydia,Chlamydia,2020,Alaska (02),No,9172
+chlamydia,Chlamydia,2020,Alaska (02),Unknown or Not Stated,87
+chlamydia,Chlamydia,2020,Arizona (04),Yes,1999
+chlamydia,Chlamydia,2020,Arizona (04),No,74944
+chlamydia,Chlamydia,2020,Arkansas (05),Yes,1197
+chlamydia,Chlamydia,2020,Arkansas (05),No,34052
+chlamydia,Chlamydia,2020,California (06),Yes,3612
+chlamydia,Chlamydia,2020,California (06),No,415231
+chlamydia,Chlamydia,2020,California (06),Unknown or Not Stated,1416
+chlamydia,Chlamydia,2020,Colorado (08),Yes,1080
+chlamydia,Chlamydia,2020,Colorado (08),No,60403
+chlamydia,Chlamydia,2020,Colorado (08),Unknown or Not Stated,11
+chlamydia,Chlamydia,2020,Connecticut (09),Yes,342
+chlamydia,Chlamydia,2020,Connecticut (09),No,33028
+chlamydia,Chlamydia,2020,Connecticut (09),Unknown or Not Stated,90
+chlamydia,Chlamydia,2020,Delaware (10),Yes,204
+chlamydia,Chlamydia,2020,Delaware (10),No,10069
+chlamydia,Chlamydia,2020,Delaware (10),Unknown or Not Stated,119
+chlamydia,Chlamydia,2020,District of Columbia (11),Yes,189
+chlamydia,Chlamydia,2020,District of Columbia (11),No,8680
+chlamydia,Chlamydia,2020,Florida (12),Yes,3743
+chlamydia,Chlamydia,2020,Florida (12),No,205106
+chlamydia,Chlamydia,2020,Florida (12),Unknown or Not Stated,822
+chlamydia,Chlamydia,2020,Georgia (13),Yes,3096
+chlamydia,Chlamydia,2020,Georgia (13),No,119078
+chlamydia,Chlamydia,2020,Georgia (13),Unknown or Not Stated,299
+chlamydia,Chlamydia,2020,Hawaii (15),Yes,129
+chlamydia,Chlamydia,2020,Hawaii (15),No,15655
+chlamydia,Chlamydia,2020,Idaho (16),Yes,265
+chlamydia,Chlamydia,2020,Idaho (16),No,21233
+chlamydia,Chlamydia,2020,Idaho (16),Unknown or Not Stated,35
+chlamydia,Chlamydia,2020,Illinois (17),Yes,2680
+chlamydia,Chlamydia,2020,Illinois (17),No,130395
+chlamydia,Chlamydia,2020,Illinois (17),Unknown or Not Stated,223
+chlamydia,Chlamydia,2020,Indiana (18),Yes,1836
+chlamydia,Chlamydia,2020,Indiana (18),No,76730
+chlamydia,Chlamydia,2020,Indiana (18),Unknown or Not Stated,50
+chlamydia,Chlamydia,2020,Iowa (19),Yes,786
+chlamydia,Chlamydia,2020,Iowa (19),No,35325
+chlamydia,Chlamydia,2020,Kansas (20),Yes,623
+chlamydia,Chlamydia,2020,Kansas (20),No,33751
+chlamydia,Chlamydia,2020,Kentucky (21),Yes,1187
+chlamydia,Chlamydia,2020,Kentucky (21),No,49833
+chlamydia,Chlamydia,2020,Kentucky (21),Unknown or Not Stated,648
+chlamydia,Chlamydia,2020,Louisiana (22),Yes,2038
+chlamydia,Chlamydia,2020,Louisiana (22),No,55288
+chlamydia,Chlamydia,2020,Maine (23),Yes,171
+chlamydia,Chlamydia,2020,Maine (23),No,11205
+chlamydia,Chlamydia,2020,Maine (23),Unknown or Not Stated,163
+chlamydia,Chlamydia,2020,Maryland (24),Yes,1202
+chlamydia,Chlamydia,2020,Maryland (24),No,67325
+chlamydia,Chlamydia,2020,Maryland (24),Unknown or Not Stated,27
+chlamydia,Chlamydia,2020,Massachusetts (25),Yes,1004
+chlamydia,Chlamydia,2020,Massachusetts (25),No,65189
+chlamydia,Chlamydia,2020,Massachusetts (25),Unknown or Not Stated,235
+chlamydia,Chlamydia,2020,Michigan (26),Yes,1460
+chlamydia,Chlamydia,2020,Michigan (26),No,101236
+chlamydia,Chlamydia,2020,Michigan (26),Unknown or Not Stated,1378
+chlamydia,Chlamydia,2020,Minnesota (27),Yes,751
+chlamydia,Chlamydia,2020,Minnesota (27),No,62514
+chlamydia,Chlamydia,2020,Minnesota (27),Unknown or Not Stated,178
+chlamydia,Chlamydia,2020,Mississippi (28),Yes,1365
+chlamydia,Chlamydia,2020,Mississippi (28),No,34100
+chlamydia,Chlamydia,2020,Missouri (29),Yes,1628
+chlamydia,Chlamydia,2020,Missouri (29),No,67653
+chlamydia,Chlamydia,2020,Montana (30),Yes,172
+chlamydia,Chlamydia,2020,Montana (30),No,10618
+chlamydia,Chlamydia,2020,Nebraska (31),Yes,463
+chlamydia,Chlamydia,2020,Nebraska (31),No,23734
+chlamydia,Chlamydia,2020,Nebraska (31),Unknown or Not Stated,94
+chlamydia,Chlamydia,2020,Nevada (32),Yes,409
+chlamydia,Chlamydia,2020,Nevada (32),No,33243
+chlamydia,Chlamydia,2020,New Hampshire (33),Yes,98
+chlamydia,Chlamydia,2020,New Hampshire (33),No,11660
+chlamydia,Chlamydia,2020,New Hampshire (33),Unknown or Not Stated,33
+chlamydia,Chlamydia,2020,New Jersey (34),Yes,1594
+chlamydia,Chlamydia,2020,New Jersey (34),No,96350
+chlamydia,Chlamydia,2020,New Jersey (34),Unknown or Not Stated,10
+chlamydia,Chlamydia,2020,New Mexico (35),Yes,393
+chlamydia,Chlamydia,2020,New Mexico (35),No,21357
+chlamydia,Chlamydia,2020,New Mexico (35),Unknown or Not Stated,153
+chlamydia,Chlamydia,2020,New York (36),Yes,2672
+chlamydia,Chlamydia,2020,New York (36),No,205478
+chlamydia,Chlamydia,2020,New York (36),Unknown or Not Stated,1188
+chlamydia,Chlamydia,2020,North Carolina (37),Yes,2669
+chlamydia,Chlamydia,2020,North Carolina (37),No,112595
+chlamydia,Chlamydia,2020,North Carolina (37),Unknown or Not Stated,1466
+chlamydia,Chlamydia,2020,North Dakota (38),Yes,130
+chlamydia,Chlamydia,2020,North Dakota (38),No,9929
+chlamydia,Chlamydia,2020,Ohio (39),Yes,3750
+chlamydia,Chlamydia,2020,Ohio (39),No,125417
+chlamydia,Chlamydia,2020,Ohio (39),Unknown or Not Stated,24
+chlamydia,Chlamydia,2020,Oklahoma (40),Yes,1047
+chlamydia,Chlamydia,2020,Oklahoma (40),No,46574
+chlamydia,Chlamydia,2020,Oregon (41),Yes,551
+chlamydia,Chlamydia,2020,Oregon (41),No,39266
+chlamydia,Chlamydia,2020,Pennsylvania (42),Yes,2503
+chlamydia,Chlamydia,2020,Pennsylvania (42),No,128122
+chlamydia,Chlamydia,2020,Pennsylvania (42),Unknown or Not Stated,68
+chlamydia,Chlamydia,2020,Rhode Island (44),Yes,104
+chlamydia,Chlamydia,2020,Rhode Island (44),No,9990
+chlamydia,Chlamydia,2020,South Carolina (45),Yes,1557
+chlamydia,Chlamydia,2020,South Carolina (45),No,54127
+chlamydia,Chlamydia,2020,South Carolina (45),Unknown or Not Stated,20
+chlamydia,Chlamydia,2020,South Dakota (46),Yes,276
+chlamydia,Chlamydia,2020,South Dakota (46),No,10677
+chlamydia,Chlamydia,2020,Tennessee (47),Yes,2261
+chlamydia,Chlamydia,2020,Tennessee (47),No,76423
+chlamydia,Chlamydia,2020,Texas (48),Yes,7293
+chlamydia,Chlamydia,2020,Texas (48),No,360081
+chlamydia,Chlamydia,2020,Texas (48),Unknown or Not Stated,816
+chlamydia,Chlamydia,2020,Utah (49),Yes,359
+chlamydia,Chlamydia,2020,Utah (49),No,45343
+chlamydia,Chlamydia,2020,Vermont (50),Yes,34
+chlamydia,Chlamydia,2020,Vermont (50),No,5097
+chlamydia,Chlamydia,2020,Virginia (51),Yes,1812
+chlamydia,Chlamydia,2020,Virginia (51),No,92912
+chlamydia,Chlamydia,2020,Virginia (51),Unknown or Not Stated,25
+chlamydia,Chlamydia,2020,Washington (53),Yes,1119
+chlamydia,Chlamydia,2020,Washington (53),No,81436
+chlamydia,Chlamydia,2020,Washington (53),Unknown or Not Stated,531
+chlamydia,Chlamydia,2020,West Virginia (54),Yes,244
+chlamydia,Chlamydia,2020,West Virginia (54),No,16636
+chlamydia,Chlamydia,2020,West Virginia (54),Unknown or Not Stated,443
+chlamydia,Chlamydia,2020,Wisconsin (55),Yes,1228
+chlamydia,Chlamydia,2020,Wisconsin (55),No,58654
+chlamydia,Chlamydia,2020,Wisconsin (55),Unknown or Not Stated,712
+chlamydia,Chlamydia,2020,Wyoming (56),Yes,109
+chlamydia,Chlamydia,2020,Wyoming (56),No,6018
+chlamydia,Chlamydia,2021,Alabama (01),Yes,1585
+chlamydia,Chlamydia,2021,Alabama (01),No,56461
+chlamydia,Chlamydia,2021,Alaska (02),Yes,238
+chlamydia,Chlamydia,2021,Alaska (02),No,9065
+chlamydia,Chlamydia,2021,Alaska (02),Unknown or Not Stated,64
+chlamydia,Chlamydia,2021,Arizona (04),Yes,1981
+chlamydia,Chlamydia,2021,Arizona (04),No,75929
+chlamydia,Chlamydia,2021,Arkansas (05),Yes,1204
+chlamydia,Chlamydia,2021,Arkansas (05),No,34758
+chlamydia,Chlamydia,2021,California (06),Yes,3580
+chlamydia,Chlamydia,2021,California (06),No,415207
+chlamydia,Chlamydia,2021,California (06),Unknown or Not Stated,1821
+chlamydia,Chlamydia,2021,Colorado (08),Yes,1210
+chlamydia,Chlamydia,2021,Colorado (08),No,61734
+chlamydia,Chlamydia,2021,Connecticut (09),Yes,384
+chlamydia,Chlamydia,2021,Connecticut (09),No,35256
+chlamydia,Chlamydia,2021,Connecticut (09),Unknown or Not Stated,30
+chlamydia,Chlamydia,2021,Delaware (10),Yes,180
+chlamydia,Chlamydia,2021,Delaware (10),No,10213
+chlamydia,Chlamydia,2021,Delaware (10),Unknown or Not Stated,89
+chlamydia,Chlamydia,2021,District of Columbia (11),Yes,126
+chlamydia,Chlamydia,2021,District of Columbia (11),No,8428
+chlamydia,Chlamydia,2021,District of Columbia (11),Unknown or Not Stated,106
+chlamydia,Chlamydia,2021,Florida (12),Yes,4146
+chlamydia,Chlamydia,2021,Florida (12),No,210836
+chlamydia,Chlamydia,2021,Florida (12),Unknown or Not Stated,1278
+chlamydia,Chlamydia,2021,Georgia (13),Yes,3136
+chlamydia,Chlamydia,2021,Georgia (13),No,120626
+chlamydia,Chlamydia,2021,Georgia (13),Unknown or Not Stated,311
+chlamydia,Chlamydia,2021,Hawaii (15),Yes,137
+chlamydia,Chlamydia,2021,Hawaii (15),No,15483
+chlamydia,Chlamydia,2021,Idaho (16),Yes,243
+chlamydia,Chlamydia,2021,Idaho (16),No,22111
+chlamydia,Chlamydia,2021,Idaho (16),Unknown or Not Stated,73
+chlamydia,Chlamydia,2021,Illinois (17),Yes,2448
+chlamydia,Chlamydia,2021,Illinois (17),No,129590
+chlamydia,Chlamydia,2021,Illinois (17),Unknown or Not Stated,151
+chlamydia,Chlamydia,2021,Indiana (18),Yes,1786
+chlamydia,Chlamydia,2021,Indiana (18),No,75744
+chlamydia,Chlamydia,2021,Indiana (18),Unknown or Not Stated,2416
+chlamydia,Chlamydia,2021,Iowa (19),Yes,799
+chlamydia,Chlamydia,2021,Iowa (19),No,36023
+chlamydia,Chlamydia,2021,Iowa (19),Unknown or Not Stated,13
+chlamydia,Chlamydia,2021,Kansas (20),Yes,580
+chlamydia,Chlamydia,2021,Kansas (20),No,34122
+chlamydia,Chlamydia,2021,Kentucky (21),Yes,1201
+chlamydia,Chlamydia,2021,Kentucky (21),No,50715
+chlamydia,Chlamydia,2021,Kentucky (21),Unknown or Not Stated,298
+chlamydia,Chlamydia,2021,Louisiana (22),Yes,2074
+chlamydia,Chlamydia,2021,Louisiana (22),No,55356
+chlamydia,Chlamydia,2021,Maine (23),Yes,174
+chlamydia,Chlamydia,2021,Maine (23),No,11785
+chlamydia,Chlamydia,2021,Maine (23),Unknown or Not Stated,47
+chlamydia,Chlamydia,2021,Maryland (24),Yes,1070
+chlamydia,Chlamydia,2021,Maryland (24),No,67196
+chlamydia,Chlamydia,2021,Maryland (24),Unknown or Not Stated,19
+chlamydia,Chlamydia,2021,Massachusetts (25),Yes,1028
+chlamydia,Chlamydia,2021,Massachusetts (25),No,67428
+chlamydia,Chlamydia,2021,Massachusetts (25),Unknown or Not Stated,681
+chlamydia,Chlamydia,2021,Michigan (26),Yes,1376
+chlamydia,Chlamydia,2021,Michigan (26),No,102363
+chlamydia,Chlamydia,2021,Michigan (26),Unknown or Not Stated,1241
+chlamydia,Chlamydia,2021,Minnesota (27),Yes,803
+chlamydia,Chlamydia,2021,Minnesota (27),No,63449
+chlamydia,Chlamydia,2021,Minnesota (27),Unknown or Not Stated,173
+chlamydia,Chlamydia,2021,Mississippi (28),Yes,1459
+chlamydia,Chlamydia,2021,Mississippi (28),No,33687
+chlamydia,Chlamydia,2021,Mississippi (28),Unknown or Not Stated,10
+chlamydia,Chlamydia,2021,Missouri (29),Yes,1542
+chlamydia,Chlamydia,2021,Missouri (29),No,67910
+chlamydia,Chlamydia,2021,Montana (30),Yes,169
+chlamydia,Chlamydia,2021,Montana (30),No,11061
+chlamydia,Chlamydia,2021,Nebraska (31),Yes,492
+chlamydia,Chlamydia,2021,Nebraska (31),No,24053
+chlamydia,Chlamydia,2021,Nebraska (31),Unknown or Not Stated,64
+chlamydia,Chlamydia,2021,Nevada (32),Yes,347
+chlamydia,Chlamydia,2021,Nevada (32),No,33336
+chlamydia,Chlamydia,2021,New Hampshire (33),Yes,107
+chlamydia,Chlamydia,2021,New Hampshire (33),No,12485
+chlamydia,Chlamydia,2021,New Hampshire (33),Unknown or Not Stated,33
+chlamydia,Chlamydia,2021,New Jersey (34),Yes,1482
+chlamydia,Chlamydia,2021,New Jersey (34),No,99574
+chlamydia,Chlamydia,2021,New Jersey (34),Unknown or Not Stated,441
+chlamydia,Chlamydia,2021,New Mexico (35),Yes,362
+chlamydia,Chlamydia,2021,New Mexico (35),No,20914
+chlamydia,Chlamydia,2021,New Mexico (35),Unknown or Not Stated,115
+chlamydia,Chlamydia,2021,New York (36),Yes,2735
+chlamydia,Chlamydia,2021,New York (36),No,206608
+chlamydia,Chlamydia,2021,New York (36),Unknown or Not Stated,1399
+chlamydia,Chlamydia,2021,North Carolina (37),Yes,2654
+chlamydia,Chlamydia,2021,North Carolina (37),No,117105
+chlamydia,Chlamydia,2021,North Carolina (37),Unknown or Not Stated,707
+chlamydia,Chlamydia,2021,North Dakota (38),Yes,161
+chlamydia,Chlamydia,2021,North Dakota (38),No,9951
+chlamydia,Chlamydia,2021,Ohio (39),Yes,3600
+chlamydia,Chlamydia,2021,Ohio (39),No,126097
+chlamydia,Chlamydia,2021,Ohio (39),Unknown or Not Stated,94
+chlamydia,Chlamydia,2021,Oklahoma (40),Yes,1073
+chlamydia,Chlamydia,2021,Oklahoma (40),No,47326
+chlamydia,Chlamydia,2021,Oklahoma (40),Unknown or Not Stated,11
+chlamydia,Chlamydia,2021,Oregon (41),Yes,620
+chlamydia,Chlamydia,2021,Oregon (41),No,40294
+chlamydia,Chlamydia,2021,Pennsylvania (42),Yes,2278
+chlamydia,Chlamydia,2021,Pennsylvania (42),No,129952
+chlamydia,Chlamydia,2021,Pennsylvania (42),Unknown or Not Stated,392
+chlamydia,Chlamydia,2021,Rhode Island (44),Yes,94
+chlamydia,Chlamydia,2021,Rhode Island (44),No,10367
+chlamydia,Chlamydia,2021,South Carolina (45),Yes,1550
+chlamydia,Chlamydia,2021,South Carolina (45),No,55514
+chlamydia,Chlamydia,2021,South Carolina (45),Unknown or Not Stated,121
+chlamydia,Chlamydia,2021,South Dakota (46),Yes,333
+chlamydia,Chlamydia,2021,South Dakota (46),No,11032
+chlamydia,Chlamydia,2021,Tennessee (47),Yes,2399
+chlamydia,Chlamydia,2021,Tennessee (47),No,79307
+chlamydia,Chlamydia,2021,Tennessee (47),Unknown or Not Stated,11
+chlamydia,Chlamydia,2021,Texas (48),Yes,6962
+chlamydia,Chlamydia,2021,Texas (48),No,365803
+chlamydia,Chlamydia,2021,Texas (48),Unknown or Not Stated,829
+chlamydia,Chlamydia,2021,Utah (49),Yes,303
+chlamydia,Chlamydia,2021,Utah (49),No,46409
+chlamydia,Chlamydia,2021,Vermont (50),Yes,40
+chlamydia,Chlamydia,2021,Vermont (50),No,5343
+chlamydia,Chlamydia,2021,Virginia (51),Yes,1751
+chlamydia,Chlamydia,2021,Virginia (51),No,94052
+chlamydia,Chlamydia,2021,Virginia (51),Unknown or Not Stated,22
+chlamydia,Chlamydia,2021,Washington (53),Yes,1138
+chlamydia,Chlamydia,2021,Washington (53),No,81808
+chlamydia,Chlamydia,2021,Washington (53),Unknown or Not Stated,965
+chlamydia,Chlamydia,2021,West Virginia (54),Yes,267
+chlamydia,Chlamydia,2021,West Virginia (54),No,16653
+chlamydia,Chlamydia,2021,West Virginia (54),Unknown or Not Stated,278
+chlamydia,Chlamydia,2021,Wisconsin (55),Yes,1206
+chlamydia,Chlamydia,2021,Wisconsin (55),No,60079
+chlamydia,Chlamydia,2021,Wisconsin (55),Unknown or Not Stated,496
+chlamydia,Chlamydia,2021,Wyoming (56),Yes,103
+chlamydia,Chlamydia,2021,Wyoming (56),No,6132
+chlamydia,Chlamydia,2022,Alabama (01),Yes,1393
+chlamydia,Chlamydia,2022,Alabama (01),No,56753
+chlamydia,Chlamydia,2022,Alaska (02),Yes,264
+chlamydia,Chlamydia,2022,Alaska (02),No,9029
+chlamydia,Chlamydia,2022,Alaska (02),Unknown or Not Stated,66
+chlamydia,Chlamydia,2022,Arizona (04),Yes,1845
+chlamydia,Chlamydia,2022,Arizona (04),No,76698
+chlamydia,Chlamydia,2022,Arkansas (05),Yes,1081
+chlamydia,Chlamydia,2022,Arkansas (05),No,34386
+chlamydia,Chlamydia,2022,California (06),Yes,3531
+chlamydia,Chlamydia,2022,California (06),No,413722
+chlamydia,Chlamydia,2022,California (06),Unknown or Not Stated,1851
+chlamydia,Chlamydia,2022,Colorado (08),Yes,1101
+chlamydia,Chlamydia,2022,Colorado (08),No,61269
+chlamydia,Chlamydia,2022,Colorado (08),Unknown or Not Stated,13
+chlamydia,Chlamydia,2022,Connecticut (09),Yes,361
+chlamydia,Chlamydia,2022,Connecticut (09),No,34934
+chlamydia,Chlamydia,2022,Connecticut (09),Unknown or Not Stated,37
+chlamydia,Chlamydia,2022,Delaware (10),Yes,183
+chlamydia,Chlamydia,2022,Delaware (10),No,10546
+chlamydia,Chlamydia,2022,Delaware (10),Unknown or Not Stated,87
+chlamydia,Chlamydia,2022,District of Columbia (11),Yes,80
+chlamydia,Chlamydia,2022,District of Columbia (11),No,7982
+chlamydia,Chlamydia,2022,District of Columbia (11),Unknown or Not Stated,13
+chlamydia,Chlamydia,2022,Florida (12),Yes,3769
+chlamydia,Chlamydia,2022,Florida (12),No,219231
+chlamydia,Chlamydia,2022,Florida (12),Unknown or Not Stated,1433
+chlamydia,Chlamydia,2022,Georgia (13),Yes,2800
+chlamydia,Chlamydia,2022,Georgia (13),No,122988
+chlamydia,Chlamydia,2022,Georgia (13),Unknown or Not Stated,342
+chlamydia,Chlamydia,2022,Hawaii (15),Yes,180
+chlamydia,Chlamydia,2022,Hawaii (15),No,15355
+chlamydia,Chlamydia,2022,Idaho (16),Yes,246
+chlamydia,Chlamydia,2022,Idaho (16),No,22062
+chlamydia,Chlamydia,2022,Idaho (16),Unknown or Not Stated,83
+chlamydia,Chlamydia,2022,Illinois (17),Yes,2270
+chlamydia,Chlamydia,2022,Illinois (17),No,125905
+chlamydia,Chlamydia,2022,Illinois (17),Unknown or Not Stated,175
+chlamydia,Chlamydia,2022,Indiana (18),Yes,1674
+chlamydia,Chlamydia,2022,Indiana (18),No,76136
+chlamydia,Chlamydia,2022,Indiana (18),Unknown or Not Stated,1839
+chlamydia,Chlamydia,2022,Iowa (19),Yes,715
+chlamydia,Chlamydia,2022,Iowa (19),No,35777
+chlamydia,Chlamydia,2022,Iowa (19),Unknown or Not Stated,14
+chlamydia,Chlamydia,2022,Kansas (20),Yes,579
+chlamydia,Chlamydia,2022,Kansas (20),No,33822
+chlamydia,Chlamydia,2022,Kentucky (21),Yes,1022
+chlamydia,Chlamydia,2022,Kentucky (21),No,50782
+chlamydia,Chlamydia,2022,Kentucky (21),Unknown or Not Stated,511
+chlamydia,Chlamydia,2022,Louisiana (22),Yes,1872
+chlamydia,Chlamydia,2022,Louisiana (22),No,54607
+chlamydia,Chlamydia,2022,Maine (23),Yes,181
+chlamydia,Chlamydia,2022,Maine (23),No,11865
+chlamydia,Chlamydia,2022,Maine (23),Unknown or Not Stated,47
+chlamydia,Chlamydia,2022,Maryland (24),Yes,1169
+chlamydia,Chlamydia,2022,Maryland (24),No,67589
+chlamydia,Chlamydia,2022,Maryland (24),Unknown or Not Stated,24
+chlamydia,Chlamydia,2022,Massachusetts (25),Yes,966
+chlamydia,Chlamydia,2022,Massachusetts (25),No,67446
+chlamydia,Chlamydia,2022,Massachusetts (25),Unknown or Not Stated,172
+chlamydia,Chlamydia,2022,Michigan (26),Yes,1291
+chlamydia,Chlamydia,2022,Michigan (26),No,99577
+chlamydia,Chlamydia,2022,Michigan (26),Unknown or Not Stated,1453
+chlamydia,Chlamydia,2022,Minnesota (27),Yes,809
+chlamydia,Chlamydia,2022,Minnesota (27),No,63108
+chlamydia,Chlamydia,2022,Minnesota (27),Unknown or Not Stated,98
+chlamydia,Chlamydia,2022,Mississippi (28),Yes,1278
+chlamydia,Chlamydia,2022,Mississippi (28),No,33384
+chlamydia,Chlamydia,2022,Mississippi (28),Unknown or Not Stated,13
+chlamydia,Chlamydia,2022,Missouri (29),Yes,1432
+chlamydia,Chlamydia,2022,Missouri (29),No,67551
+chlamydia,Chlamydia,2022,Montana (30),Yes,165
+chlamydia,Chlamydia,2022,Montana (30),No,11007
+chlamydia,Chlamydia,2022,Nebraska (31),Yes,507
+chlamydia,Chlamydia,2022,Nebraska (31),No,23780
+chlamydia,Chlamydia,2022,Nebraska (31),Unknown or Not Stated,58
+chlamydia,Chlamydia,2022,Nevada (32),Yes,359
+chlamydia,Chlamydia,2022,Nevada (32),No,32831
+chlamydia,Chlamydia,2022,New Hampshire (33),Yes,90
+chlamydia,Chlamydia,2022,New Hampshire (33),No,11955
+chlamydia,Chlamydia,2022,New Hampshire (33),Unknown or Not Stated,32
+chlamydia,Chlamydia,2022,New Jersey (34),Yes,1459
+chlamydia,Chlamydia,2022,New Jersey (34),No,100460
+chlamydia,Chlamydia,2022,New Jersey (34),Unknown or Not Stated,974
+chlamydia,Chlamydia,2022,New Mexico (35),Yes,413
+chlamydia,Chlamydia,2022,New Mexico (35),No,21075
+chlamydia,Chlamydia,2022,New Mexico (35),Unknown or Not Stated,126
+chlamydia,Chlamydia,2022,New York (36),Yes,2422
+chlamydia,Chlamydia,2022,New York (36),No,204205
+chlamydia,Chlamydia,2022,New York (36),Unknown or Not Stated,1147
+chlamydia,Chlamydia,2022,North Carolina (37),Yes,2495
+chlamydia,Chlamydia,2022,North Carolina (37),No,116890
+chlamydia,Chlamydia,2022,North Carolina (37),Unknown or Not Stated,2177
+chlamydia,Chlamydia,2022,North Dakota (38),Yes,140
+chlamydia,Chlamydia,2022,North Dakota (38),No,9427
+chlamydia,Chlamydia,2022,Ohio (39),Yes,3383
+chlamydia,Chlamydia,2022,Ohio (39),No,124740
+chlamydia,Chlamydia,2022,Ohio (39),Unknown or Not Stated,108
+chlamydia,Chlamydia,2022,Oklahoma (40),Yes,986
+chlamydia,Chlamydia,2022,Oklahoma (40),No,47335
+chlamydia,Chlamydia,2022,Oklahoma (40),Unknown or Not Stated,11
+chlamydia,Chlamydia,2022,Oregon (41),Yes,583
+chlamydia,Chlamydia,2022,Oregon (41),No,38904
+chlamydia,Chlamydia,2022,Pennsylvania (42),Yes,2122
+chlamydia,Chlamydia,2022,Pennsylvania (42),No,126289
+chlamydia,Chlamydia,2022,Pennsylvania (42),Unknown or Not Stated,1841
+chlamydia,Chlamydia,2022,Rhode Island (44),Yes,105
+chlamydia,Chlamydia,2022,Rhode Island (44),No,10061
+chlamydia,Chlamydia,2022,Rhode Island (44),Unknown or Not Stated,103
+chlamydia,Chlamydia,2022,South Carolina (45),Yes,1549
+chlamydia,Chlamydia,2022,South Carolina (45),No,56009
+chlamydia,Chlamydia,2022,South Carolina (45),Unknown or Not Stated,262
+chlamydia,Chlamydia,2022,South Dakota (46),Yes,326
+chlamydia,Chlamydia,2022,South Dakota (46),No,10862
+chlamydia,Chlamydia,2022,South Dakota (46),Unknown or Not Stated,13
+chlamydia,Chlamydia,2022,Tennessee (47),Yes,2011
+chlamydia,Chlamydia,2022,Tennessee (47),No,80248
+chlamydia,Chlamydia,2022,Texas (48),Yes,6998
+chlamydia,Chlamydia,2022,Texas (48),No,380530
+chlamydia,Chlamydia,2022,Texas (48),Unknown or Not Stated,2213
+chlamydia,Chlamydia,2022,Utah (49),Yes,373
+chlamydia,Chlamydia,2022,Utah (49),No,45395
+chlamydia,Chlamydia,2022,Vermont (50),Yes,37
+chlamydia,Chlamydia,2022,Vermont (50),No,5279
+chlamydia,Chlamydia,2022,Virginia (51),Yes,1689
+chlamydia,Chlamydia,2022,Virginia (51),No,93909
+chlamydia,Chlamydia,2022,Virginia (51),Unknown or Not Stated,32
+chlamydia,Chlamydia,2022,Washington (53),Yes,1155
+chlamydia,Chlamydia,2022,Washington (53),No,81717
+chlamydia,Chlamydia,2022,Washington (53),Unknown or Not Stated,461
+chlamydia,Chlamydia,2022,West Virginia (54),Yes,220
+chlamydia,Chlamydia,2022,West Virginia (54),No,16570
+chlamydia,Chlamydia,2022,West Virginia (54),Unknown or Not Stated,139
+chlamydia,Chlamydia,2022,Wisconsin (55),Yes,967
+chlamydia,Chlamydia,2022,Wisconsin (55),No,58843
+chlamydia,Chlamydia,2022,Wisconsin (55),Unknown or Not Stated,239
+chlamydia,Chlamydia,2022,Wyoming (56),Yes,85
+chlamydia,Chlamydia,2022,Wyoming (56),No,5961
+chlamydia,Chlamydia,2023,Alabama (01),Yes,1454
+chlamydia,Chlamydia,2023,Alabama (01),No,56398
+chlamydia,Chlamydia,2023,Alaska (02),Yes,261
+chlamydia,Chlamydia,2023,Alaska (02),No,8664
+chlamydia,Chlamydia,2023,Alaska (02),Unknown or Not Stated,90
+chlamydia,Chlamydia,2023,Arizona (04),Yes,1878
+chlamydia,Chlamydia,2023,Arizona (04),No,76210
+chlamydia,Chlamydia,2023,Arkansas (05),Yes,1191
+chlamydia,Chlamydia,2023,Arkansas (05),No,34070
+chlamydia,Chlamydia,2023,California (06),Yes,3357
+chlamydia,Chlamydia,2023,California (06),No,394881
+chlamydia,Chlamydia,2023,California (06),Unknown or Not Stated,1870
+chlamydia,Chlamydia,2023,Colorado (08),Yes,1134
+chlamydia,Chlamydia,2023,Colorado (08),No,59803
+chlamydia,Chlamydia,2023,Colorado (08),Unknown or Not Stated,557
+chlamydia,Chlamydia,2023,Connecticut (09),Yes,347
+chlamydia,Chlamydia,2023,Connecticut (09),No,34184
+chlamydia,Chlamydia,2023,Connecticut (09),Unknown or Not Stated,28
+chlamydia,Chlamydia,2023,Delaware (10),Yes,181
+chlamydia,Chlamydia,2023,Delaware (10),No,10144
+chlamydia,Chlamydia,2023,Delaware (10),Unknown or Not Stated,102
+chlamydia,Chlamydia,2023,District of Columbia (11),Yes,94
+chlamydia,Chlamydia,2023,District of Columbia (11),No,7799
+chlamydia,Chlamydia,2023,Florida (12),Yes,3835
+chlamydia,Chlamydia,2023,Florida (12),No,215289
+chlamydia,Chlamydia,2023,Florida (12),Unknown or Not Stated,2286
+chlamydia,Chlamydia,2023,Georgia (13),Yes,2735
+chlamydia,Chlamydia,2023,Georgia (13),No,122075
+chlamydia,Chlamydia,2023,Georgia (13),Unknown or Not Stated,310
+chlamydia,Chlamydia,2023,Hawaii (15),Yes,188
+chlamydia,Chlamydia,2023,Hawaii (15),No,14620
+chlamydia,Chlamydia,2023,Idaho (16),Yes,216
+chlamydia,Chlamydia,2023,Idaho (16),No,22104
+chlamydia,Chlamydia,2023,Idaho (16),Unknown or Not Stated,77
+chlamydia,Chlamydia,2023,Illinois (17),Yes,2153
+chlamydia,Chlamydia,2023,Illinois (17),No,122514
+chlamydia,Chlamydia,2023,Illinois (17),Unknown or Not Stated,153
+chlamydia,Chlamydia,2023,Indiana (18),Yes,1571
+chlamydia,Chlamydia,2023,Indiana (18),No,76055
+chlamydia,Chlamydia,2023,Indiana (18),Unknown or Not Stated,1374
+chlamydia,Chlamydia,2023,Iowa (19),Yes,701
+chlamydia,Chlamydia,2023,Iowa (19),No,35338
+chlamydia,Chlamydia,2023,Iowa (19),Unknown or Not Stated,13
+chlamydia,Chlamydia,2023,Kansas (20),Yes,638
+chlamydia,Chlamydia,2023,Kansas (20),No,33427
+chlamydia,Chlamydia,2023,Kentucky (21),Yes,955
+chlamydia,Chlamydia,2023,Kentucky (21),No,50569
+chlamydia,Chlamydia,2023,Kentucky (21),Unknown or Not Stated,460
+chlamydia,Chlamydia,2023,Louisiana (22),Yes,1840
+chlamydia,Chlamydia,2023,Louisiana (22),No,53084
+chlamydia,Chlamydia,2023,Maine (23),Yes,153
+chlamydia,Chlamydia,2023,Maine (23),No,11429
+chlamydia,Chlamydia,2023,Maine (23),Unknown or Not Stated,45
+chlamydia,Chlamydia,2023,Maryland (24),Yes,1249
+chlamydia,Chlamydia,2023,Maryland (24),No,64290
+chlamydia,Chlamydia,2023,Maryland (24),Unknown or Not Stated,55
+chlamydia,Chlamydia,2023,Massachusetts (25),Yes,1017
+chlamydia,Chlamydia,2023,Massachusetts (25),No,65858
+chlamydia,Chlamydia,2023,Massachusetts (25),Unknown or Not Stated,218
+chlamydia,Chlamydia,2023,Michigan (26),Yes,1183
+chlamydia,Chlamydia,2023,Michigan (26),No,96562
+chlamydia,Chlamydia,2023,Michigan (26),Unknown or Not Stated,1379
+chlamydia,Chlamydia,2023,Minnesota (27),Yes,821
+chlamydia,Chlamydia,2023,Minnesota (27),No,60790
+chlamydia,Chlamydia,2023,Minnesota (27),Unknown or Not Stated,104
+chlamydia,Chlamydia,2023,Mississippi (28),Yes,1384
+chlamydia,Chlamydia,2023,Mississippi (28),No,33073
+chlamydia,Chlamydia,2023,Missouri (29),Yes,1402
+chlamydia,Chlamydia,2023,Missouri (29),No,65715
+chlamydia,Chlamydia,2023,Montana (30),Yes,146
+chlamydia,Chlamydia,2023,Montana (30),No,10927
+chlamydia,Chlamydia,2023,Nebraska (31),Yes,547
+chlamydia,Chlamydia,2023,Nebraska (31),No,23520
+chlamydia,Chlamydia,2023,Nebraska (31),Unknown or Not Stated,44
+chlamydia,Chlamydia,2023,Nevada (32),Yes,437
+chlamydia,Chlamydia,2023,Nevada (32),No,31354
+chlamydia,Chlamydia,2023,New Hampshire (33),Yes,96
+chlamydia,Chlamydia,2023,New Hampshire (33),No,11799
+chlamydia,Chlamydia,2023,New Hampshire (33),Unknown or Not Stated,41
+chlamydia,Chlamydia,2023,New Jersey (34),Yes,1356
+chlamydia,Chlamydia,2023,New Jersey (34),No,99056
+chlamydia,Chlamydia,2023,New Jersey (34),Unknown or Not Stated,589
+chlamydia,Chlamydia,2023,New Mexico (35),Yes,440
+chlamydia,Chlamydia,2023,New Mexico (35),No,20442
+chlamydia,Chlamydia,2023,New Mexico (35),Unknown or Not Stated,69
+chlamydia,Chlamydia,2023,New York (36),Yes,2393
+chlamydia,Chlamydia,2023,New York (36),No,200245
+chlamydia,Chlamydia,2023,New York (36),Unknown or Not Stated,974
+chlamydia,Chlamydia,2023,North Carolina (37),Yes,2527
+chlamydia,Chlamydia,2023,North Carolina (37),No,115478
+chlamydia,Chlamydia,2023,North Carolina (37),Unknown or Not Stated,2077
+chlamydia,Chlamydia,2023,North Dakota (38),Yes,125
+chlamydia,Chlamydia,2023,North Dakota (38),No,9521
+chlamydia,Chlamydia,2023,Ohio (39),Yes,3339
+chlamydia,Chlamydia,2023,Ohio (39),No,123490
+chlamydia,Chlamydia,2023,Ohio (39),Unknown or Not Stated,67
+chlamydia,Chlamydia,2023,Oklahoma (40),Yes,968
+chlamydia,Chlamydia,2023,Oklahoma (40),No,46927
+chlamydia,Chlamydia,2023,Oklahoma (40),Unknown or Not Stated,14
+chlamydia,Chlamydia,2023,Oregon (41),Yes,560
+chlamydia,Chlamydia,2023,Oregon (41),No,37733
+chlamydia,Chlamydia,2023,Pennsylvania (42),Yes,2224
+chlamydia,Chlamydia,2023,Pennsylvania (42),No,123149
+chlamydia,Chlamydia,2023,Pennsylvania (42),Unknown or Not Stated,1578
+chlamydia,Chlamydia,2023,Rhode Island (44),Yes,107
+chlamydia,Chlamydia,2023,Rhode Island (44),No,9627
+chlamydia,Chlamydia,2023,Rhode Island (44),Unknown or Not Stated,71
+chlamydia,Chlamydia,2023,South Carolina (45),Yes,1547
+chlamydia,Chlamydia,2023,South Carolina (45),No,55913
+chlamydia,Chlamydia,2023,South Carolina (45),Unknown or Not Stated,269
+chlamydia,Chlamydia,2023,South Dakota (46),Yes,289
+chlamydia,Chlamydia,2023,South Dakota (46),No,10900
+chlamydia,Chlamydia,2023,South Dakota (46),Unknown or Not Stated,12
+chlamydia,Chlamydia,2023,Tennessee (47),Yes,2133
+chlamydia,Chlamydia,2023,Tennessee (47),No,80879
+chlamydia,Chlamydia,2023,Texas (48),Yes,7004
+chlamydia,Chlamydia,2023,Texas (48),No,378989
+chlamydia,Chlamydia,2023,Texas (48),Unknown or Not Stated,1952
+chlamydia,Chlamydia,2023,Utah (49),Yes,347
+chlamydia,Chlamydia,2023,Utah (49),No,44666
+chlamydia,Chlamydia,2023,Vermont (50),Yes,47
+chlamydia,Chlamydia,2023,Vermont (50),No,5018
+chlamydia,Chlamydia,2023,Virginia (51),Yes,1415
+chlamydia,Chlamydia,2023,Virginia (51),No,91203
+chlamydia,Chlamydia,2023,Virginia (51),Unknown or Not Stated,31
+chlamydia,Chlamydia,2023,Washington (53),Yes,1256
+chlamydia,Chlamydia,2023,Washington (53),No,79443
+chlamydia,Chlamydia,2023,Washington (53),Unknown or Not Stated,233
+chlamydia,Chlamydia,2023,West Virginia (54),Yes,183
+chlamydia,Chlamydia,2023,West Virginia (54),No,16335
+chlamydia,Chlamydia,2023,West Virginia (54),Unknown or Not Stated,88
+chlamydia,Chlamydia,2023,Wisconsin (55),Yes,926
+chlamydia,Chlamydia,2023,Wisconsin (55),No,58572
+chlamydia,Chlamydia,2023,Wisconsin (55),Unknown or Not Stated,256
+chlamydia,Chlamydia,2023,Wyoming (56),Yes,78
+chlamydia,Chlamydia,2023,Wyoming (56),No,5910
+chlamydia,Chlamydia,2024,Alabama (01),Yes,1377
+chlamydia,Chlamydia,2024,Alabama (01),No,56547
+chlamydia,Chlamydia,2024,Alabama (01),Unknown or Not Stated,10
+chlamydia,Chlamydia,2024,Alaska (02),Yes,253
+chlamydia,Chlamydia,2024,Alaska (02),No,8613
+chlamydia,Chlamydia,2024,Alaska (02),Unknown or Not Stated,77
+chlamydia,Chlamydia,2024,Arizona (04),Yes,1827
+chlamydia,Chlamydia,2024,Arizona (04),No,76879
+chlamydia,Chlamydia,2024,Arkansas (05),Yes,1058
+chlamydia,Chlamydia,2024,Arkansas (05),No,34336
+chlamydia,Chlamydia,2024,California (06),Yes,3429
+chlamydia,Chlamydia,2024,California (06),No,397335
+chlamydia,Chlamydia,2024,California (06),Unknown or Not Stated,1311
+chlamydia,Chlamydia,2024,Colorado (08),Yes,1132
+chlamydia,Chlamydia,2024,Colorado (08),No,63097
+chlamydia,Chlamydia,2024,Colorado (08),Unknown or Not Stated,39
+chlamydia,Chlamydia,2024,Connecticut (09),Yes,393
+chlamydia,Chlamydia,2024,Connecticut (09),No,34175
+chlamydia,Chlamydia,2024,Connecticut (09),Unknown or Not Stated,31
+chlamydia,Chlamydia,2024,Delaware (10),Yes,184
+chlamydia,Chlamydia,2024,Delaware (10),No,10234
+chlamydia,Chlamydia,2024,Delaware (10),Unknown or Not Stated,132
+chlamydia,Chlamydia,2024,District of Columbia (11),Yes,90
+chlamydia,Chlamydia,2024,District of Columbia (11),No,7523
+chlamydia,Chlamydia,2024,Florida (12),Yes,3773
+chlamydia,Chlamydia,2024,Florida (12),No,220328
+chlamydia,Chlamydia,2024,Florida (12),Unknown or Not Stated,288
+chlamydia,Chlamydia,2024,Georgia (13),Yes,2327
+chlamydia,Chlamydia,2024,Georgia (13),No,123769
+chlamydia,Chlamydia,2024,Georgia (13),Unknown or Not Stated,341
+chlamydia,Chlamydia,2024,Hawaii (15),Yes,149
+chlamydia,Chlamydia,2024,Hawaii (15),No,14768
+chlamydia,Chlamydia,2024,Idaho (16),Yes,226
+chlamydia,Chlamydia,2024,Idaho (16),No,22971
+chlamydia,Chlamydia,2024,Idaho (16),Unknown or Not Stated,79
+chlamydia,Chlamydia,2024,Illinois (17),Yes,2174
+chlamydia,Chlamydia,2024,Illinois (17),No,123379
+chlamydia,Chlamydia,2024,Illinois (17),Unknown or Not Stated,178
+chlamydia,Chlamydia,2024,Indiana (18),Yes,1401
+chlamydia,Chlamydia,2024,Indiana (18),No,77547
+chlamydia,Chlamydia,2024,Indiana (18),Unknown or Not Stated,1309
+chlamydia,Chlamydia,2024,Iowa (19),Yes,706
+chlamydia,Chlamydia,2024,Iowa (19),No,35723
+chlamydia,Chlamydia,2024,Kansas (20),Yes,720
+chlamydia,Chlamydia,2024,Kansas (20),No,33263
+chlamydia,Chlamydia,2024,Kentucky (21),Yes,1032
+chlamydia,Chlamydia,2024,Kentucky (21),No,51068
+chlamydia,Chlamydia,2024,Kentucky (21),Unknown or Not Stated,813
+chlamydia,Chlamydia,2024,Louisiana (22),Yes,1780
+chlamydia,Chlamydia,2024,Louisiana (22),No,51524
+chlamydia,Chlamydia,2024,Maine (23),Yes,126
+chlamydia,Chlamydia,2024,Maine (23),No,11433
+chlamydia,Chlamydia,2024,Maine (23),Unknown or Not Stated,42
+chlamydia,Chlamydia,2024,Maryland (24),Yes,1145
+chlamydia,Chlamydia,2024,Maryland (24),No,64543
+chlamydia,Chlamydia,2024,Maryland (24),Unknown or Not Stated,109
+chlamydia,Chlamydia,2024,Massachusetts (25),Yes,981
+chlamydia,Chlamydia,2024,Massachusetts (25),No,67016
+chlamydia,Chlamydia,2024,Massachusetts (25),Unknown or Not Stated,187
+chlamydia,Chlamydia,2024,Michigan (26),Yes,1138
+chlamydia,Chlamydia,2024,Michigan (26),No,96865
+chlamydia,Chlamydia,2024,Michigan (26),Unknown or Not Stated,1522
+chlamydia,Chlamydia,2024,Minnesota (27),Yes,795
+chlamydia,Chlamydia,2024,Minnesota (27),No,61215
+chlamydia,Chlamydia,2024,Minnesota (27),Unknown or Not Stated,100
+chlamydia,Chlamydia,2024,Mississippi (28),Yes,1191
+chlamydia,Chlamydia,2024,Mississippi (28),No,32274
+chlamydia,Chlamydia,2024,Missouri (29),Yes,1350
+chlamydia,Chlamydia,2024,Missouri (29),No,66646
+chlamydia,Chlamydia,2024,Montana (30),Yes,142
+chlamydia,Chlamydia,2024,Montana (30),No,11182
+chlamydia,Chlamydia,2024,Nebraska (31),Yes,593
+chlamydia,Chlamydia,2024,Nebraska (31),No,24167
+chlamydia,Chlamydia,2024,Nebraska (31),Unknown or Not Stated,25
+chlamydia,Chlamydia,2024,Nevada (32),Yes,414
+chlamydia,Chlamydia,2024,Nevada (32),No,31965
+chlamydia,Chlamydia,2024,New Hampshire (33),Yes,82
+chlamydia,Chlamydia,2024,New Hampshire (33),No,11658
+chlamydia,Chlamydia,2024,New Hampshire (33),Unknown or Not Stated,30
+chlamydia,Chlamydia,2024,New Jersey (34),Yes,1332
+chlamydia,Chlamydia,2024,New Jersey (34),No,99514
+chlamydia,Chlamydia,2024,New Jersey (34),Unknown or Not Stated,526
+chlamydia,Chlamydia,2024,New Mexico (35),Yes,329
+chlamydia,Chlamydia,2024,New Mexico (35),No,20908
+chlamydia,Chlamydia,2024,New Mexico (35),Unknown or Not Stated,91
+chlamydia,Chlamydia,2024,New York (36),Yes,2396
+chlamydia,Chlamydia,2024,New York (36),No,201568
+chlamydia,Chlamydia,2024,New York (36),Unknown or Not Stated,1525
+chlamydia,Chlamydia,2024,North Carolina (37),Yes,2407
+chlamydia,Chlamydia,2024,North Carolina (37),No,120437
+chlamydia,Chlamydia,2024,North Carolina (37),Unknown or Not Stated,12
+chlamydia,Chlamydia,2024,North Dakota (38),Yes,106
+chlamydia,Chlamydia,2024,North Dakota (38),No,9528
+chlamydia,Chlamydia,2024,Ohio (39),Yes,3119
+chlamydia,Chlamydia,2024,Ohio (39),No,123584
+chlamydia,Chlamydia,2024,Ohio (39),Unknown or Not Stated,92
+chlamydia,Chlamydia,2024,Oklahoma (40),Yes,877
+chlamydia,Chlamydia,2024,Oklahoma (40),No,47072
+chlamydia,Chlamydia,2024,Oklahoma (40),Unknown or Not Stated,13
+chlamydia,Chlamydia,2024,Oregon (41),Yes,561
+chlamydia,Chlamydia,2024,Oregon (41),No,38402
+chlamydia,Chlamydia,2024,Pennsylvania (42),Yes,2012
+chlamydia,Chlamydia,2024,Pennsylvania (42),No,123257
+chlamydia,Chlamydia,2024,Pennsylvania (42),Unknown or Not Stated,2030
+chlamydia,Chlamydia,2024,Rhode Island (44),Yes,123
+chlamydia,Chlamydia,2024,Rhode Island (44),No,9874
+chlamydia,Chlamydia,2024,Rhode Island (44),Unknown or Not Stated,12
+chlamydia,Chlamydia,2024,South Carolina (45),Yes,1647
+chlamydia,Chlamydia,2024,South Carolina (45),No,56859
+chlamydia,Chlamydia,2024,South Carolina (45),Unknown or Not Stated,262
+chlamydia,Chlamydia,2024,South Dakota (46),Yes,270
+chlamydia,Chlamydia,2024,South Dakota (46),No,11157
+chlamydia,Chlamydia,2024,South Dakota (46),Unknown or Not Stated,24
+chlamydia,Chlamydia,2024,Tennessee (47),Yes,1952
+chlamydia,Chlamydia,2024,Tennessee (47),No,81877
+chlamydia,Chlamydia,2024,Texas (48),Yes,6977
+chlamydia,Chlamydia,2024,Texas (48),No,381471
+chlamydia,Chlamydia,2024,Texas (48),Unknown or Not Stated,2380
+chlamydia,Chlamydia,2024,Utah (49),Yes,298
+chlamydia,Chlamydia,2024,Utah (49),No,46365
+chlamydia,Chlamydia,2024,Vermont (50),Yes,41
+chlamydia,Chlamydia,2024,Vermont (50),No,4982
+chlamydia,Chlamydia,2024,Virginia (51),Yes,1303
+chlamydia,Chlamydia,2024,Virginia (51),No,92745
+chlamydia,Chlamydia,2024,Washington (53),Yes,1134
+chlamydia,Chlamydia,2024,Washington (53),No,81741
+chlamydia,Chlamydia,2024,Washington (53),Unknown or Not Stated,243
+chlamydia,Chlamydia,2024,West Virginia (54),Yes,193
+chlamydia,Chlamydia,2024,West Virginia (54),No,16824
+chlamydia,Chlamydia,2024,Wisconsin (55),Yes,881
+chlamydia,Chlamydia,2024,Wisconsin (55),No,58412
+chlamydia,Chlamydia,2024,Wisconsin (55),Unknown or Not Stated,393
+chlamydia,Chlamydia,2024,Wyoming (56),Yes,91
+chlamydia,Chlamydia,2024,Wyoming (56),No,5996
